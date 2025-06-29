@@ -1,0 +1,289 @@
+Sección A: Entendiendo el Negocio y Producto/Servicio (Tusdatos.co)
+
+
+
+1. Propuesta de Valor Central: Más allá de "validar antecedentes", ¿cuál es el resultado principal que ofreces?: Tranquilidad en el cumplimiento ya que tiene un alto alcance debido a la cantidad de fuentes que consulta el sistema de la empresa y que estas fuentes consultadas son las principales para cumplir con las normas de validación, aumento de la confiabilidad ya que entregamos la evidencia que demuestra que se consultaron las fuentes originales en tiempo real y en las fuentes que no se obtiene la evidencia se hace una validación tanto por nombre como por documento, Eficiencia operativa en procesos de vinculación ya que entregamos la información en un promedio de 60 segundos e incluso se puede hacer consultas en lote de hasta 1000 consultas a la vez, además la herramienta cuenta con funcionalidades que permiten administrar mejor la información y la gestión de los usuarios que requieren hacer consultas.
+
+2. Problemas Clave que Resuelven: ¿Cuáles son los 3-5 problemas más dolorosos y específicos que Tusdatos.co resuelve para sus clientes?:
+
+a. Sanciones por incumplimiento.
+
+b. Procesos manuales lentos.
+
+c. Alcance, no se alcanzan a verificar todas las fuentes.
+
+d. Cuando se hace la labor de validación es difícil recopilar las evidencias y tenerlas guardadas e. Durante mucho tiempo.
+
+5. Riesgo de confiabilidad en la información recibida
+
+
+
+3. Diferenciadores Críticos: Frente a otras formas de validación (manual, otros proveedores), ¿cuáles son los 2-3 diferenciadores más importantes que un vendedor debe destacar en la etapa EVA?:
+
+a. Amplitud de fuentes consultadas
+
+b. Rapidez del reporte
+
+c. Facilidad de integración API
+
+d. Funcionalidades como entrega de las evidencias
+
+e. Experiencia de usuario (Con funciones como personalización en la categorización de hallazgos, comentarios, detalles de los hallazgos)
+
+
+
+4. Segmentación de Servicios: ¿Existen diferentes "paquetes" o niveles de servicio (Ej: consulta persona natural vs. empresa, consulta básica vs. full, API vs. plataforma)?: Si, existen más planes diferentes al plan cumplimiento que envié en el PDF, adjuntaré la propuesta de otro plan el cual es de validación, es mucho más robusto en cantidad de fuentes ya que incluye la misma cantidad de fuentes y funcionalidades más otras fuentes más enfocadas a contratación de personal. ¿Cómo impacta esto en la conversación de evaluación? Impacta en el perfilamiento del clientes ya que define si requieres solo consultar fuentes enfocadas al cumplimiento normativo o si además de ello requiere validación de personal en proceso de contratación.
+
+
+
+5. "Cliente Exitoso": ¿Cómo describirías a un cliente que obtiene el máximo valor de Tusdatos.co? ¿Qué características tiene y qué resultados logra?
+
+
+
+Mayor seguridad y tranquilidad: una vez que el cliente elige una solución confiable, experimenta una sensación de mayor seguridad en su negocio y disminuye su preocupación por el fraude y la seguridad.
+
+
+
+Mayor confianza en su elección: al superar la dificultad de elegir la solución correcta, nuestro cliente gana confianza en sus habilidades de toma de decisiones y en la elección que ha realizado.
+
+
+
+Seguridad y actualización empresarial: cuando el cliente adopta nuestra herramienta adaptada a las necesidades específicas de su empresa, está en una mejor posición para lograr un éxito empresarial y mantenerse competitivo en su industria.
+
+
+
+Supera la preocupación por la seguridad y el fraude: el cliente ya no necesita invertir mayor tiempo y recursos en realizar las validaciones para a mitigar estos riesgos a la hora de vincularse con personas o empresas.
+
+
+
+Lidiar con la sobrecarga de información: El cliente ya no necesita esforzarse por filtrar y entender la gran cantidad de información que necesita recopilar de las personas que valida.
+
+
+
+Tomar decisiones difíciles: el cliente tendrá una herramienta a la mano que le brindará información asertiva para poder tomar decisiones de si vincularse o no con una persona o emrpesa.
+
+
+
+Sección B: Perfil de Cliente Ideal (ICP) y Personas Compradoras
+
+
+
+6. Industrias Prioritarias: ¿Qué sectores o industrias son el foco principal? 
+
+a. Transporte
+
+b. Financiero
+
+c. RRHH
+
+d. MInería y derivados
+
+e. Consultoría
+
+f. Seguridad
+
+g. Comercio al por mayor o al por menor
+
+*Todas son igual de importantes
+
+
+
+7. Tamaño y Tipo de Empresa: ¿Hay un tamaño de empresa (facturación, empleados) o tipo (startup, PyME, grande corporación) donde Tusdatos.co genera más impacto?
+
+Tenemos clientes de todos los tamaños de empresas, particularmente generamos mayor cantidad de ventas en empresas pequeñas y menos cantidad conforme aumenta el tamaño de la empresa (Como suele suceder en algunas insutrias). Algo que si es particular es que empresas que tienen activos o patrimonio superior a los 30.000 salarios mínimos legales vigentes en Colombia están obligadas por el gobierno a cumplir normativas LAFT y esto implica contar herramientas y servicios como los que ofrecemos.
+
+
+
+8. Roles Clave (Personas): Dentro de las empresas cliente, ¿quiénes son los interlocutores más comunes en la etapa EVA? ¿Qué le importa más a cada uno de estos roles (aproximadamente)?
+
+a. Gerente de Riesgos: El alcance en fuentes y las funcionalidades de gobierno de la herramienta, en menor medida pero igual presente el precio.
+
+b. Oficial de Cumplimiento: El alcance y las funcionalidades de usuario, además la experiencia de usuario.
+
+c. Gerente de RRHH: El alcance en fuentes relacionadas a contratación y las funcionalidades de usuario. 
+
+d. Director de Operaciones: El alcance en fuentes relacionadas a empresas
+
+e. Gerente de Compras: El precio y el cumplimiento mínimo de requisitos solicitados por las otras áreas.
+
+
+
+9. Disparadores de Compra (Triggers): ¿Qué eventos o situaciones suelen llevar a una empresa a buscar una solución como Tusdatos.co?
+
+a. Requerimiento normativo nuevo, ej: Hay una nueva normativa en la cual muchas entidades vinculadas a la indutria de transporte deben cumplir con SARLAFT
+
+b. Incidente de fraude reciente. Ej: Se vinculó a una persona que luego tuvo hallazgos que vinculadon a la empresa con riesgo LAFT
+
+c. Crecimiento rápido. Ej: Cuando una empresa cumple con el mínimo de activos/patrimonio para estar obligada.
+
+d. Necesidad de automatizar procesos. Ej: Cuando se han hecho procesos manuales y esto ha implicado que una sola persona esté completamente dedidada a una tarea que puede hacer la herramienta.
+
+e. Auditoría. Ej: Cuando se evidencia que no se fue completamente diligente con la tarea y en la uditoría se identifica que hay huecos en la labor y por ende se hace necesaria una herramienta que facilite las cosas.
+
+
+
+10. Alternativas Consideradas: Además de competidores directos, ¿qué otras alternativas usan o consideran los prospectos?
+
+a. Procesos manuales internos. Porque notan que aun no cuesta tanto como para justificar la inversión de adquirir el servicio.
+
+b. Desarrollo propio
+
+c. No hacer nada/Aceptar el riesgo. Ej: Cuando aun no están obligados.
+
+
+
+Sección C: Proceso de Ventas Actual y la Etapa EVA
+
+
+
+11. Eficacia del Modelo EVA Actual: Refiriéndonos al documento "Evaluación de la venta":¿Qué tan bien ejecutan los vendedores actualmente los "Gatilhos de Eva" 
+
+a. mapeo de contexto: Tienen una calificación 7 de 10
+
+b. problemas: Tienen calificación 8 de 10
+
+c. objetivos: Tienen una califiación 8 de 10
+
+d. desafíos: Tienen una califiación 6 de 10
+
+e. toma de decisión: Tienen una calificación 5 de 10 
+
+f. presupuesto: Tenen una calificación 7 de 10
+
+g. tiempo: Tienen una calificación 6 de 10
+
+h. próximos pasos: Tienen una calificación 7 de 10
+
+
+
+¿Qué tan efectivo es el enfoque de "hacer doler el problema"? Podría decir que un 7 de 10 ¿Dónde fallan más los vendedores en este aspecto? en hacer las preguntas problema correcta
+
+¿Se utiliza consistentemente el framework SPICED o similar? NO al nivel que se quisiera
+
+
+
+¿Qué tan efectivas son las "Ejemplo de Preguntas EVA" sugeridas en el documento? ¿Se usan?
+
+Si pero no constantemente, no siemepre dirigen la conversación hacia ellas
+
+
+
+12. Objetivo Mínimo y Óptimo de EVA: ¿Cuál es el resultado mínimo indispensable que un vendedor debe lograr en la reunión EVA para poder avanzar? ¿Y cuál sería el resultado óptimo?:
+
+a. Deben tener claro cual es el plan que mejor se adapte a las necesidades del cliente en reunión
+
+b. Deben tener claro cual es la proyección de consultas que requerirán hacer en un año
+
+c. Deben tener claro cual es el proceso de contratación detallado que tiene el cliente para con sus proveedores
+
+d. Debe tener claro cuales son los principales dolores del cliente, cuales podemos solucionar totalmente, cuales parcialmente y cuales no.
+
+e. Debe tener claro las objeciones del cliente, cuales podemos resolver y cuales no.
+
+Debe tener claro cual es el proceso de decisión quien o quienes son los domadores de decisión, en que momento tomarán la decisión y en que se basan para tomarla.
+
+
+
+
+
+13. Calificación (Adaptación BANT/MEDDIC/SPICED):Necesidad/Dolor (Need/Pain): ¿Cómo definen actualmente un "dolor" suficientemente fuerte para justificar la inversión en Tusdatos.co?:
+
+a. Cuando ya han ganado multas o es posible que ganen multas por una mala gestión en la validación.
+
+b. Cuando el proceso esta tardando tanto tiempo que ya varios miembros del equipo del cliente expresan la necesidad de apoyo.
+
+c. Cuando está costanto más no tener una herramienta que comprarla.
+
+
+
+
+
+Impacto Cuantificable (Metrics/Impact): ¿Ayudan los vendedores a los prospectos a cuantificar el impacto negativo del problema (costo del riesgo, tiempo perdido, etc.) o el impacto positivo de la solución (ROI)? No completamente ¿Cómo se podría mejorar esto? identificando cuantas personas se requiere para hacer el proceso, cuanto tiempo en horas o días tarda en cumplirse la tarea, cuantas fuentes se consultan o dejan de consultar, cuantos errores han susedido por causa de la herramienta actual o la manualidad
+
+
+
+Autoridad/Proceso Decisión (Authority/Decision Process/Champion): ¿Qué tan bien se mapea el proceso de decisión y se identifica al comprador económico y al posible campeón interno en la EVA? Es una de las cosas que más debemos mejorar en el proceso actual
+
+
+
+Presupuesto (Budget/Money): ¿Cómo se aborda la validación de presupuesto en la EVA? ¿Es un punto de fricción común? No realmente, si hay presencia de casos en que el presupuesto es importante pero en la mayoría de casos el cliente si identifica el valor del producto y está dispuesto a pagar por el, un reto con el que si no hemos logrado tener un gran avance es que nuestro servicio funciona por "paquetes" es decir se ofrece un paquete con una determinada cantidad de  consultas a consumir y este puede utilizarse durante dos años, algunos competidores ofrecen paquetes "ilimiatados" (Aunque no con el mismo alcance en fuentes de información) pero esto hace que algunos clientes persivan un mayor valor al no preocuparse por la cantidad de consultas que realicen.
+
+
+
+Tiempo/Evento Crítico (Timing/Critical Event): ¿Cómo se explora la urgencia o el cronograma de implementación? Es uno de los mayores retos que actualmente tenemos ya que nuestro modelo comercial no cuenta con herramientas como promociones o escacez del producto para generar urgencia y tampoco hay un alto interés por parte nuestra en competir por precio.
+
+
+
+14. Creación del MAP (Mutual Action Plan): El documento lo menciona. ¿Se crean consistentemente planes de acción mutuos al final de la EVA? Si, pero necesitamos mejorar en este proceso ¿Qué tan efectivos son? Cuando se logra realizar un MAP efectivo suelen ser muy útilces para lograr le cierre.
+
+
+
+15. Herramientas y CRM: ¿Cómo se registra la información de la EVA en el CRM actual? ¿Qué campos son obligatorios? ¿Se puede integrar el playbook o partes de él en el CRM? Si, parte de los objetivos de lo que estamos haciendo ahora es integrar este Playbook con el CRM HubSpot.
+
+
+
+16. Desafíos Persistentes en EVA: ¿Cuáles son los 2-3 mayores obstáculos o errores que aún enfrentan los vendedores en esta etapa, a pesar del entrenamiento existente? 
+
+Lograr un correcto MAP y generar urgencia en la venta y no identificar completamente el caso de uso y algunas necesidades del cliente son los principales retos. También en ocasiones no entender si es una real oportunidad o no cuando se tiene la reunión con el cliente
+
+
+
+17. Contenido en EVA: ¿Qué materiales (presentaciones cortas, one-pagers, mini-casos de éxito) serían más útiles durante o inmediatamente después de la reunión EVA?
+
+Actualmente tenemos una presentación con la propuesta de valor, quisiera que la consideraras en el proceso que estamos llevando para definir el playbook. La adjunto. 
+
+
+
+Sección D: Objetivos y Expectativas del Nuevo Playbook
+
+
+
+18. Objetivo Principal: Si este nuevo playbook lograra mejorar UNA SOLA COSA en la etapa EVA, ¿cuál sería la más importante? 
+
+Que los consultores tengan presente todo los elementos el EVA y no dejen por fuera algún elemento relevante en cada caso por presentar la solución
+
+
+
+19. Comportamientos Específicos a Fomentar: ¿Qué 3 comportamientos clave quieres ver más en tus vendedores durante la EVA gracias a este playbook? 
+
+
+
+Primero hacer conciencia al consultor de todas las etapas, suele suceder que no consideramos todo el panorama en una reunión con un cliente por temas de tiempo, quisiera que fueran reuniones más eficientes. Como complementeo utilizar la escucha activa reflejando el dolor del cliente y Co-crear un MAP detallado con el prospecto.
+
+
+
+20. Métricas de Éxito del Playbook: ¿Cómo mediremos el éxito de este playbook? (Selecciona 2-3 métricas clave de las mencionadas anteriormente o sugiere otras: 
+
+a. Calidad de info en CRM
+
+b. Disminución en el tiempo de Ciclo de venta
+
+c. Win rate de oportunidades que usaron el playbook
+
+
+
+21. Adopción y Mantenimiento: ¿Cómo visualizas la implementación y el coaching continuo para este playbook? ¿Quién será el responsable de mantenerlo actualizado? El coordinador de estrategia comercial y la gerente comercial
+
+
+
+Sección E: Referencia a los Documentos Adjuntos
+
+
+
+Documento 1 (Ejemplo Entregable): ¿Qué elementos clave de este reporte deberían los vendedores entender o poder mencionar (si aplica) en la etapa EVA para generar credibilidad o ilustrar el valor? 
+
+En caso de que el cliente lo solicite el consultor puede mostrar parte de este reporte para aclarar como sería la entrega de la información, también se menciona que este documento se envía junto con el correo donde se envía la propuesta
+
+
+
+Documento 2 (Evaluación de la venta): ¿Qué conceptos o herramientas de este entrenamiento interno son fundamentales y deben ser reforzados o refinados en el nuevo playbook? ¿Hay algo que deba eliminarse o cambiarse? Por ahora no veo nada que deba cambiarse si hay algo que consideres agradezco que lo menciones y la explicación.
+
+
+
+Documento 3 (Plantilla Propuesta): ¿Qué beneficios o mensajes clave de esta propuesta son más relevantes para introducir sutilmente o validar durante la conversación de EVA?
+
+Las fuentes consultadas y funcionalidades.
+
+
+
+Como mencioné anteriormente también quiero que se consideren los dos documetos adjuntos en este mensaje.

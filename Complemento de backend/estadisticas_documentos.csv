@@ -1,0 +1,11 @@
+,sentencias,longitud,longitud,longitud,longitud
+,count,mean,std,min,max
+path,,,,,
+Base de datos para herramienta\promt.txt,94,156.05,146.76,11,920
+Base de datos para herramienta\txt_extraidos\Ejemplo de entregable al cliente de consulta a persona natural plan cumplimiento.txt,58,593.62,739.09,25,2948
+Base de datos para herramienta\txt_extraidos\Evaluación de la venta.txt,35,115.23,87.88,18,541
+Base de datos para herramienta\txt_extraidos\PROPUESTA DE VALOR.txt,4,259.0,468.07,14,961
+Base de datos para herramienta\txt_extraidos\Plantilla propuesta cumplimiento.txt,49,170.2,122.63,9,618
+Base de datos para herramienta\txt_extraidos\Plantilla propuesta validación.txt,37,133.54,245.92,8,1239
+Base de datos para herramienta\txt_extraidos\Playbook de Evaluación (EVA) - Tusdatos.co.txt,308,149.12,92.5,10,458
+nuevo.txt,2,17.0,0.0,17,17

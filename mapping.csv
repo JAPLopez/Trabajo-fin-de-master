@@ -1,0 +1,12638 @@
+idx,sentencias
+0,"Sección A: Entendiendo el Negocio y Producto/Servicio (Tusdatos.co)
+
+
+
+1."
+1,"Propuesta de Valor Central: Más allá de ""validar antecedentes"", ¿cuál es el resultado principal que ofreces?: Tranquilidad en el cumplimiento ya que tiene un alto alcance debido a la cantidad de fuentes que consulta el sistema de la empresa y que estas fuentes consultadas son las principales para cumplir con las normas de validación, aumento de la confiabilidad ya que entregamos la evidencia que demuestra que se consultaron las fuentes originales en tiempo real y en las fuentes que no se obtiene la evidencia se hace una validación tanto por nombre como por documento, Eficiencia operativa en procesos de vinculación ya que entregamos la información en un promedio de 60 segundos e incluso se puede hacer consultas en lote de hasta 1000 consultas a la vez, además la herramienta cuenta con funcionalidades que permiten administrar mejor la información y la gestión de los usuarios que requieren hacer consultas.
+
+2."
+2,"Problemas Clave que Resuelven: ¿Cuáles son los 3-5 problemas más dolorosos y específicos que Tusdatos.co resuelve para sus clientes?:
+
+a. Sanciones por incumplimiento."
+3,b. Procesos manuales lentos.
+4,"c. Alcance,"
+5,no se alcanzan a verificar todas las fuentes.
+6,"Cuando se hace la labor de validación es difícil recopilar las evidencias y tenerlas guardadas e. Durante mucho tiempo.
+
+5."
+7,"Riesgo de confiabilidad en la información recibida
+
+
+
+3."
+8,"Diferenciadores Críticos: Frente a otras formas de validación (manual, otros proveedores), ¿cuáles son los 2-3 diferenciadores más importantes que un vendedor debe destacar en la etapa EVA?:
+
+a. Amplitud de fuentes consultadas
+
+b. Rapidez del reporte
+
+c. Facilidad de integración API
+
+d. Funcionalidades como entrega de las evidencias
+
+e. Experiencia de usuario (Con funciones como personalización en la categorización de hallazgos, comentarios, detalles de los hallazgos)
+
+
+
+4."
+9,"Segmentación de Servicios: ¿Existen diferentes ""paquetes"" o niveles de servicio (Ej: consulta persona natural vs."
+10,"empresa, consulta básica vs."
+11,"full, API vs."
+12,plataforma)?
+13,": Si, existen más planes diferentes al plan cumplimiento que envié en el PDF, adjuntaré la propuesta de otro plan el cual es de validación, es mucho más robusto en cantidad de fuentes ya que incluye la misma cantidad de fuentes y funcionalidades más otras fuentes más enfocadas a contratación de personal."
+14,¿Cómo impacta esto en la conversación de evaluación?
+15,"Impacta en el perfilamiento del clientes ya que define si requieres solo consultar fuentes enfocadas al cumplimiento normativo o si además de ello requiere validación de personal en proceso de contratación.
+
+
+
+5."
+16,"""Cliente Exitoso"": ¿Cómo describirías a un cliente que obtiene el máximo valor de Tusdatos.co?"
+17,¿Qué características tiene y qué resultados logra?
+18,"Mayor seguridad y tranquilidad: una vez que el cliente elige una solución confiable, experimenta una sensación de mayor seguridad en su negocio y disminuye su preocupación por el fraude y la seguridad."
+19,"Mayor confianza en su elección: al superar la dificultad de elegir la solución correcta, nuestro cliente gana confianza en sus habilidades de toma de decisiones y en la elección que ha realizado."
+20,"Seguridad y actualización empresarial: cuando el cliente adopta nuestra herramienta adaptada a las necesidades específicas de su empresa, está en una mejor posición para lograr un éxito empresarial y mantenerse competitivo en su industria."
+21,Supera la preocupación por la seguridad y el fraude: el cliente ya no necesita invertir mayor tiempo y recursos en realizar las validaciones para a mitigar estos riesgos a la hora de vincularse con personas o empresas.
+22,Lidiar con la sobrecarga de información: El cliente ya no necesita esforzarse por filtrar y entender la gran cantidad de información que necesita recopilar de las personas que valida.
+23,"Tomar decisiones difíciles: el cliente tendrá una herramienta a la mano que le brindará información asertiva para poder tomar decisiones de si vincularse o no con una persona o emrpesa.
+
+
+
+Sección B: Perfil de Cliente Ideal (ICP) y Personas Compradoras
+
+
+
+6."
+24,"Industrias Prioritarias: ¿Qué sectores o industrias son el foco principal? 
+
+a."
+25,"Transporte
+
+b. Financiero
+
+c. RRHH
+
+d. MInería y derivados
+
+e. Consultoría
+
+f. Seguridad
+
+g. Comercio al por mayor o al por menor
+
+*Todas son igual de importantes
+
+
+
+7."
+26,"Tamaño y Tipo de Empresa: ¿Hay un tamaño de empresa (facturación, empleados) o tipo (startup, PyME, grande corporación) donde Tusdatos.co genera más impacto?
+
+Tenemos clientes de todos los tamaños de empresas, particularmente generamos mayor cantidad de ventas en empresas pequeñas y menos cantidad conforme aumenta el tamaño de la empresa (Como suele suceder en algunas insutrias)."
+27,"Algo que si es particular es que empresas que tienen activos o patrimonio superior a los 30.000 salarios mínimos legales vigentes en Colombia están obligadas por el gobierno a cumplir normativas LAFT y esto implica contar herramientas y servicios como los que ofrecemos.
+
+
+
+8."
+28,"Roles Clave (Personas): Dentro de las empresas cliente, ¿quiénes son los interlocutores más comunes en la etapa EVA?"
+29,¿Qué le importa más a cada uno de estos roles (aproximadamente)?
+30,"a. Gerente de Riesgos: El alcance en fuentes y las funcionalidades de gobierno de la herramienta, en menor medida pero igual presente el precio."
+31,"b. Oficial de Cumplimiento: El alcance y las funcionalidades de usuario, además la experiencia de usuario."
+32,c. Gerente de RRHH: El alcance en fuentes relacionadas a contratación y las funcionalidades de usuario.
+33,"d. Director de Operaciones: El alcance en fuentes relacionadas a empresas
+
+e. Gerente de Compras: El precio y el cumplimiento mínimo de requisitos solicitados por las otras áreas."
+34,Disparadores de Compra (Triggers): ¿Qué eventos o situaciones suelen llevar a una empresa a buscar una solución como Tusdatos.co?
+35,"a. Requerimiento normativo nuevo, ej: Hay una nueva normativa en la cual muchas entidades vinculadas a la indutria de transporte deben cumplir con SARLAFT
+
+b. Incidente de fraude reciente."
+36,"Ej: Se vinculó a una persona que luego tuvo hallazgos que vinculadon a la empresa con riesgo LAFT
+
+c. Crecimiento rápido."
+37,Ej: Cuando una empresa cumple con el mínimo de activos/patrimonio para estar obligada.
+38,d. Necesidad de automatizar procesos.
+39,Ej: Cuando se han hecho procesos manuales y esto ha implicado que una sola persona esté completamente dedidada a una tarea que puede hacer la herramienta.
+40,e. Auditoría.
+41,"Ej: Cuando se evidencia que no se fue completamente diligente con la tarea y en la uditoría se identifica que hay huecos en la labor y por ende se hace necesaria una herramienta que facilite las cosas.
+
+
+
+10."
+42,"Alternativas Consideradas: Además de competidores directos, ¿qué otras alternativas usan o consideran los prospectos?
+
+a. Procesos manuales internos."
+43,Porque notan que aun no cuesta tanto como para justificar la inversión de adquirir el servicio.
+44,"b. Desarrollo propio
+
+c. No hacer nada/Aceptar el riesgo."
+45,"Ej: Cuando aun no están obligados.
+
+
+
+Sección C: Proceso de Ventas Actual y la Etapa EVA
+
+
+
+11."
+46,"Eficacia del Modelo EVA Actual: Refiriéndonos al documento ""Evaluación de la venta"":¿Qué tan bien ejecutan los vendedores actualmente los ""Gatilhos de Eva"" 
+
+a. mapeo de contexto: Tienen una calificación 7 de 10
+
+b. problemas: Tienen calificación 8 de 10
+
+c. objetivos: Tienen una califiación 8 de 10
+
+d. desafíos: Tienen una califiación 6 de 10
+
+e. toma de decisión: Tienen una calificación 5 de 10 
+
+f. presupuesto: Tenen una calificación 7 de 10
+
+g. tiempo: Tienen una calificación 6 de 10
+
+h. próximos pasos: Tienen una calificación 7 de 10
+
+
+
+¿Qué tan efectivo es el enfoque de ""hacer doler el problema""?"
+47,Podría decir que un 7 de 10 ¿Dónde fallan más los vendedores en este aspecto?
+48,"en hacer las preguntas problema correcta
+
+¿Se utiliza consistentemente el framework SPICED o similar?"
+49,"NO al nivel que se quisiera
+
+
+
+¿Qué tan efectivas son las ""Ejemplo de Preguntas EVA"" sugeridas en el documento?"
+50,"¿Se usan?
+
+Si pero no constantemente, no siemepre dirigen la conversación hacia ellas
+
+
+
+12."
+51,Objetivo Mínimo y Óptimo de EVA: ¿Cuál es el resultado mínimo indispensable que un vendedor debe lograr en la reunión EVA para poder avanzar?
+52,¿Y cuál sería el resultado óptimo?:
+53,a. Deben tener claro cual es el plan que mejor se adapte a las necesidades del cliente en reunión
+54,"b. Deben tener claro cual es la proyección de consultas que requerirán hacer en un año
+
+c. Deben tener claro cual es el proceso de contratación detallado que tiene el cliente para con sus proveedores
+
+d. Debe tener claro cuales son los principales dolores del cliente, cuales podemos solucionar totalmente, cuales parcialmente y cuales no."
+55,"e. Debe tener claro las objeciones del cliente, cuales podemos resolver y cuales no."
+56,"Debe tener claro cual es el proceso de decisión quien o quienes son los domadores de decisión, en que momento tomarán la decisión y en que se basan para tomarla.
+
+
+
+
+
+13."
+57,"Calificación (Adaptación BANT/MEDDIC/SPICED):Necesidad/Dolor (Need/Pain): ¿Cómo definen actualmente un ""dolor"" suficientemente fuerte para justificar la inversión en Tusdatos.co?:
+
+a. Cuando ya han ganado multas o es posible que ganen multas por una mala gestión en la validación."
+58,b. Cuando el proceso esta tardando tanto tiempo que ya varios miembros del equipo del cliente expresan la necesidad de apoyo.
+59,Cuando está costanto más no tener una herramienta que comprarla.
+60,"Impacto Cuantificable (Metrics/Impact): ¿Ayudan los vendedores a los prospectos a cuantificar el impacto negativo del problema (costo del riesgo, tiempo perdido, etc.) o el impacto positivo de la solución (ROI)?"
+61,No completamente ¿Cómo se podría mejorar esto?
+62,"identificando cuantas personas se requiere para hacer el proceso, cuanto tiempo en horas o días tarda en cumplirse la tarea, cuantas fuentes se consultan o dejan de consultar, cuantos errores han susedido por causa de la herramienta actual o la manualidad
+
+
+
+Autoridad/Proceso Decisión (Authority/Decision Process/Champion): ¿Qué tan bien se mapea el proceso de decisión y se identifica al comprador económico y al posible campeón interno en la EVA?"
+63,"Es una de las cosas que más debemos mejorar en el proceso actual
+
+
+
+Presupuesto (Budget/Money): ¿Cómo se aborda la validación de presupuesto en la EVA?"
+64,¿Es un punto de fricción común?
+65,"No realmente, si hay presencia de casos en que el presupuesto es importante pero en la mayoría de casos el cliente si identifica el valor del producto y está dispuesto a pagar por el, un reto con el que si no hemos logrado tener un gran avance es que nuestro servicio funciona por ""paquetes"" es decir se ofrece un paquete con una determinada cantidad de  consultas a consumir y este puede utilizarse durante dos años, algunos competidores ofrecen paquetes ""ilimiatados"" (Aunque no con el mismo alcance en fuentes de información) pero esto hace que algunos clientes persivan un mayor valor al no preocuparse por la cantidad de consultas que realicen."
+66,Tiempo/Evento Crítico (Timing/Critical Event):
+67,¿Cómo se explora la urgencia o el cronograma de implementación?
+68,Es uno de los mayores retos que actualmente tenemos ya que nuestro modelo comercial no cuenta con herramientas como promociones o escacez del producto para generar urgencia y tampoco hay un alto interés por parte nuestra en competir por precio.
+69,Creación del MAP (Mutual Action Plan): El documento lo menciona.
+70,¿Se crean consistentemente planes de acción mutuos al final de la EVA?
+71,"Si, pero necesitamos mejorar en este proceso ¿Qué tan efectivos son?"
+72,"Cuando se logra realizar un MAP efectivo suelen ser muy útilces para lograr le cierre.
+
+
+
+15."
+73,Herramientas y CRM: ¿Cómo se registra la información de la EVA en el CRM actual? ¿Qué campos son obligatorios?
+74,¿Se puede integrar el playbook o partes de él en el CRM?
+75,"Si, parte de los objetivos de lo que estamos haciendo ahora es integrar este Playbook con el CRM HubSpot."
+76,"Desafíos Persistentes en EVA: ¿Cuáles son los 2-3 mayores obstáculos o errores que aún enfrentan los vendedores en esta etapa, a pesar del entrenamiento existente? 
+
+Lograr un correcto MAP y generar urgencia en la venta y no identificar completamente el caso de uso y algunas necesidades del cliente son los principales retos."
+77,"También en ocasiones no entender si es una real oportunidad o no cuando se tiene la reunión con el cliente
+
+
+
+17."
+78,"Contenido en EVA: ¿Qué materiales (presentaciones cortas, one-pagers, mini-casos de éxito) serían más útiles durante o inmediatamente después de la reunión EVA?"
+79,"Actualmente tenemos una presentación con la propuesta de valor, quisiera que la consideraras en el proceso que estamos llevando para definir el playbook."
+80,La adjunto.
+81,"Sección D: Objetivos y Expectativas del Nuevo Playbook
+
+
+
+18."
+82,"Objetivo Principal: Si este nuevo playbook lograra mejorar UNA SOLA COSA en la etapa EVA, ¿cuál sería la más importante? 
+
+Que los consultores tengan presente todo los elementos el EVA y no dejen por fuera algún elemento relevante en cada caso por presentar la solución
+
+
+
+19."
+83,Como complementeo utilizar la escucha activa reflejando el dolor del cliente y Co-crear un MAP detallado con el prospecto.
+84,"Métricas de Éxito del Playbook: ¿Cómo mediremos el éxito de este playbook? (Selecciona 2-3 métricas clave de las mencionadas anteriormente o sugiere otras: 
+
+a. Calidad de info en CRM
+
+b. Disminución en el tiempo de Ciclo de venta
+
+c. Win rate de oportunidades que usaron el playbook
+
+
+
+21."
+85,Adopción y Mantenimiento: ¿Cómo visualizas la implementación y el coaching continuo para este playbook?
+86,¿Quién será el responsable de mantenerlo actualizado?
+87,"El coordinador de estrategia comercial y la gerente comercial
+
+
+
+Sección E: Referencia a los Documentos Adjuntos
+
+
+
+Documento 1 (Ejemplo Entregable): ¿Qué elementos clave de este reporte deberían los vendedores entender o poder mencionar (si aplica) en la etapa EVA para generar credibilidad o ilustrar el valor?"
+88,"En caso de que el cliente lo solicite el consultor puede mostrar parte de este reporte para aclarar como sería la entrega de la información, también se menciona que este documento se envía junto con el correo donde se envía la propuesta
+
+
+
+Documento 2 (Evaluación de la venta): ¿Qué conceptos o herramientas de este entrenamiento interno son fundamentales y deben ser reforzados o refinados en el nuevo playbook?"
+89,¿Hay algo que deba eliminarse o cambiarse?
+90,Por ahora no veo nada que deba cambiarse si hay algo que consideres agradezco que lo menciones y la explicación.
+91,Documento 3 (Plantilla Propuesta): ¿Qué beneficios o mensajes clave de esta propuesta son más relevantes para introducir sutilmente o validar durante la conversación de EVA?
+92,Las fuentes consultadas y funcionalidades.
+93,Como mencioné anteriormente también quiero que se consideren los dos documetos adjuntos en este mensaje.
+94,"Información general
+Portal Anticorrupción de Colombia
+Registraduría Nacional del Estado Civil
+Ir a la evidencia
+Listas precargadas
+Julio Andres Puerta Lopez
+CC
+Estado
+Fecha
+expedición
+RUT
+RUT Estado
+Licencias de
+conducción
+Género
+Aprobado
+Fecha del
+Reporte
+1037634758
+Válida
+25/06/2012
+1037634758-
+0
+Registro
+activo
+A2: Activa,
+M
+2025-04-24
+Hallazgo
+Novedad
+Medio
+RUAF: Estado de aﬁliación a Pensiones: Inactivo
+Bajo
+RUAF: Estado de aﬁliación a salud: Contributivo
+Bajo
+RUAF: Tipo de aﬁliación a salud: COTIZANTE
+Bajo
+SIMIT: Tiene multas de tránsito."
+95,"Informativo
+RUNT: Cuenta con licencia de motos
+Informativo
+RUT: Inscrito en Registro Único Tributario
+Informativo
+SENA: Registra en la fuente
+Informativo
+Libreta Militar: Titular posee libreta militar: Reservista-2da Clase
+Sí: 
+No: 
+Comentarios
+Aún no hay comentarios
+La Fuente Pública PACO agrupa información de contratación pública, sanciones, 
+reportes y noticias sobre posibles hechos de corrupción."
+96,"Los registros
+presentados son de carácter netamente informativo."
+97,Te recomendamos analizar la información de acuerdo con el apetito de riesgo de la compañía.
+98,"Para
+más información haz 
+clic aquí."
+99,"No registra en la fuente
+ 
+Cédula
+1037634758
+Fecha De Expedición
+25 DE JUNIO DE 2012
+Lugar De Expedición
+ENVIGADO - ANTIOQUIA
+Nombre
+JULIO ANDRES PUERTA LOPEZ
+Estado
+VIGENTE
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+100,"El uso de la información y 
+sus decisiones resultantes son responsabilidad del usuario ﬁnal."
+101,"La 
+calidad del dato es atribuible a la fuente y no a
+Tusdatos.co."
+102,"Para 
+mayor certeza puede acudir directamente a la fuente pública que 
+ofrece la información."
+103,"Tusdatos.co no administra o gestiona las 
+fuentes de consulta."
+104,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+1
+ de 
+32
+www.tusdatos.co
+Listas precargadas, Búsqueda por Documento
+Listas vinculantes
+Department of State list of Foreign
+Terrorist Organizations FTO 
+Lista Departamento de Estado EEUU
+Organizaciones extranjeras terroristas FTO
+Registro no encontrado
+EU Consolidated list of sanctions 
+Lista Unión Europea de organizaciones
+terroristas
+Registro no encontrado
+EU Consolidated list of sanctions
+terrorism 
+Lista Unión Europea de personas catalogadas
+como terroristas
+Registro no encontrado
+UN Security council list 
+Lista Consejo de Seguridad de la ONU
+Registro no encontrado
+Listas restrictivas
+Lista Panama Papers 
+Lista personas y empresas vinculadas al
+escandalo Panama Papers
+Registro no encontrado
+The Arms Export Control Act (AECA)
+Ley de Control de Exportación de Armas
+(AECA)
+Registro no encontrado
+World Bank Listing of Ineligible
+Firms and Individuals 
+Empresas sancionadas Banco Mundial
+Registro no encontrado
+Comité de Sanciones del Grupo BID
+Comité BID empresas sancionadas por
+prácticas fraudulentas, corruptas, colusorias,
+coercitivas u obstructivas
+Registro no encontrado
+Consolidated Canadian
+Autonomous Sanctions List 
+Lista Consolidada de sanciones autonomas
+de Canada
+Registro no encontrado
+EEUU Denied Persons List BIS 
+Lista de Personas prohibidas a exportar EEUU
+Registro no encontrado
+EEUU Entity List BIS 
+Lista Entes prohibidos a recibir mercancias
+EEUU
+Registro no encontrado
+Foreign Corrupt Practices Act List
+EEUU 
+Lista Ley de Prácticas Corruptas en el
+Extranjero FCPA EEUU
+Registro no encontrado
+List of Foreign Financial
+Institutions Subject to
+Correspondent Account or Payable-
+Through Account Sanctions (CAPTA
+List) 
+Lista de Instituciones Financieras Extranjeras
+sujetas a Sanciones por Cuenta Corresponsal
+o Cuenta Pagadera (Lista CAPTA)
+Registro no encontrado
+OFAC Foreign Sanctions Evaders
+(FSE) List 
+OFAC Lista de evasores de sanciones
+extranjeras (FSE)
+Registro no encontrado
+UK HM Treasury sanctions list 
+Lista de entes sancionados Gran Bretaña
+Registro no encontrado
+OFAC Non-SDN Iranian Sanctions
+Act (NS-ISA) List 
+OFAC Lista de la Ley de sanciones iraníes no
+SDN (NS-ISA)
+Registro no encontrado
+Ofﬁce of Foreign Assets Control
+OFAC 
+OFAC Lista Clinton
+Registro no encontrado
+Lista OSFI Canada 
+Lista Ofﬁce of the Superintendent of Financial
+Institutions Canada
+Registro no encontrado
+OFAC Non-SDN Palestinian
+Legislative Council (NS-PLC) list 
+Lista del Consejo Legislativo Palestino no SDN
+(NS-PLC)
+Registro no encontrado
+OFAC Sectoral Sanctions
+Identiﬁcations (SSI) List 
+OFAC Lista de identiﬁcaciones de sancionadas
+sectoriales (SSI)
+Registro no encontrado
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+105,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+2
+ de 
+32
+www.tusdatos.co
+EEUU Unveriﬁed List BIS 
+Entes no elegibles para recibir artículos
+sujetos a las Regulaciones de la
+Administración de Exportaciones EEUU
+Registro no encontrado
+Ofﬁce of Foreign Assets Control
+OFAC 
+Lista de sancionados OFAC SDN
+Registro no encontrado
+OFAC Non-SDN consolidated
+sanctions list 
+Lista de sancionados OFAC Non-SDN
+Registro no encontrado
+OFAC Non-SDN Menu-Based
+Sanctions List (NS-MBS List) 
+OFAC Lista de sanciones basada en menús no
+SDN (Lista NS-MBS)
+Registro no encontrado
+Noticias criminales
+Noticias extraditados Corte
+Suprema de Justicia 
+Registro no encontrado
+Noticias Fiscalía General de la
+Nación LAFT 
+Registro no encontrado
+Noticias Policía Nacional LAFT
+Registro no encontrado
+Fugitivos Colombia 
+Lista de los más buscados en Colombia
+Registro no encontrado
+Noticias Presidencia LAFT 
+Registro no encontrado
+Actividades corruptas o illegales
+Insight Crime 
+Registro no encontrado
+Fugitivos DEA 
+Fugitivos más buscados por la DEA
+Registro no encontrado
+Lista de Personas y Grupos
+Terroristas Guardia Civil Española 
+Registro no encontrado
+Enviromental Protection Agency
+(EPA) Fugitives 
+Fugitivos Agencia de Protección del medio
+Ambiente EEUU (EPA)
+Registro no encontrado
+Interpol Red notices 
+Boletines Rojos Interpol
+Registro no encontrado
+CBI Most Wanted 
+CBI (Central Bureau of Investigation) más
+buscados
+Registro no encontrado
+DSS Most Wanted 
+DSS (Diplomatic Security Service) más
+buscados
+Registro no encontrado
+FBI Most Wanted 
+FBI (Federal Bureau of Investigation) más
+buscados
+Registro no encontrado
+ICE Most Wanted 
+ICE (Immigration and Customs Enforcement)
+más buscados
+Registro no encontrado
+UE EUROPOL Most Wanted 
+EUROPOL más buscados
+Registro no encontrado
+UK Most Wanted 
+Gran Bretaña más buscados
+Registro no encontrado
+Boletines
+Boletín de deudores de la
+Contraloría General de la nación 
+Deudores Contraloría general de la nación
+reporte trimestral
+Registro no encontrado
+Proveedores ﬁcticios DIAN 
+Registro no encontrado
+Contadores sancionados Junta
+Central de Contadores JCC 
+Contadores sancionados JCC
+Registro no encontrado
+Noticias Procuraduría General de la
+Nación 
+Registro no encontrado
+Entes Sancionados SECOP 
+Entes sancionados por contratación pública
+SECOP
+Registro no encontrado
+Boletines Superintendencia de
+Industria y Comercio 
+Registro no encontrado
+Boletines Superintendencia
+Financiera 
+Registro no encontrado
+Boletines Superintendencia de
+Sociedades 
+Registro no encontrado
+Boletines Superintendencia
+Solidaria 
+Registro no encontrado
+Figuras Públicas
+Figuras públicas Colombia 
+Registro no encontrado
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+106,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+3
+ de 
+32
+www.tusdatos.co
+Listas precargadas: Personas Expuestas Politicamente (PEPs), Búsqueda por
+Documento
+Listas precargadas, Búsqueda por Nombre
+Contratación Pública
+Grandes contratistas del estado en Colombia 
+Registro no encontrado
+PEPS
+Relacionados a PEPS Colombia 
+Registro no encontrado
+Candidatos elecciones 2019 
+Registro no encontrado
+Candidatos elecciones 2022 
+Registro no encontrado
+Candidatos elecciones 2023 
+Registro no encontrado
+Candidatos a elecciones 
+Registro no encontrado
+Magistrados y funcionarios
+Consejo de Estado 
+Registro no encontrado
+Magistrados y funcionarios
+Consejo Nacional Electoral 
+Registro no encontrado
+Magistrados y funcionarios
+Consejo Superior de la Judicatura 
+Registro no encontrado
+Magistrados y funcionarios 
+Registro no encontrado
+Magistrados y funcionarios Corte
+Suprema de Justicia 
+Registro no encontrado
+Embajadas en Colombia 
+Registro no encontrado
+Embajadas en el exterior 
+Registro no encontrado
+Estructura de Gobierno 
+Registro no encontrado
+Funcionarios de alto nivel Fuerzas
+Militares 
+Registro no encontrado
+Funcionarios públicos alto nivel
+gobernaciones y asambleas 
+Registro no encontrado
+Funcionarios públicos nivel
+municipal, alcaldes y concejales 
+Registro no encontrado
+Funcionarios públicos alto nivel del
+orden nacional 
+Registro no encontrado
+Funcionarios partidos políticos y
+candidatos no elegidos 
+Registro no encontrado
+Cargos públicos en colombia 
+Personas que ocupan cargos en el 
+poder
+ejecutivo, legislativo o judicial
+Registro no encontrado
+PEPS Internacionales
+Alemania 
+Registro no encontrado
+Argentina 
+Registro no encontrado
+Belgica 
+Registro no encontrado
+Bielorrusia 
+Registro no encontrado
+Bolivia 
+Registro no encontrado
+Brasil 
+Registro no encontrado
+Canadá 
+Registro no encontrado
+Chile 
+Registro no encontrado
+Costa Rica 
+Registro no encontrado
+Cuba 
+Registro no encontrado
+Ecuador 
+Registro no encontrado
+España 
+Registro no encontrado
+Estonia 
+Registro no encontrado
+Finlandia 
+Registro no encontrado
+Francia 
+Registro no encontrado
+Islandia 
+Registro no encontrado
+Letonia 
+Registro no encontrado
+Lituania 
+Registro no encontrado
+México 
+Registro no encontrado
+Nicaragua 
+Registro no encontrado
+Noruega 
+Registro no encontrado
+Países Bajos 
+Registro no encontrado
+Paraguay 
+Registro no encontrado
+Otros 
+Registro no encontrado
+Perú 
+Registro no encontrado
+Polonia 
+Registro no encontrado
+República de El Salvador 
+Registro no encontrado
+República de Guatemala 
+Registro no encontrado
+República de Honduras 
+Registro no encontrado
+República de Panamá 
+Registro no encontrado
+Suecia 
+Registro no encontrado
+Uruguay 
+Registro no encontrado
+Venezuela 
+Registro no encontrado
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+107,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+4
+ de 
+32
+www.tusdatos.co
+Listas precargadas, Búsqueda por Nombre
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+108,"Dada la existencia de homónimos, puede ser 
+que la información corresponda a otra persona que tenga los mismos nombres y apellidos."
+109,"Listas vinculantes
+Department of State list of Foreign
+Terrorist Organizations FTO
+Lista Departamento de Estado EEUU
+Organizaciones extranjeras terroristas FTO
+Registro no encontrado
+EU Consolidated list of sanctions
+Lista Unión Europea de organizaciones
+terroristas
+Registro no encontrado
+EU Consolidated list of sanctions
+terrorism
+Lista Unión Europea de personas catalogadas
+como terroristas
+Registro no encontrado
+UN Security council list
+Lista Consejo de Seguridad de la ONU
+Registro no encontrado
+Listas restrictivas
+Lista Panama Papers
+Lista personas y empresas vinculadas al
+escandalo Panama Papers
+Registro no encontrado
+The Arms Export Control Act (AECA)
+Ley de Control de Exportación de Armas
+(AECA)
+Registro no encontrado
+World Bank Listing of Ineligible
+Firms and Individuals
+Empresas sancionadas Banco Mundial
+Registro no encontrado
+Comité de Sanciones del Grupo BID
+Comité BID empresas sancionadas por
+prácticas fraudulentas, corruptas, colusorias,
+coercitivas u obstructivas
+Registro no encontrado
+Consolidated Canadian
+Autonomous Sanctions List
+Lista Consolidada de sanciones autonomas
+de Canada
+Registro no encontrado
+EEUU Denied Persons List BIS
+Lista de Personas prohibidas a exportar EEUU
+Registro no encontrado
+EEUU Entity List BIS
+Lista Entes prohibidos a recibir mercancias
+EEUU
+Registro no encontrado
+Foreign Corrupt Practices Act List
+EEUU
+Lista Ley de Prácticas Corruptas en el
+Extranjero FCPA EEUU
+Registro no encontrado
+List of Foreign Financial
+Institutions Subject to
+Correspondent Account or Payable-
+Through Account Sanctions (CAPTA
+List)
+Lista de Instituciones Financieras Extranjeras
+sujetas a Sanciones por Cuenta Corresponsal
+o Cuenta Pagadera (Lista CAPTA)
+Registro no encontrado
+OFAC Foreign Sanctions Evaders
+(FSE) List
+OFAC Lista de evasores de sanciones
+extranjeras (FSE)
+Registro no encontrado
+UK HM Treasury sanctions list
+Lista de entes sancionados Gran Bretaña
+Registro no encontrado
+OFAC Non-SDN Iranian Sanctions
+Act (NS-ISA) List
+OFAC Lista de la Ley de sanciones iraníes no
+SDN (NS-ISA)
+Registro no encontrado
+Ofﬁce of Foreign Assets Control
+OFAC
+OFAC Lista Clinton
+Registro no encontrado
+Lista OSFI Canada
+Lista Ofﬁce of the Superintendent of Financial
+Institutions Canada
+Registro no encontrado
+OFAC Non-SDN Palestinian
+Legislative Council (NS-PLC) list
+Lista del Consejo Legislativo Palestino no SDN
+(NS-PLC)
+Registro no encontrado
+OFAC Sectoral Sanctions
+Identiﬁcations (SSI) List
+OFAC Lista de identiﬁcaciones de sancionadas
+sectoriales (SSI)
+Registro no encontrado
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+110,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+6
+ de 
+32
+www.tusdatos.co
+Listas precargadas: Personas Expuestas Politicamente (PEPs), Búsqueda por Nombre
+Contratación Pública
+Grandes contratistas del estado en Colombia
+Registro no encontrado
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+111,"PEPS
+Relacionados a PEPS Colombia 
+Registro no encontrado
+Candidatos elecciones 2019 
+Registro no encontrado
+Candidatos elecciones 2022 
+Registro no encontrado
+Candidatos elecciones 2023 
+Registro no encontrado
+Candidatos a elecciones 
+Registro no encontrado
+Magistrados y funcionarios
+Consejo de Estado 
+Registro no encontrado
+Magistrados y funcionarios
+Consejo Nacional Electoral 
+Registro no encontrado
+Magistrados y funcionarios
+Consejo Superior de la Judicatura 
+Registro no encontrado
+Magistrados y funcionarios 
+Registro no encontrado
+Magistrados y funcionarios Corte
+Suprema de Justicia 
+Registro no encontrado
+Embajadas en Colombia 
+Registro no encontrado
+Embajadas en el exterior 
+Registro no encontrado
+Estructura de Gobierno 
+Registro no encontrado
+Funcionarios de alto nivel Fuerzas
+Militares 
+Registro no encontrado
+Funcionarios públicos alto nivel
+gobernaciones y asambleas 
+Registro no encontrado
+Funcionarios públicos nivel
+municipal, alcaldes y concejales 
+Registro no encontrado
+Funcionarios públicos alto nivel del
+orden nacional 
+Registro no encontrado
+Funcionarios partidos políticos y
+candidatos no elegidos 
+Registro no encontrado
+Cargos públicos en colombia 
+Personas que ocupan cargos en el 
+poder
+ejecutivo, legislativo o judicial
+Registro no encontrado
+PEPS Internacionales
+Alemania 
+Registro no encontrado
+Argentina 
+Registro no encontrado
+Belgica 
+Registro no encontrado
+Bielorrusia 
+Registro no encontrado
+Bolivia 
+Registro no encontrado
+Brasil 
+Registro no encontrado
+Canadá 
+Registro no encontrado
+Chile 
+Registro no encontrado
+Costa Rica 
+Registro no encontrado
+Cuba 
+Registro no encontrado
+Ecuador 
+Registro no encontrado
+España 
+Registro no encontrado
+Estonia 
+Registro no encontrado
+Finlandia 
+Registro no encontrado
+Francia 
+Registro no encontrado
+Islandia 
+Registro no encontrado
+Letonia 
+Registro no encontrado
+Lituania 
+Registro no encontrado
+México 
+Registro no encontrado
+Nicaragua 
+Registro no encontrado
+Noruega 
+Registro no encontrado
+Países Bajos 
+Registro no encontrado
+Paraguay 
+Registro no encontrado
+Otros 
+Registro no encontrado
+Perú 
+Registro no encontrado
+Polonia 
+Registro no encontrado
+República de El Salvador 
+Registro no encontrado
+República de Guatemala 
+Registro no encontrado
+República de Honduras 
+Registro no encontrado
+República de Panamá 
+Registro no encontrado
+Suecia 
+Registro no encontrado
+Uruguay 
+Registro no encontrado
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+112,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+7
+ de 
+32
+www.tusdatos.co
+Offshore Leaks Database (ICIJ)
+Listas en línea
+Listado 
+del Banco Mundial de empresas e individuos no 
+elegibles
+Lista Clinton (OFAC), Búsqueda por Documento
+Ir a la evidencia
+Lista Clinton (OFAC), Búsqueda por Nombre
+Ir a la evidencia
+Venezuela 
+Registro no encontrado
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+113,"Bahamas Leaks
+Offshore Leaks
+Panama Papers
+Pandora Papers
+Paradise Papers
+No registra en la fuente
+No registra en la fuente
+No registra en la fuente
+No registra en la fuente
+No registra en la fuente
+Empresas e individuos inhabilitados
+No registra en la fuente
+Otras sanciones
+No registra en la fuente
+ 
+No registra en la fuente
+ 
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+114,"No registra en la fuente
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+115,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+8
+ de 
+32
+www.tusdatos.co
+Consejo de Seguridad de la Naciones Unidas (ONU)
+Ir a la evidencia
+European Union Most Wanted List (EUROPOL)
+Ir a la evidencia
+Organización Internacional de Policía Criminal (INTERPOL)
+Ir a la evidencia
+Antecedentes base
+Procuraduría General de la Nación (Consulta en Línea)
+Ir a la evidencia
+Contraloría General de la República (Consulta en Línea)
+Ir a la evidencia
+Contaduría General de la Nación
+Ir a la evidencia
+Defunciones 
+Registraduria
+Ir a la evidencia
+No registra en la fuente
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+116,"No registra en la fuente
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+117,"No registra en la fuente
+No registra en la fuente
+No registra en la fuente
+No registra en la fuente
+Documento
+Fecha de consulta
+Estado
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+118,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+9
+ de 
+32
+www.tusdatos.co
+Insolvencias Supersociedades
+Policía Nacional de Colombia
+Ir a la evidencia
+Delitos sexuales contra menores de edad
+Ir a la evidencia
+Registro Único Tributario (RUT)
+Ir a la evidencia
+Juzgados de Ejecución de Penas y Medidas de Seguridad (JEPMS)
+Ir a la evidencia
+DIAN (Proveedores ﬁcticios)
+Juzgados Tyba - Justicia XXI
+Ir a la evidencia
+1037634758
+24/04/2025
+Vigente (Vivo)
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+119,"No registra en la fuente
+No registra en la fuente
+No registra en la fuente
+Registra como hallazgo
+1037634758-0 - 
+REGISTRO ACTIVO
+Manizales
+No registra en la fuente
+Medellín
+No registra en la fuente
+Tunja
+No registra en la fuente
+Palmira
+No registra en la fuente
+Neiva
+No registra en la fuente
+La Dorada
+No registra en la fuente
+Ibagué
+No registra en la fuente
+Armenia
+No registra en la fuente
+Cali
+No registra en la fuente
+Buga
+No registra en la fuente
+Quibdó
+No registra en la fuente
+Bucaramanga
+No registra en la fuente
+Montería
+No registra en la fuente
+Pasto
+No registra en la fuente
+Bogotá
+No registra en la fuente
+Barranquilla
+No registra en la fuente
+Popayán
+No registra en la fuente
+Pereira
+No registra en la fuente
+Florencia
+No registra en la fuente
+Villavicencio
+No registra en la fuente
+Valledupar
+No registra en la fuente
+Santa Marta
+No registra en la fuente
+Cartagena
+No registra en la fuente
+No registra en la fuente
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+120,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+10
+ de 
+32
+www.tusdatos.co
+Contadores sancionados
+Antecedentes completos
+Personería de Bogotá
+Ir a la evidencia
+CIDOB Peps nivel mundial
+Ir a la evidencia
+Sancionados contratación pública SECOP
+Empresas y Personas Sancionadas Banco Interamericano de Desarrollo
+Procesos judiciales por nombre - Rama Judicial Uniﬁcada
+Registro Nacional de Medidas Correctivas (RNMC)
+Ir a la evidencia
+Sistema de Información del Registro Nacional de Abogados (SIRNA)
+No registra en la fuente
+No registra en la fuente
+ 
+No registra en la fuente
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+121,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+11
+ de 
+32
+www.tusdatos.co
+Sistema de Información del Registro Nacional de Abogados (SIRNA)
+Instituto Nacional Penitenciario y Carcelario (INPEC)
+Ir a la evidencia
+Conducción
+Registro Nacional de Carga (RNDC)
+Registro Único Nacional de Tránsito (RUNT)
+Sistema Integrado de Multas y Sanciones de Tránsito (SIMIT)
+Ir a la evidencia
+Histórico de multas en Bogotá (SIMUR)
+No registra en la fuente
+No registra en la fuente
+No registra en la fuente
+Registra como hallazgo
+Licencias
+Categoría
+A2
+Estado
+ACTIVA
+Fecha Expedición
+05/09/2020
+Fecha Vencimiento
+05/09/2030
+Número Licencia
+1037634758
+Sustrato
+LC02004429480
+Multas
+Estado Cancelacion
+NO
+Estado Paz Salvo
+SI
+Estado Suspension
+Fecha Cancelacion
+No Reporta
+Fecha Suspension
+No Reporta
+Numero Comparendos
+0
+Numero Paz Salvo
+816398850065
+Registra como hallazgo
+Cédula
+Comparendos
+Multas
+Acuerdos de pago
+Total
+1037634758
+1
+0
+$0.00
+$572,628.00
+Comparendos y multas
+Placa
+Secretaría
+Infracción
+Estado
+Valor
+Valor a pagar
+DHG75F
+Medellin
+Conducir un vehículo a velocidad superior a la máxima permitida."
+122,"Pendiente
+$572,628.00
+$572,628.00
+Cursos
+Número de multa
+Centro instrucción
+Certiﬁcado
+Ciudad
+Estado
+Fecha
+comparendo
+Fecha curso
+Fecha
+reporte
+11001000000039450537
+CIA VIAL AV CL 161 - CIA VIACENT AV."
+123,"CALLE 161
+27898
+Bogota
+D.C.
+Aplicado
+None
+20/11/2023
+00:00:00
+20/11/2023
+No registra en la fuente
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+124,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+12
+ de 
+32
+www.tusdatos.co
+Sistema de Información de Conductores que Transportan Mercancías Peligrosa
+(SISCONMP)
+Validación detallada
+Contratación Pública en SECOP
+Contratación Pública en SECOP 2
+Sistema de Información y Gestión del Empleo Público (SIGEP)
+Libreta Militar
+Ir a la evidencia
+Registro de Garantías Mobiliarias (RGM)
+Ir a la evidencia
+Reputacional
+Noticias reputacionales
+No registra en la fuente
+No registra en la fuente
+No registra en la fuente
+No registra en la fuente
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+125,"No registra en la fuente
+Registra como hallazgo
+nombre
+documento
+tipo_documento
+clase
+JULIO ANDRES PUERTA LOPEZ
+1037634758
+Cédula de Ciudadanía
+Reservista-2da Clase
+ 
+No registra en la fuente
+El resultado de esta consulta es producto de la búsqueda de datos con base a los 
+nombres y apellidos de la persona sobre quien se pide la información."
+126,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+13
+ de 
+32
+www.tusdatos.co
+Academia
+Servicio Nacional de Aprendizaje (SENA)
+Tarjeta profesional
+Antecedentes Disciplinarios de Abogados
+Registra como hallazgo
+Cursos
+Tipo
+Programa
+Certiﬁcación
+Estado de
+Certiﬁcación
+Estado del
+Aprendiz
+Registro
+Descarga
+Certiﬁcado
+Aprobación
+COMPLEMENTARIA
+VIRTUAL EN USO
+DE EXCEL Y 
+ACCESS
+PARA EL
+DESARROLLO DE
+APLICACIONES
+ADMINISTRATIVAS
+EMPRESARIALES
+30 Mayo, 2014
+953400729634CC10
+37634758C
+https://certiﬁcado
+s.sena.edu.co/Cert
+iﬁcadoDigital/com."
+127,"sena.guardar?
+var1=953400729634
+CC1037634758C
+Certiﬁcado de
+Notas
+COMPLEMENTARIA
+VIRTUAL EN USO
+DE EXCEL Y 
+ACCESS
+PARA EL
+DESARROLLO DE
+APLICACIONES
+ADMINISTRATIVAS
+EMPRESARIALES
+30 Mayo, 2014
+953400729634CC10
+37634758E
+https://certiﬁcado
+s.sena.edu.co/Cert
+iﬁcadoDigital/com."
+128,"sena.guardar?
+var1=953400729634
+CC1037634758E
+Certiﬁcado
+Aprobación
+COMPLEMENTARIA
+VIRTUAL EN
+GESTION DEL
+TALENTO HUMANO:
+UN ENCUENTRO
+CON LA ETICA EN
+EL CONTEXTO
+LABORAL E
+INDIVIDUAL
+25 Mayo, 2017
+9534001420976CC1
+037634758C
+https://certiﬁcado
+s.sena.edu.co/Cert
+iﬁcadoDigital/com."
+129,"sena.guardar?
+var1=953400142097
+6CC1037634758E"
+130,"El documento no registra en la fuente
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+131,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+14
+ de 
+32
+www.tusdatos.co
+Paraﬁscales
+Sistema de Seguridad Social Subsidiado (Sisbén)
+Fondo de pensiones públicas (FOPEP)
+Registro Único de Aﬁliaciones (RUAF)
+Ir a la evidencia
+No registra en la fuente
+No registra en la fuente
+Registra como hallazgo
+Básico
+Fecha De Corte
+Número De Identiﬁcación
+Primer Nombre
+Segundo Nombre
+Primer Apellido
+Segundo Apellido
+Estado
+Sexo
+2025-04-18
+CC 1037634758
+JULIO
+ANDRES
+PUERTA
+LOPEZ
+M
+Salud
+Fecha De Corte
+Administradora
+Régimen
+Fecha Aﬁliacion
+Estado De Aﬁliación
+Tipo De Aﬁliado
+Departamento -> Municipio
+2025-04-18
+EPS SURAMERICANA S.A.
+Contributivo
+01/12/2020
+Activo
+COTIZANTE
+BELLO
+Pensiones
+Fecha De
+Corte
+Régimen
+Administradora
+Fecha De
+Aﬁliación
+Estado De
+Aﬁliación
+2025-04-18
+PENSIONES: AHORRO
+INDIVIDUAL
+SOCIEDAD ADMINISTRADORA DE FONDOS DE PENSIONES Y CESANTIAS
+PORVENIR SA
+2013-02-23
+Inactivo
+ARL
+Fecha
+De
+Corte
+Administradora
+Fecha De
+Aﬁliación
+Estado
+De
+Aﬁliación
+Actividad Economica
+Municipio
+Labora
+2025-
+04-18
+Seguros de
+Vida
+Suramericana
+2024-12-
+09
+Activa
+Antioquia-
+ENVIGADO
+2025-
+04-18
+CIA DE
+SEGUROS
+BOLIVAR SA
+2025-03-
+17
+Activa
+ACTIVIDADES INMOBILIARIAS REALIZADAS CON BIENES PROPIOS O ARRENDADOS LA
+COMPRA, VENTA Y ALQUILER Y EXPLOTACIÓN DE BIENES INMUEBLES PROPIOS O
+ARRENDADOS, HACE REFERENCIA A EMPRESAS DEDICADAS A LA VENTA DE TERRENOS."
+132,"TALES COMO LOTES DE CEMENTERIOS, EXPLOTACIÓN DE APARTAMENTOS AMOBLADOS,
+EDIFICIOS DE APARTAMENTOS ETC."
+133,"Caja de compensación
+Fecha De
+Corte
+Administradora Cf
+Fecha De
+Aﬁliación
+Estado De
+Aﬁliación
+Tipo De Miembro De La
+Población Cubierta
+Tipo De Aﬁliado
+Municipio
+Labora
+2025-04-
+18
+CAJA DE COMPENSACION FAMILIAR
+COMFENALCO ANTIOQUIA
+2024-12-16
+Activo
+Aﬁliado
+Trabajador aﬁliado
+dependiente
+Cesantías
+Fecha De
+Corte
+Régimen
+Administradora
+Fecha De
+Aﬁliación
+Estado De
+Aﬁliación
+Municipio
+Labora
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+134,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+15
+ de 
+32
+www.tusdatos.co
+Evidencias
+Registraduría Nacional del Estado Civil
+2025-04-18
+CESANTÍAS:
+ESPECIAL
+ADMINISTRADORA DE FONDOS DE PENSIONES Y CESANTIA
+PROTECCION SA
+2023-02-14
+VIGENTE
+Bogotá, D.C.-
+BOGOTÁ
+2025-04-18
+CESANTÍAS:
+ESPECIAL
+SOCIEDAD ADMINISTRADORA DE FONDOS DE PENSIONES Y
+CESANTIAS PORVENIR SA
+2024-02-13
+VIGENTE
+Bogotá, D.C.-
+BOGOTÁ
+2025-04-18
+CESANTÍAS:
+ESPECIAL
+SOCIEDAD ADMINISTRADORA DE FONDOS DE PENSIONES Y
+CESANTIAS PORVENIR SA
+2025-02-13
+VIGENTE
+Bogotá, D.C.-
+BOGOTÁ
+Pensionado
+Fecha De Corte
+Pensionado
+2025-04-18
+No se encontraron aﬁliaciones
+Programas de Asistencia Social
+Fecha De Corte
+Programas De Asistencia Social
+2025-04-18
+No se encontraron aﬁliaciones
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+135,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+16
+ de 
+32
+www.tusdatos.co
+Antecedentes judiciales
+Delitos sexuales contra menores de edad
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+136,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+17
+ de 
+32
+www.tusdatos.co
+Instituto Nacional Penitenciario y Carcelario (INPEC)
+Registro Nacional de Medidas Correctivas (RNMC)
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+137,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+18
+ de 
+32
+www.tusdatos.co
+Registro Único de Aﬁliaciones (RUAF)
+Registra como hallazgo
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+138,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+19
+ de 
+32
+www.tusdatos.co
+Procuraduría General de la Nación (Consulta en Línea)
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+139,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+20
+ de 
+32
+www.tusdatos.co
+Personería de Bogotá
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+140,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+21
+ de 
+32
+www.tusdatos.co
+Lista Clinton (OFAC), Búsqueda por Documento
+Lista Clinton (OFAC), Búsqueda por nombre
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+141,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+22
+ de 
+32
+www.tusdatos.co
+Consejo de Seguridad de la Naciones Unidas (ONU)
+Organización Internacional de Policía Criminal (INTERPOL)
+European Union Most Wanted List (EUROPOL)
+CIDOB Peps nivel mundial
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+142,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+23
+ de 
+32
+www.tusdatos.co
+Libreta militar
+Juzgados Tyba - Justicia XXI
+Juzgados de Ejecución de Penas y Medidas de Seguridad (JEPMS)
+Registra como hallazgo
+Manizales
+Juzgados de Ejecución de Penas y Medidas de Seguridad (JEPMS)
+Medellín
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+143,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+24
+ de 
+32
+www.tusdatos.co
+Tunja
+Palmira
+Neiva
+La Dorada
+Ibagué
+Armenia
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+144,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+25
+ de 
+32
+www.tusdatos.co
+Cali
+Buga
+Quibdó
+Bucaramanga
+Montería
+Pasto
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+145,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+26
+ de 
+32
+www.tusdatos.co
+Bogotá
+Barranquilla
+Popayán
+Pereira
+Florencia
+Villavicencio
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+146,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+27
+ de 
+32
+www.tusdatos.co
+Contaduría General de la Nación
+Valledupar
+Santa Marta
+Cartagena
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+147,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+28
+ de 
+32
+www.tusdatos.co
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+148,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+29
+ de 
+32
+www.tusdatos.co
+Contraloría General de la República (Consulta en Línea)
+Defunciones Registraduria
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+149,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+30
+ de 
+32
+www.tusdatos.co
+Sistema Integrado de Multas y Sanciones de Tránsito (SIMIT)
+RUT (Registro Único Tributario)
+Registra como hallazgo
+Registra como hallazgo
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+150,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+31
+ de 
+32
+www.tusdatos.co
+Registro de Garantías Mobiliarias (RGM)
+Reporte:
+ 
+Julio Andres Puerta Lopez - 1037634758
+Fecha:
+ 
+2025-04-24
+La información del informe de Tusdatos.co es el resultado de la 
+obtención de datos públicos en su origen."
+151,"Este reporte fue generado el 24, Apr 2025 a las 05:11PM 
+Reporte generado por: 
+jpuerta@tusdatos.co
+Página 
+32
+ de 
+32
+www.tusdatos.co"
+152,"Entrenamiento 
+Etapa de 
+Evaluación 
+
+El Playbook de Ventas (Proceso de Ventas) 
+EVALUACIÓN 
+    SOLUCIÓN 
+NEGOCIACIÓN 
+CIERRE 1."
+153,"EVA: identiﬁcar los desafíos reales, objetivos, 
+impacto del lead/empresa, analizar el 
+problema/oportunidad/consecuencia y 
+deﬁnir el próximo paso."
+154,"SOL: Presentar la solución/proyecto y 
+enfocarse en la etapa de necesidad de lo 
+que el lead ha presentado en la reunión 
+anterior."
+155,"NEG: Objetivo de entender y manejar 
+objeciones, y llegar a un acuerdo sobre los 
+términos de contratación y propuesta 
+comercial."
+156,"CIERRE:  Asegurar la ﬁrma del contrato y 
+pago."
+157,"Gatilhos de Eva: 
+● Evaluación: Contexto del cliente mapeado, problemas, objetivos y 
+desafíos identiﬁcados, proceso de toma de decisión mapeado, 
+entendimiento del proceso de (CONTEXTO QUE RESOLVEMOS), 
+modelo de negocio, validación de presupuesto, validación de 
+tiempo y deﬁnición de próximos pasos - MAP (Mutual action plan) 
+-Contexto 
+-Problemas / Motivaciones 
+-Objetivos 
+-Desafíos
+-Proceso de (Qué ofrecemos) 
+-Modelo de negocio 
+-Toma de decisión 
+-Validación de presupuesto 
+-Validación de tiempo 
+-Próximos pasos - 
+estructurado."
+158,"EVALUACIÓN  - LA ETAPA MÁS IMPORTANTE DEL PROCESO 
+●Es la etapa donde identiﬁcamos los desafíos, problemas, prioridad, 
+impacto y objetivos del lead."
+159,"●Es donde hacemos doler el problema que la persona enfrenta, 
+dejamos su problema explícito para él."
+160,●Creamos censo de valor / urgencia para solucionar el problema.
+161,"●Conectamos con la posible solución trayendo ejemplos de otras 
+personas/empresas que tomaron el servicio y que lograron 
+alcanzar buenos resultados a través de nuestra solución."
+162,"●Mapeo del proceso de compra (quien participa de la tomada de 
+decisión, capacidad de inversión, tiempo de aprobación)."
+163,"Entrenamiento en casa 
+1."
+164,"Deﬁne el “porqué” de cada pregunta enfocado en cada uno de los 
+cargos que hacen parte de nuestro SLA."
+165,"- Debemos tener unas 
+preguntas y frame para hacer y el why de esas preguntas."
+166,"- CEO / C-Level 
+- Director 
+- Gerente 
+- Coordinador 
+- Analista 
+Proceso para hacer 
+una buena 
+evaluación 
+
+ACE 
+Prepare y controle la reunión, valide el tiempo de la persona, deﬁna la meta de la reunión e 
+involucra a la o las personas."
+167,"●Además de estos objetivos, qué te gustaría profundizar en esta 
+conversación / cuales son tus expectativas?"
+168,"SPICED 
+Es la mezcla de diferentes técnicas de ventas para garantizar el éxito en 
+la venta consultiva."
+169,"● Situación (Porque en este momento estás buscando hacer xxx) 
+● Problema (Qué problemas quieres solucionar?"
+170,"Porque quieres implementar 
+una búsqueda xxx?) 
+● Impacto (Que te impide hoy resolver x?"
+171,"Una vez implementado eso, cómo 
+visualiza tu empresa?) 
+● Evento Crítico (Cuando necesitas comenzar este nuevo x?"
+172,"Porque ahora?) 
+● Decisión (Proceso de Tomada de Decisión - Además de precio que te impide 
+de comenzar? Quién está involucrado en este proceso?)"
+173,"Algunos Tips 
+
+TALKER 
+● T (TOM) - Velocidad, Altura, Entusiasmo, Callarse."
+174,"● A (ASK) - Haga preguntas de Situación, Problema, Impacto."
+175,"● L (LISTEN) - Escuche, Resume, Parafrasear."
+176,● K (KEEP NOTES) -
+177,"Tome notas de las principales expresiones, frases, 
+prioridades. 
+● E (EMPATIZA) - Póngase en el lugar del otro, investigue, entienda mejor."
+178,"● R (REPITA) - Repita algunos detalles más importantes para ver si tu has 
+entendido bien."
+179,"SPICED - Aplicado 
+Bonus 
+Ejemplo de Preguntas EVA 
+Marcando la diferencia 
+1.“¿Cuáles son los principales retos que buscas solucionar en tu proceso de 
+ventas?"
+180,"”
+2.“Si resolvemos estos retos, ¿qué impacto tendría en tu negocio a corto y largo 
+plazo?"
+181,"”
+3.“¿Quiénes deben involucrarse para que podamos avanzar con esta solución?"
+182,"” 
+Ejemplo de MAP (Mutual Action Plan) 
+Creación de un plan conjunto 
+Al ﬁnalizar la reunión EVA, establece tareas y tiempos con un MAP: 
+1.Recopilar datos adicionales (2-3 días)."
+183,2.Reunión con el tomador de decisión (Fecha tentativa).
+184,3.Presentar propuesta (Con un timeline y presupuesto).
+185,"4.Ajustar feedback y objeciones. 
+5.Firma de contrato y onboarding."
+186,"Bonus 
+Contenido 
+
+Documento con info EVALUACIÓN 
+Curso SPICED grátis 
+- Registro"
+187,"Con nuestro servicio te ayudamos a reducir 
+riesgos de fraudes y sanciones por incumplimiento en la veri cación de antecedentes 
+de clientes, empleados o proveedores."
+188,Es un gusto presentarte nuestra propuesta comercial en respuesta a tu interés.
+189,"Quedamos a tu disposición para cualquier duda, información adicional o aclaración 
+que puedas necesitar."
+190,"Email:  
+Móvil:  
+Ahorro de tiempo
+Los tiempos y 
+costos más bajosInmediatez
+Reporte en 
+promedio de un 
+minutoFacilidad de uso
+Intuitivo y fácil de 
+entender
+Seguridad Legalidad
+Todos los procesos 
+dentro del marco de 
+la leySoporte
+Equipo técnico 
+especializado a tu 
+disposición
+Innovación 
+Incluye capturas de 
+pantalla y opera desde 
+cualquier dispositivoVersatilidad 
+Integración Api, 
+consultas en línea 
+individuales y masivasAutogestión 
+Usuario administrador 
+para distribuir consultas 
+y manejar usuarios
+Automatizamos las validaciones en listas  restrictivas de personas naturales y 
+jurídicas en Colombia."
+191,"La información más relevante es presentada en un clic 
+y en un informe exhaustivo, dentro del cual los hallazgos relevantes se 
+encuentran resumidos en la primera página."
+192,"Puedes realizar 
+auditoría de las consultas."
+193,"NUESTROS BENEFICIOS
+Realiza tus validaciones desde cualquier lugar y en 
+cualquier momento."
+194,"Accede desde todo tipo de 
+dispositivos*Realiza tus validaciones desde cualquier lugar y en 
+cualquier momento."
+195,"Accede desde todo tipo de 
+dispositivos*
+Ingresa el tipo y número de documento."
+196,"Puedes consultar por:
+Nombre, Cédula de Ciudadanía, 
+Cédula de Extranjería, Permiso 
+Especial de Permanencia, Permiso de 
+Protección Temporal y PasaporteRazón social
+NIT: Número de Identi cación 
+TributarioDocumento Propietario
+Placa
+Procesamos tu solicitud 
+Visualiza y/o descarga el reporte*Dispositivos que permitan la conexión a internet (celular, tablet o 
+computador) y que cuente con un navegador actualizado."
+197,"LISTAS PRECARGADAS:
+-Más de 150 listas restrictivas 
+-Personas Expuestas Políticamente (Peps)
+-Peps Internacionales
+-Consulta por Id + Denominación
+2."
+198,"LISTAS EN LÍNEA:
+-Banco Mundial
+-Consejo de Seguridad de las Naciones Unidas (ONU)
+-Europol
+-Interpol
+-Lista Terrorismo Unión Europea
+-Of ce of Foreign Assets Control (OFAC, Lista Clinton)
+- Cidob Peps a nivel mundial
+-Iadb sancionados Banco Interamericano de Desarrollo
+3."
+199,"ANTECEDENTES CUMPLIMIENTO:
+-Procuraduría
+-Policía 
+4."
+200,"ANTECEDENTES COMPLETOS:
+ -Delitos Sexuales contra menores de edad
+-Morosos Contraloría
+-Morosos Contaduría  
+-Proveedores Ficticios de la DIAN 
+-Rama Judicial Siglo XXI (TYBA)
+-Juzgados de Ejecución de Penas y Medidas 
+de Seguridad: 
+Buga
+Palmira
+Florencia
+Manizales
+Medellín Ibagué 
+Tunja
+Cali 
+Pereira 
+Bogotá 
+Popayán 
+Villavicencio
+Bucaramanga
+Barranquilla 
+Armenia 
+Pasto 
+Neiva
+Quibdó
+Cartagena
+Montería
+-Noticias 
+-Palabras Clave
+-Redes Sociales
+-RelacionadosNUESTRAS FUENTES
+5."
+201,"VALIDACIÓN DETALLADA:
+* Las fuentes descritas estarán disponibles de acuerdo al plan solicitado."
+202,** La fuente requiere la fecha de expedición del documento.
+203,"-Dian Rut
+-Registro Único Empresarial y Social, Cámaras 
+de Comercio (RUES)
+-Información estado documento de identidad**
+-Superintendencia de Sociedades
+-Concordatos Superintendencia de Sociedades
+-Sistema de Información y Gestión del Empleo 
+Público (Sigep)
+-Rama Judicial Uni cada
+-Registro nacional de abogados (SIRNA)
+-Portal Anticorrupción PACO
+BOLETINES
+-Boletín de deudores de la Contraloría General 
+de la nación
+-Proveedores  cticios DIAN
+-Contadores sancionados Junta Central de Contadores JCC
+-Noticias Procuraduría General de la Nación
+-Entes Sancionados SECOP
+-Boletines Superintendencia de Industria y Comercio
+-Boletines Superintendencia Financiera
+-Boletines Superintendencia de Sociedades
+-Boletines Superintendencia Solidaria
+NOTICIAS CRIMINALES
+-Noticias extraditados Corte Suprema de Justicia
+-Noticias Fiscalía General de la Nación LAFT
+-Noticias Policía Nacional LAFT
+-Noticias Presidencia LAFT
+-Actividades corruptas o ilegales Insight Crime
+-Fugitivos DEA
+-Fugitivos más buscados por la DEA
+-Lista de Personas y Grupos Terroristas Guardia Civil 
+Española
+-Environmental Protection Agency (EPA) Fugitives
+-Interpol Red notices
+-CBI Most Wanted
+-DSS Most Wanted
+-FBI Most Wanted
+-ICE Most Wanted
+-UE EUROPOL Most Wanted
+-UK Most Wanted
+PEPS
+-PEPS internacionales de más de 30 países
+-Relacionados a PEPS Colombia
+-Candidatos elecciones 2019
+-Magistrados y funcionarios Consejo de Estado
+-Magistrados y funcionarios Consejo Nacional Electoral
+-Magistrados y funcionarios Consejo Superior de la 
+Judicatura
+-Magistrados y funcionarios
+-Magistrados y funcionarios Corte Suprema de Justicia
+-Embajadas en Colombia -Embajadas en el exterior
+-Estructura de Gobierno
+-Funcionarios de alto nivel Fuerzas Militares
+-Funcionarios públicos alto nivel gobernaciones y 
+asambleas
+-Funcionarios públicos nivel municipal, alcaldes y 
+concejales
+-Funcionarios públicos alto nivel del orden nacional
+-Funcionarios partidos políticos y candidatos no elegidos
+-Colombia
+CONTRATACIÓN PÚBLICA
+-Grandes contratistas del estado en Colombia
+FIGURAS PÚBLICAS
+-Figuras públicas Colombia
+LISTAS RESTRICTIVAS
+- Offshore Leaks
+- Lista Panama Papers
+-The Arms Export Control Act (AECA)
+-World Bank Listing of Ineligible Firms and Individuals
+-Comité de Sanciones del Grupo BID
+-Consolidated Canadian Autonomous Sanctions List
+-EEUU Denied Persons List BIS
+-EEUU Entity List BIS
+-Foreign"
+204,"Corrupt Practices Act List EEUU
+-List of Foreign Financial Institutions Subject to Correspondent 
+-Account or Payable-Through Account Sanctions (CAPTA List)
+-OFAC Foreign Sanctions Evaders (FSE) List
+-UK sanctions list
+-OFAC Non-SDN Iranian Sanctions Act (NS-ISA) List
+-Of ce of Foreign Assets Control OFAC
+-Lista OSFI Canada
+-OFAC Non-SDN Palestinian Legislative Council (NS-PLC) list
+-OFAC"
+205,"""
+NATALIA GONZÁLES - SINTECTO
+""Es una plataforma con able que permite a las empresas realizar 
+consultas con la mayor rapidez y e ciencia a la hora de vincular un 
+empleado."
+206,"” 
+JUAN ANDRADE - ANALISTA DE SEG."
+207,"CONEXOS LOGÍSTICA
+“Antes teníamos una plataforma implementada por nosotros, solo  
+podía consolidar la información, las consultas y todo era de forma 
+manual..."
+208,"Los benecios con Tusdatos.co son el tiempo, la cantidad de 
+listas que se pueden consultar y que todo es muy automático."
+209,"”
+CAMILO CELY - COORDINADOR DE INV."
+210,"Así mismo, al aceptar la propuesta y hacer uso de la plataforma, se dan por aceptados los términos y 
+condiciones publicados en www.tusdatos.co, al igual que el alcance de la propuesta y los términos y 
+condiciones de la misma, los cuales se encuentran en el documento adjunto enviado."
+211,"La vigencia de la presente propuesta está indicada en la portada. 
+: :
+    
+Términos y condiciones de la propuesta
+Los términos y condiciones descritos en el presente documento son legalmente 
+vinculantes."
+212,"Consideraciones: Esta propuesta ha sido desarrollada por Tusdatos.co para su 
+organización y se mantendrá bajo su propiedad hasta el momento en que una 
+aceptación formal se perfeccione, de esta forma, sus contenidos no podrán ser 
+revelados a ningún tercero, así como tampoco los conceptos originales 
+desarrollados por Tusdatos.co podrán ser utilizados con  nes comerciales."
+213,"En cumplimiento del artículo 157 de la Decisión Andina 486 de 2000 y en aras de 
+garantizar la buena fe comercial y la libre competencia empresarial, Tusdatos.co,  
+informa que la relación de logos y demás signos distintivos que encontrará en la 
+presente oferta, tiene como único  n que el Usuario conozca quienes son nuestros 
+aliados o clientes estratégicos en el ámbito comercial, sin que ello represente 
+infracción alguna al derecho marcario de los titulares de dichos signos distintivos o 
+la utilización indebida de las prestaciones mercantiles de los mismos."
+214,"Su uso se 
+limita a servir de referencia al público y tiene  nes meramente informativos para los 
+usuarios, por lo que el referido uso, no busca obtener un aprovechamiento de las 
+marcas registradas, ni causar perjuicios patrimoniales a sus titulares."
+215,"Tusdatos.co es una empresa ambientalmente responsable, por esta razón 
+presentamos propuestas electrónicas en pro del medio ambiente, antes de 
+imprimir este documento, considere si es realmente necesario."
+216,"ALCANCE DEL SERVICIO
+• La tabla de precios es para pago anticipado o de contado."
+217,"Para pagos a 30 días 
+o más, se debe indicar la política de pagos de la empresa para presentar una 
+tabla actualizada."
+218,"• Las consultas adquiridas en los paquetes tendrán un plazo máximo de uso de 
+dos (2) años."
+219,"• Para dar inicio a las solicitudes bajo las condiciones mencionadas en la 
+presente propuesta, es necesario establecer un contrato o documento de 
+aceptación de esta propuesta comercial."
+220,"• Tusdatos.co no es responsable de la calidad de la información entregada por 
+las fuentes públicas, ya que el sistema no administra dicha información; cada 
+entidad o fuente pública es responsable de los datos que allí reposan."
+221,"• Tusdatos.co es una plataforma de automatización de datos públicos de 
+terceros, con lo cual expone los datos a los que se tienen acceso el día de la 
+validación."
+222,"No es responsable por la disponibilidad y acceso sostenido a los 
+mismos, si llegan a cambiar las políticas de la organización o sea imposible 
+consultar el 30% o más de las fuentes, se generará un reembolso de los planes 
+acorde a la cantidad de fuentes que dejen de estar disponibles."
+223,"E s t e
+r e q u e r i m i e n t o
+s e
+b a s a
+e n
+l a
+L e y
+1 5 8 1
+d e
+2 0 1 2
+e n
+C o l o m b i a ,
+q u e
+e s t a b l e c e
+l a
+c o r r e s p o n s a b i l i d a d
+e n
+l a
+p r o t e c c i ó n
+d e
+l o s
+d a t o s
+p e r s o n a l e s ."
+224,"A l
+s o l i c i t a r
+l a
+p o l í t i c a
+d e
+t r a t a m i e n t o
+d e
+d a t o s
+p e r s o n a l e s ,
+n o s
+a s e g u r a m o s
+d e
+q u e
+e s t a m o s
+c u m p l i e n d o
+c o n
+n u e s t r o s  d e b e r e s  y  r e s p o n s a b i l i d a d e s  l e g a l e s ."
+225,"E s t a
+p o l í t i c a
+e s
+u n
+r e q u e r i m i e n t o
+p a r a
+n o s o t r o s ,
+y a
+q u e
+n o s
+a y u d a
+a
+g a r a n t i z a r
+l a
+p r i v a c i d a d
+y
+s e g u r i d a d
+d e
+l o s
+d a t o s
+p e r s o n a l e s
+c o n s u l t a d o s
+a
+t r a v é s
+d e
+n u e s t r o s
+s e r v i c i o s ,
+y
+n o s
+p e r m i t e
+b r i n d a r t e
+u n
+s e r v i c i o
+m á s
+c o n ﬁ a b l e
+y
+s e g u r o ."
+226,"Q u e r e m o s
+a s e g u r a r n o s
+d e
+q u e
+t o d o s
+n u e s t r o s
+c l i e n t e s
+e s t é n
+p r o t e g i d o s
+d e
+m a n e r a
+e f e c t i v a
+y
+n o
+i n c u r r a n  e n  n u e v o s  r i e s g o s ."
+227,"S i
+n o
+c u e n t a s
+c o n
+u n a
+p o l í t i c a
+d e
+t r a t a m i e n t o
+d e
+d a t o s
+o
+u n
+s i s t e m a
+d e
+p r o t e c c i ó n
+d e  d a t o s  p e r s o n a l e s ,  p o d e m o s  a y u d a r t e  a  c u m p l i r  e s t e  r e q u i s i t o  l e g a l ."
+228,"J u n t o s
+p o d e m o s
+t r a b a j a r
+p a r a
+g a r a n t i z a r
+l a
+p r o t e c c i ó n
+y
+b u e n
+u s o
+d e
+l o s
+d a t o s
+p e r s o n a l e s ."
+229,"N o
+t o m a r
+m e d i d a s
+a d e c u a d a s
+p a r a
+p r o t e g e r
+l o s
+d a t o s
+p e r s o n a l e s
+p u e d e
+r e s u l t a r  e n  s a n c i o n e s  y  o t r o s  r i e s g o s  l e g a l e s ,  i n c l u s o  l a  s u s p e n s i ó n  d e  o p e r a c i o n e s ."
+230,"P o r
+f a v o r ,
+e n v í a n o s
+t u
+p o l í t i c a
+d e
+p r o t e c c i ó n
+d e
+d a t o s
+p e r s o n a l e s
+a
+i n f o @ t u s d a t o s ."
+231,"S i
+t i e n e s
+a l g u n a
+p r e g u n t a
+o
+i n q u i e t u d
+s o b r e
+e s t e
+r e q u e r i m i e n t o ,
+n o
+d u d e s
+e n
+p o n e r t e  e n  c o n t a c t o  c o n  n o s o t r o s ."
+232,"A t e n t a m e n t e ,
+S a n t i a g o  H e r n á n d e z
+C E O  T u s d"
+233,a t o s .
+234,"c o
+T u s d a t o s ."
+235,"+ 5 7  3 0 5  4 0 8 2 8 7 4  
+●
+ B o g o t á ,  C o l o m b i"
+236,[Client.
+237,"Company] 
+Atn."
+238,FirstName] [Client.
+239,"LastName] 
+Cargo: [Client."
+240,FirstName] [Sender.
+241,"LastName]
+[Sender."
+242,"Title] 
+Validez de la propuesta: PROPUESTA COMERCIAL
+2025-12-31
+Propuesta [Client."
+243,"FirstName],
+Mi nombre es [Sender."
+244,"FirstName], [Sender."
+245,"Con nuestro servicio te 
+ayudamos a reducir riesgos y fraudes en tus procesos de selección y contratación."
+246,[Sender.
+247,"LastName] 
+[Sender."
+248,"Title] 
+Email: [Sender."
+249,"Email] 
+Móvil: [Sender."
+250,"Puedes consultar por:
+Nombre, Cédula de Ciudadanía, 
+Cédula de Extranjería, Permiso 
+Especial de Permanencia, Permiso de 
+Protección Temporal y PasaporteRazón social
+NIT: Número de Identi cación 
+TributarioDocumento Propietario
+Placa*Dispositivos que permitan la conexión a internet (celular, tablet o 
+computador) y que cuente con un navegador actualizado."
+251,"Listas y PEPS
++ Listas en línea
++ Antecedentes base
++ Capturas de pantalla
++ Usuario 
+administrador+"
+252,"ANTECEDENTES BASE:
+-Antecedentes disciplinarios Procuraduría
+-Antecedentes  scales Contraloría
+-Antecedentes  scales Contaduría 
+-Antecedentes penales Policía
+-Proveedores  cticios de la DIAN
+-Juzgados de Ejecución de Penas y Medidas 
+de Seguridad (JEPMS): 20 juzgados en el país
+-Rama judicial siglo XXI (TYBA)
+4."
+253,"ANTECEDENTES COMPLETOS:
+-Inhabilidades delitos sexuales **
+-Inpec
+-Personería de Bogotá
+-Sancionados Secop
+-Rama judicial uni cada 
+-Información estado documento identidad **
+-Registro Nacional de Medidas Correctivas 
+(RNMC) **5."
+254,"CONDUCCIÓN:
+-Registro Nacional de Carga (RNDC)
+-Registro Único Nacional de Tránsito (RUNT)
+-Simit (Multas de tránsito a nivel nacional)
+-Simur (Histórico de multas Bogotá)
+-Sisconmp (Sistema de información de 
+conductores que transportan mercancías 
+peligrosas)
+-Vehículos inmovilizados de Bogotá
+6."
+255,"VALIDACIÓN DETALLADA:
+-Secop 1 Y 2 (Contratación pública)
+-Concordatos Superintendencia de Sociedades 
+-DIAN RUT
+-Sistema de Información y Gestión del Empleo 
+Público (Sigep)
+-Libreta militar
+-Registro Único Empresarial y Social, Cámaras 
+de Comercio (RUES)
+-Relacionados
+-Garantías Mobiliarias y relacionados 
+7."
+256,"REPUTACIONAL:
+-Noticias y palabras clave 
+-Redes sociales
+-Análisis de sentimiento ***
+8."
+257,"ACADEMIA:
+-SENA (Cursos)
+-Tarjeta profesional
+9."
+258,"PARAFISCALES:
+-Sisben
+-RUAF **
+-FopepNUESTRAS FUENTES
+* Las fuentes descritas estarán disponibles de acuerdo al plan solicitado."
+259,*** Solo disponible en plan blindado.
+260,"Listas Precargadas: Lavado de activos (LAFT) y 
+personas expuestas políticamente (PEPS)
+BOLETINES
+-Boletín de deudores de la Contraloría General 
+de la nación
+-Proveedores  cticios DIAN
+-Contadores sancionados Junta Central de Contadores JCC
+-Noticias Procuraduría General de la Nación
+-Entes Sancionados SECOP
+-Boletines Superintendencia de Industria y Comercio
+-Boletines Superintendencia Financiera
+-Boletines Superintendencia de Sociedades
+-Boletines Superintendencia Solidaria
+NOTICIAS CRIMINALES
+-Noticias extraditados Corte Suprema de Justicia
+-Noticias Fiscalía General de la Nación LAFT
+-Noticias Policía Nacional LAFT
+-Noticias Presidencia LAFT
+-Actividades corruptas o ilegales Insight Crime
+-Fugitivos DEA
+-Fugitivos más buscados por la DEA
+-Lista de Personas y Grupos Terroristas Guardia Civil 
+Española
+-Environmental Protection Agency (EPA) Fugitives
+-Interpol"
+261,"Red notices
+-CBI Most Wanted
+-DSS Most Wanted
+-FBI Most Wanted
+-ICE Most Wanted
+-UE EUROPOL Most Wanted
+-UK Most Wanted
+PEPS
+-PEPS internacionales de más de 30 países
+-Relacionados a PEPS Colombia
+-Candidatos elecciones 2019
+-Magistrados y funcionarios Consejo de Estado
+-Magistrados y funcionarios Consejo Nacional Electoral
+-Magistrados y funcionarios Consejo Superior de la 
+Judicatura
+-Magistrados y funcionarios
+-Magistrados y funcionarios Corte Suprema de Justicia
+-Embajadas en Colombia-Embajadas en el exterior
+-Estructura de Gobierno
+-Funcionarios de alto nivel Fuerzas Militares
+-Funcionarios públicos alto nivel gobernaciones y 
+asambleas
+-Funcionarios públicos nivel municipal, alcaldes y 
+concejales
+-Funcionarios públicos alto nivel del orden nacional
+-Funcionarios partidos políticos y candidatos no elegidos
+-Colombia
+CONTRATACIÓN PÚBLICA
+-Grandes contratistas del estado en Colombia
+FIGURAS PÚBLICAS
+-Figuras públicas Colombia
+LISTAS RESTRICTIVAS
+- Offshore Leaks
+- Lista Panama Papers
+-The Arms Export Control Act (AECA)
+-World Bank Listing of Ineligible Firms and Individuals
+-Comité de Sanciones del Grupo BID
+-Consolidated Canadian Autonomous Sanctions List
+-EEUU Denied Persons List BIS
+-EEUU Entity List BIS
+-Foreign"
+262,"""
+""Es una plataforma con able que permite a las empresas 
+realizarconsultas con la mayor rapidez y e ciencia a la hora de 
+vincular unempleado."
+263,"” 
+“Antes teníamos una plataforma implementada por nosotros, solo 
+podía consolidar la información, las consultas y todo era de 
+formamanual..."
+264,"Los benecios con Tusdatos.co son el tiempo, la cantidad 
+delistas que se pueden consultar y que todo es muy automático."
+265,"”
+MÁS DE 1.000 CLIENTES 
+CONFÍAN EN NOSOTROSNATALIA GONZÁLES - SINTECTO
+JUAN ANDRADE - ANALISTA DE SEG."
+266,"CONEXOS LOGÍSTICA
+CAMILO CELY - COORDINADOR DE INV."
+267,"FirstName], esta propuesta puede ser aprobada instantáneamente añadiendo su  rma 
+electrónica y al registrarla estará aceptando el uso de la misma como una representación de una  rma 
+en documento físico con pluma y papel."
+268,"La vigencia de la presente propuesta está indicada en la portada. 
+: [Client."
+269,"Company]:
+[Sender."
+270,LastName] [Client.
+271,"LastName] 
+Términos y condiciones de la propuesta
+Los términos y condiciones descritos en el presente documento son legalmente 
+vinculantes."
+272,"Company]; en consecuencia, la información aquí contenida no puede ser 
+divulgada, compartida, reproducida, publicada, duplicada, empleada o usada en su 
+totalidad ni parcialmente a favor terceros no autorizados o ajenos, y tampoco podrá 
+ser usada para un propósito diferente al de evaluar la propuesta por parte del 
+destinatario.
+R e q u e r i m i e n t o  p o l í t i c a  d e  t r a t a m i e n t o
+d e  d a t o s  p e r s o n a l e s
+F e c h a  a c t u a l i z a c i ó n :  3  d e  M a r z o  d e  2 0 2 3
+E n
+T u s d a t o s ,
+l a
+p r o t e c c i ó n
+d e
+d a t o s
+p e r s o n a l e s
+e s
+u n
+p i l a r
+o r g a n i z a c i o n a l .
+P o r
+e l l o ,
+q u e r e m o s
+i n f o r m a r t e
+q u e ,
+c o m o
+r e q u i s i t o
+p a r a
+e l
+u s o
+d e
+n u e s t r o s
+s e r v i c i o s ,
+n e c e s i t a m o s
+q u e
+n o s
+e n v í e s
+l a
+p o l í t i c a
+d e
+t r a t a m i e n t o
+d e
+d a t o s
+p e r s o n a l e s
+d e
+t u
+o r g a n i z a c i ó n ."
+273,"Playbook
+ 
+de
+ 
+Evaluación
+ 
+(EVA)
+ 
+-
+ 
+Tusdatos.co
+ 
+I.
+ 
+Introducción:
+ 
+El
+ 
+Rol
+ 
+Estratégico
+ 
+de
+ 
+la
+ 
+Evaluación
+ 
+Consultiva
+ 
+Propósito
+ 
+de
+ 
+este
+ 
+Playbook:
+ 
+Este
+ 
+playbook
+ 
+es
+ 
+tu
+ 
+guía
+ 
+estratégica
+ 
+para
+ 
+dominar
+ 
+la
+ 
+etapa
+ 
+de
+ 
+Evaluación
+ 
+(EVA)
+ 
+en
+ 
+el
+ 
+proceso
+ 
+de
+ 
+venta
+ 
+consultiva
+ 
+de
+ 
+Tusdatos.co."
+274,"No
+ 
+es
+ 
+un
+ 
+guion
+ 
+rígido,
+ 
+sino
+ 
+un
+ 
+marco
+ 
+flexible
+ 
+diseñado
+ 
+para
+ 
+ayudarte
+ 
+a:
+ 
+●
+ 
+Comprender
+ 
+profundamente
+ 
+las
+ 
+necesidades,
+ 
+desafíos
+ 
+y
+ 
+objetivos
+ 
+de
+ 
+tus
+ 
+prospectos."
+275,"1
+ 
+●
+ 
+Calificar
+ 
+oportunidades
+ 
+de
+ 
+manera
+ 
+efectiva,
+ 
+enfocando
+ 
+tus
+ 
+esfuerzos
+ 
+en
+ 
+los
+ 
+prospectos
+ 
+correctos."
+276,"3
+ 
+●
+ 
+Posicionar
+ 
+a
+ 
+Tusdatos.co
+ 
+como
+ 
+un
+ 
+asesor
+ 
+de
+ 
+confianza
+ 
+y
+ 
+experto
+ 
+en
+ 
+validación
+ 
+y
+ 
+cumplimiento."
+277,"6
+ 
+●
+ 
+Establecer
+ 
+bases
+ 
+sólidas
+ 
+para
+ 
+las
+ 
+siguientes
+ 
+etapas
+ 
+del
+ 
+proceso
+ 
+de
+ 
+venta
+ 
+(SOL,
+ 
+NEG,
+ 
+CIERRE)
+ 
+mediante
+ 
+un
+ 
+Plan
+ 
+de
+ 
+Acción
+ 
+Mutuo
+ 
+(MAP)
+ 
+claro."
+278,"8
+ 
+●
+ 
+Asegurar
+ 
+una
+ 
+ejecución
+ 
+consistente
+ 
+y
+ 
+de
+ 
+alta
+ 
+calidad
+ 
+en
+ 
+cada
+ 
+interacción
+ 
+inicial,
+ 
+cubriendo
+ 
+todos
+ 
+los
+ 
+elementos
+ 
+clave
+ 
+de
+ 
+la
+ 
+EVA."
+279,"9
+ 
+Filosofía
+ 
+de
+ 
+Venta
+ 
+Consultiva
+ 
+en
+ 
+Tusdatos.co:
+ 
+Nuestro
+ 
+enfoque
+ 
+se
+ 
+centra
+ 
+100%
+ 
+en
+ 
+el
+ 
+cliente.6
+ 
+Actuamos
+ 
+como
+ 
+consultores
+ 
+expertos,
+ 
+no
+ 
+como
+ 
+simples
+ 
+vendedores."
+280,"6
+ 
+●
+ 
+Curiosidad
+ 
+Genuina:
+ 
+Investiga
+ 
+y
+ 
+pregunta
+ 
+para
+ 
+entender
+ 
+el
+ 
+por
+ 
+qué
+ 
+detrás
+ 
+de
+ 
+los
+ 
+desafíos
+ 
+del
+ 
+cliente."
+281,"12
+ 
+●
+ 
+Construcción
+ 
+de
+ 
+Confianza:
+ 
+Sé
+ 
+transparente,
+ 
+empático
+ 
+y
+ 
+demuestra
+ 
+un
+ 
+interés
+ 
+real
+ 
+en
+ 
+el
+ 
+éxito
+ 
+del
+ 
+cliente."
+282,"6
+ 
+La
+ 
+confianza
+ 
+es
+ 
+la
+ 
+base
+ 
+de
+ 
+nuestra
+ 
+relación."
+283,"●
+ 
+Aportar
+ 
+Valor:
+ 
+Incluso
+ 
+en
+ 
+la
+ 
+EVA,
+ 
+busca
+ 
+educar
+ 
+y
+ 
+ofrecer
+ 
+perspectivas
+ 
+valiosas
+ 
+basadas
+ 
+en
+ 
+tu
+ 
+experiencia
+ 
+y
+ 
+conocimiento
+ 
+del
+ 
+mercado
+ 
+de
+ 
+validación
+ 
+y
+ 
+cumplimiento."
+284,"13
+ 
+Objetivos
+ 
+Específicos
+ 
+de
+ 
+la
+ 
+Reunión
+ 
+EVA
+ 
+(Resultado
+ 
+Mínimo
+ 
+Indispensable):
+ 
+Al
+ 
+finalizar
+ 
+una
+ 
+reunión
+ 
+de
+ 
+EVA,
+ 
+debes
+ 
+haber
+ 
+logrado
+ 
+claramente
+ 
+lo
+ 
+siguiente:
+ 
+1."
+285,"Identificar
+ 
+el
+ 
+Plan
+ 
+Adecuado:
+ 
+Determinar
+ 
+qué
+ 
+plan
+ 
+de
+ 
+Tusdatos.co
+ 
+(Cumplimiento,
+ 
+Validación
+ 
+u
+ 
+otro)
+ 
+se
+ 
+ajusta
+ 
+mejor
+ 
+a
+ 
+las
+ 
+necesidades
+ 
+explícitas
+ 
+e
+ 
+implícitas
+ 
+del
+ 
+cliente."
+286,"Proyección
+ 
+de
+ 
+Volumen:
+ 
+Tener
+ 
+una
+ 
+estimación
+ 
+clara
+ 
+del
+ 
+volumen
+ 
+de
+ 
+consultas
+ 
+anuales
+ 
+que
+ 
+el
+ 
+cliente
+ 
+proyecta
+ 
+necesitar.
+ 
+3."
+287,"Entender
+ 
+el
+ 
+Proceso
+ 
+de
+ 
+Contratación:
+ 
+Mapear
+ 
+detalladamente
+ 
+el
+ 
+proceso
+ 
+interno
+ 
+del
+ 
+cliente
+ 
+para
+ 
+contratar
+ 
+proveedores
+ 
+como
+ 
+Tusdatos.co."
+288,"Diagnóstico
+ 
+de
+ 
+Dolores:
+ 
+Identificar
+ 
+los
+ 
+principales
+ 
+dolores
+ 
+del
+ 
+cliente
+ 
+y
+ 
+clasificar
+ 
+cuáles
+ 
+podemos
+ 
+solucionar
+ 
+total
+ 
+o
+ 
+parcialmente,
+ 
+y
+ 
+cuáles
+ 
+no.
+ 
+5."
+289,"Manejo
+ 
+de
+ 
+Objeciones
+ 
+Iniciales:
+ 
+Conocer
+ 
+las
+ 
+objeciones
+ 
+o
+ 
+preocupaciones
+ 
+del
+ 
+cliente
+ 
+y
+ 
+saber
+ 
+cuáles
+ 
+podemos
+ 
+abordar."
+290,"Mapeo
+ 
+del
+ 
+Proceso
+ 
+de
+ 
+Decisión:
+ 
+Identificar
+ 
+quién
+ 
+o
+ 
+quiénes
+ 
+toman
+ 
+la
+ 
+decisión
+ 
+final
+ 
+(Comprador
+ 
+Económico,
+ 
+Comité),
+ 
+cuándo
+ 
+planean
+ 
+decidir
+ 
+y
+ 
+en
+ 
+qué
+ 
+criterios
+ 
+se
+ 
+basarán."
+291,"4
+ 
+(Área
+ 
+de
+ 
+mejora
+ 
+clave)
+."
+292,"Resultado
+ 
+Óptimo
+ 
+de
+ 
+la
+ 
+EVA:
+ 
+Lograr
+ 
+todos
+ 
+los
+ 
+objetivos
+ 
+mínimos
+ 
+y,
+ 
+además:
+ 
+●
+ 
+Haber
+ 
+cuantificado
+ 
+el
+ 
+impacto
+ 
+negativo
+ 
+de
+ 
+los
+ 
+problemas
+ 
+del
+ 
+cliente
+ 
+(costo
+ 
+del
+ 
+riesgo,
+ 
+tiempo
+ 
+perdido,
+ 
+etc.)"
+293,"19
+ 
+(Área
+ 
+de
+ 
+mejora
+ 
+clave)
+."
+294,"●
+ 
+Haber
+ 
+identificado
+ 
+un
+ 
+posible
+ 
+""Campeón""
+ 
+interno
+ 
+que
+ 
+apoye
+ 
+la
+ 
+solución."
+295,"18
+ 
+●
+ 
+Haber
+ 
+co-creado
+ 
+y
+ 
+acordado
+ 
+un
+ 
+Plan
+ 
+de
+ 
+Acción
+ 
+Mutuo
+ 
+(MAP)
+ 
+detallado
+ 
+y
+ 
+realista
+ 
+con
+ 
+el
+ 
+prospecto."
+296,"●
+ 
+Haber
+ 
+generado
+ 
+un
+ 
+sentido
+ 
+de
+ 
+urgencia
+ 
+consultivo
+ 
+basado
+ 
+en
+ 
+las
+ 
+consecuencias
+ 
+de
+ 
+la
+ 
+inacción."
+297,"Preparación
+ 
+Previa
+ 
+a
+ 
+la
+ 
+Reunión
+ 
+(Pre-Call
+ 
+Planning)
+ 
+Una
+ 
+preparación
+ 
+meticulosa
+ 
+es
+ 
+fundamental
+ 
+para
+ 
+una
+ 
+EVA
+ 
+exitosa."
+298,"Demuestra
+ 
+profesionalismo,
+ 
+te
+ 
+permite
+ 
+hacer
+ 
+preguntas
+ 
+más
+ 
+relevantes
+ 
+y
+ 
+genera
+ 
+confianza
+ 
+desde
+ 
+el
+ 
+inicio."
+299,"6
+ 
+Checklist
+ 
+de
+ 
+Investigación
+ 
+(Mínimo
+ 
+30
+ 
+minutos
+ 
+antes
+ 
+de
+ 
+la
+ 
+llamada):
+ 
+●
+ 
+Revisar
+ 
+CRM
+ 
+(HubSpot):
+ 
+Historial
+ 
+de
+ 
+interacciones
+ 
+previas
+ 
+con
+ 
+la
+ 
+cuenta
+ 
+y
+ 
+contactos."
+300,"Notas
+ 
+de
+ 
+llamadas
+ 
+anteriores
+ 
+(si
+ 
+existen)."
+301,"22
+ 
+●
+ 
+Sitio
+ 
+Web
+ 
+del
+ 
+Prospecto:
+ 
+Entender
+ 
+su
+ 
+negocio,
+ 
+misión,
+ 
+valores,
+ 
+productos/servicios,
+ 
+noticias
+ 
+recientes."
+302,"20
+ 
+●
+ 
+Perfil
+ 
+de
+ 
+LinkedIn
+ 
+del
+ 
+Contacto:
+ 
+Rol
+ 
+actual,
+ 
+responsabilidades,
+ 
+experiencia,
+ 
+antigüedad,
+ 
+conexiones
+ 
+mutuas,
+ 
+actividad
+ 
+reciente."
+303,"20
+ 
+●
+ 
+Perfil
+ 
+de
+ 
+LinkedIn
+ 
+de
+ 
+la
+ 
+Empresa:
+ 
+Noticias,
+ 
+tamaño,
+ 
+crecimiento,
+ 
+otros
+ 
+empleados
+ 
+clave."
+304,"●
+ 
+Noticias
+ 
+de
+ 
+la
+ 
+Industria/Regulatorias:
+ 
+Buscar
+ 
+cambios
+ 
+recientes
+ 
+que
+ 
+puedan
+ 
+afectar
+ 
+al
+ 
+prospecto
+ 
+(Ej."
+305,"nuevas
+ 
+normativas
+ 
+SARLAFT,
+ 
+LAFT,
+ 
+etc.)"
+306,"6
+ 
+Identificar
+ 
+posibles
+ 
+""Triggers""
+ 
+(Ej.
+ 
+¿Superaron
+ 
+los
+ 
+30.000
+ 
+SMLMV
+ 
+en
+ 
+activos/patrimonio
+ 
+recientemente?)."
+307,"Formular
+ 
+Hipótesis
+ 
+Iniciales:
+ 
+Basado
+ 
+en
+ 
+la
+ 
+industria,
+ 
+rol
+ 
+y
+ 
+tamaño,
+ 
+¿cuáles
+ 
+podrían
+ 
+ser
+ 
+sus
+ 
+dolores
+ 
+más
+ 
+probables
+ 
+relacionados
+ 
+con
+ 
+validación
+ 
+y
+ 
+cumplimiento?
+ 
+(Ver
+ 
+Sección
+ 
+III)."
+308,"●
+ 
+Preparar
+ 
+Preguntas
+ 
+Abiertas
+ 
+Iniciales:
+ 
+Personaliza
+ 
+algunas
+ 
+preguntas
+ 
+basadas
+ 
+en
+ 
+tu
+ 
+investigación
+ 
+(Ej."
+309,"""Vi
+ 
+que
+ 
+recientemente
+ 
+expandieron
+ 
+operaciones
+ 
+a
+ 
+X,
+ 
+¿cómo
+ 
+impacta
+ 
+eso
+ 
+sus
+ 
+procesos
+ 
+de
+ 
+vinculación?"")."
+310,"22
+ 
+●
+ 
+Revisar
+ 
+este
+ 
+Playbook:
+ 
+Refrescar
+ 
+la
+ 
+estructura
+ 
+de
+ 
+la
+ 
+conversación,
+ 
+los
+ 
+perfiles
+ 
+de
+ 
+persona
+ 
+y
+ 
+las
+ 
+preguntas
+ 
+clave."
+311,"Herramientas
+ 
+Útiles:
+ 
+●
+ 
+HubSpot
+ 
+CRM
+ 
+●
+ 
+LinkedIn
+ 
+Sales
+ 
+Navigator
+ 
+●
+ 
+Sitio
+ 
+web
+ 
+de
+ 
+la
+ 
+Superintendencia
+ 
+de
+ 
+Sociedades
+ 
+/
+ 
+Industria
+ 
+y
+ 
+Comercio
+ 
+(para
+ 
+normativas)
+ 
+●
+ 
+Buscadores
+ 
+de
+ 
+noticias
+ 
+(Google
+ 
+News,
+ 
+etc."
+312,")
+ 
+III.
+ 
+Perfil
+ 
+de
+ 
+Cliente
+ 
+Ideal
+ 
+(ICP)
+ 
+y
+ 
+Personas
+ 
+Compradoras
+ 
+de
+ 
+Tusdatos.co
+ 
+Conocer
+ 
+a
+ 
+quién
+ 
+le
+ 
+vendes
+ 
+y
+ 
+qué
+ 
+le
+ 
+importa
+ 
+es
+ 
+crucial
+ 
+para
+ 
+guiar
+ 
+tu
+ 
+conversación
+ 
+de
+ 
+EVA."
+313,"24
+ 
+Resumen
+ 
+del
+ 
+ICP:
+ 
+●
+ 
+Industrias
+ 
+Foco:
+ 
+Transporte,
+ 
+Financiero,
+ 
+RRHH,
+ 
+Minería
+ 
+y
+ 
+Derivados,
+ 
+Consultoría,
+ 
+Seguridad,
+ 
+Comercio
+ 
+(Mayor/Menor)."
+314,"Todas
+ 
+son
+ 
+importantes."
+315,"●
+ 
+Tamaño:
+ 
+Todas
+ 
+las
+ 
+empresas
+ 
+(Pequeñas,
+ 
+Medianas,
+ 
+Grandes)."
+316,"Especial
+ 
+atención
+ 
+a
+ 
+empresas
+ 
+con
+ 
+activos/patrimonio
+ 
+>
+ 
+30.000
+ 
+SMLMV
+ 
+(obligadas
+ 
+a
+ 
+normativas
+ 
+LAFT)."
+317,"●
+ 
+Problemas
+ 
+Comunes
+ 
+que
+ 
+Resolvemos:
+ 
+Riesgo
+ 
+de
+ 
+sanciones
+ 
+por
+ 
+incumplimiento,
+ 
+procesos
+ 
+manuales
+ 
+lentos
+ 
+e
+ 
+ineficientes,
+ 
+alcance
+ 
+limitado
+ 
+en
+ 
+verificación
+ 
+de
+ 
+fuentes,
+ 
+dificultad
+ 
+para
+ 
+recopilar
+ 
+y
+ 
+almacenar
+ 
+evidencia,
+ 
+riesgo
+ 
+de
+ 
+confiabilidad
+ 
+en
+ 
+la
+ 
+información."
+318,"Personas
+ 
+Compradoras
+ 
+Clave
+ 
+y
+ 
+Qué
+ 
+les
+ 
+Importa:
+ 
+Rol
+ 
+Clave
+ 
+Intereses
+ 
+Principales
+ 
+en
+ 
+EVA
+ 
+Posibles
+ 
+Dolores
+ 
+Específicos
+ 
+Gerente
+ 
+de
+ 
+Riesgos
+ 
+Alcance
+ 
+de
+ 
+fuentes,
+ 
+Funcionalidades
+ 
+de
+ 
+gobierno
+ 
+(administración
+ 
+de
+ 
+usuarios,
+ 
+logs),
+ 
+Confiabilidad
+ 
+de
+ 
+la
+ 
+Multas
+ 
+por
+ 
+incumplimiento
+ 
+LAFT/SARLAFT,
+ 
+Procesos
+ 
+de
+ 
+debida
+ 
+diligencia
+ 
+ineficientes,
+ 
+Falta
+ 
+de
+ 
+trazabilidad
+ 
+en
+ 
+información,
+ 
+Precio."
+319,"validaciones,
+ 
+Reportes
+ 
+de
+ 
+auditoría
+ 
+negativos."
+320,"Oficial
+ 
+de
+ 
+Cumplimiento
+ 
+Alcance
+ 
+de
+ 
+fuentes
+ 
+(especialmente
+ 
+listas
+ 
+restrictivas),
+ 
+Funcionalidades
+ 
+de
+ 
+usuario,
+ 
+Experiencia
+ 
+de
+ 
+usuario
+ 
+(UX),
+ 
+Evidencia."
+321,"Riesgo
+ 
+de
+ 
+sanciones,
+ 
+Dificultad
+ 
+para
+ 
+demostrar
+ 
+cumplimiento
+ 
+a
+ 
+reguladores,
+ 
+Procesos
+ 
+manuales
+ 
+propensos
+ 
+a
+ 
+errores,
+ 
+Sobrecarga
+ 
+de
+ 
+información."
+322,"Gerente
+ 
+de
+ 
+RRHH
+ 
+Alcance
+ 
+de
+ 
+fuentes
+ 
+(antecedentes
+ 
+judiciales,
+ 
+profesionales),
+ 
+Funcionalidades
+ 
+de
+ 
+usuario,
+ 
+Rapidez
+ 
+del
+ 
+reporte."
+323,"Procesos
+ 
+de
+ 
+contratación
+ 
+lentos,
+ 
+Riesgo
+ 
+de
+ 
+contratar
+ 
+personal
+ 
+inadecuado,
+ 
+Dificultad
+ 
+para
+ 
+validar
+ 
+títulos/experiencia,
+ 
+Cumplimiento
+ 
+normativo
+ 
+laboral.
+ 
+Director
+ 
+de
+ 
+Operaciones
+ 
+Alcance
+ 
+de
+ 
+fuentes
+ 
+(empresas,
+ 
+socios),
+ 
+Eficiencia
+ 
+operativa,
+ 
+Integración
+ 
+API,
+ 
+Rapidez."
+324,"Procesos
+ 
+de
+ 
+vinculación
+ 
+de
+ 
+proveedores/clientes
+ 
+lentos,
+ 
+Riesgo
+ 
+reputacional
+ 
+por
+ 
+socios,
+ 
+Falta
+ 
+de
+ 
+automatización,
+ 
+Costos
+ 
+ocultos
+ 
+de
+ 
+procesos
+ 
+manuales."
+325,"Gerente
+ 
+de
+ 
+Compras
+ 
+Precio,
+ 
+Cumplimiento
+ 
+mínimo
+ 
+de
+ 
+requisitos
+ 
+de
+ 
+otras
+ 
+áreas,
+ 
+Facilidad
+ 
+de
+ 
+contratación,
+ 
+Soporte
+ 
+post-venta.
+ 
+Presión
+ 
+por
+ 
+reducir
+ 
+costos,
+ 
+Comparación
+ 
+directa
+ 
+de
+ 
+precios
+ 
+(desafío
+ 
+vs.
+ 
+""ilimitados""),
+ 
+Asegurar
+ 
+que
+ 
+la
+ 
+solución
+ 
+cumple
+ 
+técnicamente,
+ 
+Gestión
+ 
+de
+ 
+proveedores."
+326,"Disparadores
+ 
+de
+ 
+Compra
+ 
+(Triggers
+ 
+a
+ 
+Explorar):
+ 
+●
+ 
+Regulatorios:
+ 
+Nueva
+ 
+normativa
+ 
+aplicable
+ 
+(Ej."
+327,"SARLAFT
+ 
+para
+ 
+transporte),
+ 
+cambio
+ 
+en
+ 
+umbrales
+ 
+de
+ 
+obligación
+ 
+(Ej."
+328,"superar
+ 
+30.000
+ 
+SMLMV)."
+329,"●
+ 
+Incidentes:
+ 
+Fraude
+ 
+interno/externo
+ 
+reciente,
+ 
+sanción
+ 
+o
+ 
+advertencia
+ 
+de
+ 
+un
+ 
+regulador,
+ 
+hallazgo
+ 
+negativo
+ 
+en
+ 
+auditoría."
+330,"●
+ 
+Operacionales:
+ 
+Crecimiento
+ 
+rápido
+ 
+que
+ 
+desborda
+ 
+procesos
+ 
+manuales,
+ 
+necesidad
+ 
+de
+ 
+automatizar
+ 
+para
+ 
+liberar
+ 
+personal,
+ 
+procesos
+ 
+de
+ 
+vinculación
+ 
+demasiado
+ 
+lentos."
+331,"●
+ 
+Estratégicos:
+ 
+Entrada
+ 
+a
+ 
+nuevos
+ 
+mercados
+ 
+con
+ 
+diferentes
+ 
+regulaciones,
+ 
+fusión
+ 
+o
+ 
+adquisición."
+332,"Alternativas
+ 
+Comunes
+ 
+(y
+ 
+por
+ 
+qué
+ 
+Tusdatos.co
+ 
+es
+ 
+mejor):
+ 
+●
+ 
+Procesos
+ 
+Manuales:
+ 
+Lentos,
+ 
+propensos
+ 
+a
+ 
+errores,
+ 
+alcance
+ 
+limitado,
+ 
+sin
+ 
+evidencia
+ 
+centralizada,
+ 
+costosos
+ 
+en
+ 
+tiempo/personal."
+333,"(Nuestro
+ 
+Valor:
+ 
+Rapidez,
+ 
+Confiabilidad,
+ 
+Alcance,
+ 
+Evidencia,
+ 
+Eficiencia)
+."
+334,"●
+ 
+Desarrollo
+ 
+Propio:
+ 
+Costoso,
+ 
+lento
+ 
+de
+ 
+implementar,
+ 
+requiere
+ 
+mantenimiento
+ 
+constante,
+ 
+difícil
+ 
+mantenerse
+ 
+actualizado
+ 
+con
+ 
+fuentes
+ 
+y
+ 
+regulaciones.
+ 
+(Nuestro
+ 
+Valor:
+ 
+Experiencia,
+ 
+Actualización
+ 
+constante,
+ 
+Menor
+ 
+TCO,
+ 
+Rapidez
+ 
+de
+ 
+implementación)
+."
+335,"●
+ 
+Competidores
+ 
+Directos:
+ 
+Pueden
+ 
+ofrecer
+ 
+paquetes
+ 
+""ilimitados""
+ 
+pero
+ 
+con
+ 
+menor
+ 
+alcance,
+ 
+menos
+ 
+funcionalidades
+ 
+de
+ 
+UX/gobierno,
+ 
+o
+ 
+sin
+ 
+entrega
+ 
+de
+ 
+evidencia
+ 
+robusta."
+336,"(Nuestro
+ 
+Valor:
+ 
+Amplitud
+ 
+de
+ 
+Fuentes,
+ 
+Evidencia,
+ 
+Funcionalidades
+ 
+Avanzadas,
+ 
+Confiabilidad)
+."
+337,"●
+ 
+No
+ 
+Hacer
+ 
+Nada:
+ 
+Aceptación
+ 
+de
+ 
+riesgos
+ 
+(sanciones,
+ 
+fraude,
+ 
+reputacional),
+ 
+ineficiencia."
+338,"(Nuestro
+ 
+Valor:
+ 
+Tranquilidad,
+ 
+Seguridad,
+ 
+Cumplimiento,
+ 
+Eficiencia)
+."
+339,"Guía
+ 
+de
+ 
+Conversación
+ 
+y
+ 
+Flujo
+ 
+de
+ 
+Preguntas
+ 
+Sugerido
+ 
+para
+ 
+EVA
+ 
+Esta
+ 
+es
+ 
+una
+ 
+guía
+ 
+flexible,
+ 
+no
+ 
+un
+ 
+guion."
+340,"Adáptala
+ 
+al
+ 
+flujo
+ 
+natural
+ 
+de
+ 
+la
+ 
+conversación
+ 
+y
+ 
+a
+ 
+la
+ 
+persona
+ 
+con
+ 
+la
+ 
+que
+ 
+hablas."
+341,"22
+ 
+El
+ 
+objetivo
+ 
+es
+ 
+cubrir
+ 
+los
+ 
+""Gatilhos
+ 
+de
+ 
+Eva""
+ 
+de
+ 
+forma
+ 
+consultiva."
+342,"Apertura
+ 
+y
+ 
+Establecimiento
+ 
+de
+ 
+Rapport
+ 
+(5-10
+ 
+min)
+ 
+●
+ 
+Introducción
+ 
+Profesional:
+ 
+Preséntate
+ 
+tú
+ 
+y
+ 
+a
+ 
+Tusdatos.co
+ 
+brevemente."
+343,"●
+ 
+Conexión
+ 
+Personalizada:
+ 
+Menciona
+ 
+algo
+ 
+específico
+ 
+de
+ 
+tu
+ 
+investigación
+ 
+previa
+ 
+para
+ 
+romper
+ 
+el
+ 
+hielo
+ 
+y
+ 
+demostrar
+ 
+preparación."
+344,"6
+ 
+(Ej:
+ 
+""Vi
+ 
+en
+ 
+LinkedIn
+ 
+su
+ 
+artículo
+ 
+sobre
+ 
+X...""
+ 
+o
+ 
+""Noté
+ 
+que
+ 
+su
+ 
+empresa
+ 
+anunció
+ 
+Y
+ 
+recientemente,
+ 
+¡felicitaciones!"")."
+345,"●
+ 
+Transición
+ 
+Suave:
+ 
+Pasa
+ 
+naturalmente
+ 
+al
+ 
+propósito
+ 
+de
+ 
+la
+ 
+reunión."
+346,"Como
+ 
+mencioné,
+ 
+soy
+ 
+de
+ 
+Tusdatos.co."
+347,"""
+ 
+●
+ 
+L
+ 
+-
+ 
+Last
+ 
+time
+ 
+(Última
+ 
+vez):
+ 
+""La
+ 
+última
+ 
+vez
+ 
+que
+ 
+hablamos/interactuamos
+ 
+(o
+ 
+según
+ 
+entiendo
+ 
+por
+ 
+mi
+ 
+colega
+ 
+SDR),
+ 
+usted
+ 
+mostró
+ 
+interés
+ 
+en
+ 
+explorar
+ 
+cómo
+ 
+mejorar
+ 
+sus
+ 
+procesos
+ 
+de
+ 
+validación/cumplimiento...""
+ 
+(Ajusta
+ 
+según
+ 
+el
+ 
+contexto)."
+348,"●
+ 
+P
+ 
+-
+ 
+Propósito:
+ 
+""El
+ 
+propósito
+ 
+de
+ 
+esta
+ 
+reunión
+ 
+hoy
+ 
+es,
+ 
+primero,
+ 
+entender
+ 
+mejor
+ 
+sus
+ 
+objetivos
+ 
+y
+ 
+desafíos
+ 
+actuales
+ 
+en
+ 
+cuanto
+ 
+a.
+ 
+Segundo,
+ 
+si
+ 
+tiene
+ 
+sentido,
+ 
+compartiré
+ 
+brevemente
+ 
+cómo
+ 
+Tusdatos.co
+ 
+ayuda
+ 
+a
+ 
+empresas
+ 
+como
+ 
+la
+ 
+suya
+ 
+a
+ 
+abordar
+ 
+esos
+ 
+puntos."
+349,"Y
+ 
+finalmente,
+ 
+decidiremos
+ 
+juntos
+ 
+si
+ 
+hay
+ 
+valor
+ 
+en
+ 
+explorar
+ 
+esto
+ 
+más
+ 
+a
+ 
+fondo
+ 
+y
+ 
+cuáles
+ 
+serían
+ 
+los
+ 
+próximos
+ 
+pasos
+ 
+lógicos."
+350,"""
+ 
+27
+ 
+●
+ 
+A
+ 
+-
+ 
+Agenda:
+ 
+""Para
+ 
+lograr
+ 
+eso,
+ 
+propongo
+ 
+esta
+ 
+agenda:."
+351,"¿Le
+ 
+parece
+ 
+bien?
+ 
+¿Hay
+ 
+algo
+ 
+más
+ 
+que
+ 
+le
+ 
+gustaría
+ 
+añadir
+ 
+o
+ 
+asegurar
+ 
+que
+ 
+cubramos
+ 
+hoy?""."
+352,"27
+ 
+Confirma
+ 
+el
+ 
+tiempo
+ 
+disponible."
+353,"●
+ 
+Establecer
+ 
+Tono
+ 
+Consultivo:
+ 
+""Mi
+ 
+objetivo
+ 
+principal
+ 
+hoy
+ 
+es
+ 
+aprender
+ 
+y
+ 
+diagnosticar
+ 
+para
+ 
+ver
+ 
+si
+ 
+podemos
+ 
+ser
+ 
+de
+ 
+ayuda,
+ 
+no
+ 
+asumir
+ 
+que
+ 
+lo
+ 
+somos."
+354,"Preguntas
+ 
+de
+ 
+Descubrimiento
+ 
+Profundo
+ 
+(25-35
+ 
+min)
+ 
+Aquí
+ 
+es
+ 
+donde
+ 
+aplicamos
+ 
+un
+ 
+enfoque
+ 
+consultivo,
+ 
+inspirado
+ 
+en
+ 
+SPIN
+ 
+y
+ 
+GPCTBA/C&I,
+ 
+para
+ 
+ir
+ 
+más
+ 
+allá
+ 
+de
+ 
+la
+ 
+superficie
+ 
+y
+ 
+""hacer
+ 
+doler
+ 
+el
+ 
+problema""
+ 
+de
+ 
+forma
+ 
+constructiva."
+355,"●
+ 
+A.
+ 
+Entender
+ 
+la
+ 
+Situación
+ 
+y
+ 
+Metas
+ 
+(Contexto
+ 
+-
+ 
+S
+ 
+de
+ 
+SPIN,
+ 
+Goals
+ 
+-
+ 
+G
+ 
+de
+ 
+GPCTBA):
+ 
+○
+ 
+""Para
+ 
+empezar,
+ 
+¿podría
+ 
+contarme
+ 
+un
+ 
+poco
+ 
+sobre
+ 
+su
+ 
+rol
+ 
+y
+ 
+sus
+ 
+principales
+ 
+responsabilidades
+ 
+en
+ 
+[Empresa
+ 
+del
+ 
+Prospecto]?"
+356,"""
+ 
+27
+ 
+○
+ 
+""¿Cuáles
+ 
+son
+ 
+las
+ 
+prioridades
+ 
+estratégicas
+ 
+más
+ 
+importantes
+ 
+para
+ 
+usted/su
+ 
+área/la
+ 
+empresa
+ 
+este
+ 
+año/trimestre?"
+357,"""
+ 
+22
+ 
+○
+ 
+""¿Cómo
+ 
+miden
+ 
+actualmente
+ 
+el
+ 
+éxito
+ 
+en
+ 
+relación
+ 
+con
+ 
+[cumplimiento
+ 
+normativo
+ 
+/
+ 
+gestión
+ 
+de
+ 
+riesgos
+ 
+/
+ 
+eficiencia
+ 
+en
+ 
+contratación/vinculación]?"
+358,"●
+ 
+B.
+ 
+Explorar
+ 
+Problemas
+ 
+y
+ 
+Desafíos
+ 
+(Problema
+ 
+-
+ 
+P
+ 
+de
+ 
+SPIN,
+ 
+Challenges
+ 
+-
+ 
+C
+ 
+de
+ 
+GPCTBA/CHAMP):
+ 
+(Área
+ 
+de
+ 
+mejora:
+ 
+Hacer
+ 
+preguntas
+ 
+problema
+ 
+correctas)
+ 
+○
+ 
+""Basado
+ 
+en
+ 
+ese
+ 
+proceso
+ 
+que
+ 
+describe,
+ 
+¿cuáles
+ 
+diría
+ 
+que
+ 
+son
+ 
+los
+ 
+mayores
+ 
+desafíos
+ 
+u
+ 
+obstáculos
+ 
+que
+ 
+enfrentan
+ 
+actualmente?"
+359,"""
+ 
+31
+ 
+(Pregunta
+ 
+abierta
+ 
+inicial)
+."
+360,"○
+ 
+""Mencionó
+ 
+[aspecto
+ 
+del
+ 
+proceso
+ 
+manual/actual],
+ 
+¿qué
+ 
+tan
+ 
+satisfecho
+ 
+está
+ 
+con
+ 
+[la
+ 
+rapidez
+ 
+/
+ 
+la
+ 
+confiabilidad
+ 
+/
+ 
+el
+ 
+alcance
+ 
+/
+ 
+la
+ 
+facilidad
+ 
+para
+ 
+obtener
+ 
+evidencia]
+ 
+de
+ 
+ese
+ 
+proceso?"
+361,"""
+ 
+(Preguntas
+ 
+más
+ 
+específicas
+ 
+sobre
+ 
+posibles
+ 
+dolores)
+."
+362,"○
+ 
+""¿Qué
+ 
+le
+ 
+impide
+ 
+alcanzar
+ 
+sus
+ 
+metas
+ 
+de
+ 
+[cumplimiento/eficiencia/gestión
+ 
+de
+ 
+riesgos]
+ 
+de
+ 
+manera
+ 
+más
+ 
+efectiva?"
+363,"""
+ 
+4
+ 
+○
+ 
+"""
+364,"¿Qué
+ 
+fue
+ 
+lo
+ 
+que
+ 
+le
+ 
+impulsó
+ 
+a
+ 
+buscar
+ 
+una
+ 
+solución
+ 
+o
+ 
+tener
+ 
+esta
+ 
+conversación
+ 
+ahora
+?"
+365,"""
+ 
+32
+ 
+(Busca
+ 
+el
+ 
+Trigger)
+."
+366,"○
+ 
+""¿Han
+ 
+intentado
+ 
+abordar
+ 
+estos
+ 
+desafíos
+ 
+antes?"
+367,"¿Qué
+ 
+funcionó,
+ 
+qué
+ 
+no
+ 
+funcionó
+ 
+y
+ 
+por
+ 
+qué?"
+368,"""
+ 
+33
+ 
+(Entiende
+ 
+intentos
+ 
+pasados)
+."
+369,"○
+ 
+""Comparado
+ 
+con
+ 
+las
+ 
+mejores
+ 
+prácticas
+ 
+que
+ 
+ve
+ 
+en
+ 
+la
+ 
+industria,
+ 
+¿dónde
+ 
+siente
+ 
+que
+ 
+su
+ 
+proceso
+ 
+actual
+ 
+podría
+ 
+tener
+ 
+brechas?""
+ 
+1
+ 
+(Posicionamiento
+ 
+como
+ 
+experto)
+."
+370,"●
+ 
+C.
+ 
+Profundizar
+ 
+en
+ 
+el
+ 
+Impacto
+ 
+y
+ 
+Consecuencias
+ 
+(Implicación
+ 
+-
+ 
+I
+ 
+de
+ 
+SPIN,
+ 
+Negative
+ 
+Consequences
+ 
+-
+ 
+C
+ 
+de
+ 
+GPCTBA):
+ 
+(Área
+ 
+de
+ 
+mejora:
+ 
+Hacer
+ 
+doler
+ 
+el
+ 
+problema,
+ 
+cuantificar)
+ 
+○
+ 
+""Mencionó
+ 
+que
+ 
+el
+ 
+proceso
+ 
+manual
+ 
+es
+ 
+lento."
+371,"¿Cómo
+ 
+impacta"
+372,"esa
+ 
+lentitud
+ 
+en
+ 
+[la
+ 
+experiencia
+ 
+del
+ 
+cliente/empleado,
+ 
+la
+ 
+agilidad
+ 
+del
+ 
+negocio,
+ 
+los
+ 
+costos
+ 
+operativos]?"
+373,"""
+ 
+19
+ 
+(Convierte
+ 
+el
+ 
+problema
+ 
+en
+ 
+impacto)
+."
+374,"○
+ 
+""Cuando
+ 
+dice
+ 
+que
+ 
+es
+ 
+difícil
+ 
+recopilar
+ 
+evidencia,
+ 
+¿qué
+ 
+consecuencias
+ 
+ha
+ 
+tenido
+ 
+eso
+ 
+en
+ 
+términos
+ 
+de
+ 
+[auditorías,
+ 
+demostración
+ 
+de
+ 
+cumplimiento,
+ 
+gestión
+ 
+de
+ 
+riesgos]?""
+ 
+34
+ 
+○
+ 
+""¿Qué
+ 
+riesgo
+ 
+representa
+ 
+para
+ 
+la
+ 
+empresa
+ 
+el
+ 
+no
+ 
+tener
+ 
+un
+ 
+alcance
+ 
+completo
+ 
+en
+ 
+la
+ 
+verificación
+ 
+de
+ 
+fuentes
+ 
+o
+ 
+confiar
+ 
+en
+ 
+información
+ 
+no
+ 
+100%
+ 
+fiable?"
+375,"""
+ 
+(Ej:
+ 
+Sanciones,
+ 
+fraude,
+ 
+daño
+ 
+reputacional)."
+376,"36
+ 
+○
+ 
+Cuantificación:
+ 
+""Para
+ 
+entender
+ 
+mejor
+ 
+la
+ 
+magnitud:
+ 
+¿Cuántas
+ 
+personas
+ 
+dedican
+ 
+tiempo
+ 
+a
+ 
+este
+ 
+proceso
+ 
+manual
+ 
+actualmente?"
+377,"¿Cuántas
+ 
+horas
+ 
+aproximadamente
+ 
+por
+ 
+validación?"
+378,"¿Alguna
+ 
+vez
+ 
+han
+ 
+estimado
+ 
+el
+ 
+costo
+ 
+de
+ 
+una
+ 
+posible
+ 
+sanción
+ 
+o
+ 
+un
+ 
+incidente
+ 
+de
+ 
+fraude
+ 
+evitado?""."
+379,"19
+ 
+(Clave
+ 
+para
+ 
+justificar
+ 
+inversión)
+."
+380,"○
+ 
+""Si
+ 
+estos
+ 
+desafíos
+ 
+[menciona
+ 
+1-2
+ 
+desafíos
+ 
+clave
+ 
+identificados]
+ 
+continúan
+ 
+sin
+ 
+resolverse
+ 
+en
+ 
+los
+ 
+próximos
+ 
+6-12
+ 
+meses,
+ 
+¿cuál
+ 
+sería
+ 
+el
+ 
+impacto
+ 
+más
+ 
+significativo
+ 
+para
+ 
+su
+ 
+área
+ 
+y
+ 
+para
+ 
+la
+ 
+empresa?"
+381,"""
+ 
+36
+ 
+(Genera
+ 
+urgencia
+ 
+basada
+ 
+en
+ 
+consecuencias)
+."
+382,"○
+ 
+""¿Quién
+ 
+más
+ 
+dentro
+ 
+de
+ 
+la
+ 
+organización
+ 
+se
+ 
+ve
+ 
+afectado
+ 
+por
+ 
+estas
+ 
+dificultades?"
+383,"""
+ 
+34
+ 
+(Expande
+ 
+el
+ 
+impacto)
+."
+384,"●
+ 
+D.
+ 
+Visualizar
+ 
+la
+ 
+Solución
+ 
+y
+ 
+el
+ 
+Valor
+ 
+(Necesidad-Beneficio
+ 
+-
+ 
+N
+ 
+de
+ 
+SPIN,
+ 
+Positive
+ 
+Implications
+ 
+-
+ 
+I
+ 
+de
+ 
+GPCTBA):
+ 
+○
+ 
+""Si
+ 
+pudieran
+ 
+resolver
+ 
+[desafío
+ 
+principal],
+ 
+¿qué
+ 
+significaría
+ 
+eso
+ 
+para
+ 
+usted/su
+ 
+equipo/la
+ 
+empresa?"
+385,"¿Qué
+ 
+podrían
+ 
+lograr
+ 
+que
+ 
+no
+ 
+pueden
+ 
+hoy?"
+386,"""
+ 
+6
+ 
+(Define
+ 
+el
+ 
+estado
+ 
+deseado)
+."
+387,"○
+ 
+""¿Cómo
+ 
+se
+ 
+vería
+ 
+el
+ 
+éxito
+ 
+si
+ 
+implementaran
+ 
+una
+ 
+solución
+ 
+que
+ 
+les
+ 
+diera?"
+388,"""
+ 
+33
+ 
+○
+ 
+""¿Cómo
+ 
+encajaría
+ 
+la
+ 
+mejora
+ 
+de
+ 
+este
+ 
+proceso
+ 
+de
+ 
+validación
+ 
+con
+ 
+sus
+ 
+prioridades
+ 
+estratégicas
+ 
+generales
+ 
+que
+ 
+mencionó
+ 
+al
+ 
+principio?"
+389,"""
+ 
+19
+ 
+(Alinea
+ 
+con
+ 
+objetivos
+ 
+mayores)
+."
+390,"○
+ 
+""¿Qué
+ 
+valor
+ 
+tendría
+ 
+para
+ 
+usted
+ 
+personalmente
+ 
+poder
+ 
+["
+391,"delegar
+ 
+esta
+ 
+tarea
+ 
+/
+ 
+tener
+ 
+certeza
+ 
+del
+ 
+cumplimiento
+ 
+/
+ 
+tomar
+ 
+decisiones
+ 
+de
+ 
+vinculación
+ 
+más
+ 
+rápidas
+ 
+y
+ 
+seguras]?""
+ 
+38
+ 
+(Impacto
+ 
+personal)
+."
+392,"Técnicas
+ 
+Durante
+ 
+el
+ 
+Descubrimiento:
+ 
+●
+ 
+Escucha
+ 
+Activa:
+ 
+Mantén
+ 
+contacto
+ 
+visual
+ 
+(si
+ 
+es
+ 
+video),
+ 
+asiente,
+ 
+usa
+ 
+frases
+ 
+como
+ 
+""Entiendo"",
+ 
+""Cuénteme
+ 
+más""."
+393,"6
+ 
+●
+ 
+Parafrasear
+ 
+y
+ 
+Resumir:
+ 
+""Entonces,
+ 
+si
+ 
+entendí
+ 
+bien,
+ 
+el
+ 
+mayor
+ 
+reto
+ 
+es
+ 
+[X]
+ 
+y
+ 
+eso
+ 
+está
+ 
+causando
+ 
+[Y]."
+394,"¿Es
+ 
+correcto?""."
+395,"6
+ 
+Esto
+ 
+confirma
+ 
+entendimiento
+ 
+y
+ 
+muestra
+ 
+que
+ 
+escuchas."
+396,"●
+ 
+Silencio
+ 
+Estratégico:
+ 
+No
+ 
+temas
+ 
+a
+ 
+las
+ 
+pausas
+ 
+cortas
+ 
+después
+ 
+de
+ 
+una
+ 
+pregunta
+ 
+profunda."
+397,"Dale
+ 
+tiempo
+ 
+al
+ 
+prospecto
+ 
+para
+ 
+pensar."
+398,"24
+ 
+●
+ 
+Toma
+ 
+Notas
+ 
+Clave:
+ 
+Anota
+ 
+los
+ 
+dolores,
+ 
+objetivos,
+ 
+métricas,
+ 
+personas
+ 
+mencionadas."
+399,"Usa
+ 
+la
+ 
+plantilla
+ 
+de
+ 
+notas
+ 
+(ver
+ 
+Sección
+ 
+VIII)."
+400,"Transición
+ 
+y
+ 
+Calificación
+ 
+Integrada
+ 
+(10-15
+ 
+min)
+ 
+Una
+ 
+vez
+ 
+que
+ 
+tengas
+ 
+una
+ 
+comprensión
+ 
+sólida
+ 
+de
+ 
+la
+ 
+situación,
+ 
+problemas
+ 
+e
+ 
+impacto,
+ 
+integra
+ 
+preguntas
+ 
+de
+ 
+calificación
+ 
+de
+ 
+forma
+ 
+natural."
+401,"Para
+ 
+asegurarme
+ 
+de
+ 
+que
+ 
+estoy
+ 
+en
+ 
+la
+ 
+misma
+ 
+página,
+ 
+los
+ 
+principales
+ 
+desafíos
+ 
+que
+ 
+identificamos
+ 
+son
+ 
+[resume
+ 
+2-3
+ 
+dolores
+ 
+clave
+ 
+y
+ 
+su
+ 
+impacto
+ 
+cuantificado
+ 
+si
+ 
+es
+ 
+posible]."
+402,"Y
+ 
+el
+ 
+objetivo
+ 
+sería
+ 
+lograr
+ 
+[resume
+ 
+el
+ 
+estado
+ 
+deseado/beneficio
+ 
+principal]."
+403,"¿He
+ 
+captado
+ 
+bien
+ 
+la
+ 
+esencia?""."
+404,"22
+ 
+●
+ 
+Introducir
+ 
+Calificación
+ 
+(Adaptado
+ 
+de
+ 
+BANT/MEDDIC/GPCTBA):
+ 
+(Área
+ 
+de
+ 
+mejora:
+ 
+Mapeo
+ 
+de
+ 
+Decisión
+ 
+y
+ 
+Urgencia)
+."
+405,"○
+ 
+Necesidad
+ 
+(Need):
+ 
+Ya
+ 
+validada
+ 
+en
+ 
+el
+ 
+descubrimiento.
+ 
+Confirma:
+ 
+""Basado
+ 
+en
+ 
+lo
+ 
+que
+ 
+hemos
+ 
+hablado,
+ 
+¿resolver
+ 
+estos
+ 
+desafíos
+ 
+es
+ 
+una
+ 
+prioridad
+ 
+alta
+ 
+para
+ 
+usted
+ 
+y
+ 
+la
+ 
+empresa
+ 
+en
+ 
+este
+ 
+momento?""."
+406,"3
+ 
+○
+ 
+Autoridad
+ 
+y
+ 
+Proceso
+ 
+de
+ 
+Decisión
+ 
+(Authority/Decision
+ 
+Process):
+ 
+(Preguntar
+ 
+con
+ 
+confianza)
+ 
+■
+ 
+""Para
+ 
+entender
+ 
+cómo
+ 
+podríamos
+ 
+avanzar
+ 
+si
+ 
+hubiera
+ 
+un
+ 
+buen
+ 
+encaje:
+ 
+¿Cómo
+ 
+toma
+ 
+su
+ 
+empresa
+ 
+decisiones
+ 
+sobre
+ 
+herramientas
+ 
+o
+ 
+servicios
+ 
+como
+ 
+este?""."
+407,"4
+ 
+■
+ 
+""Además
+ 
+de
+ 
+usted,
+ 
+¿quién
+ 
+más
+ 
+estaría
+ 
+involucrado
+ 
+en
+ 
+la
+ 
+evaluación
+ 
+y
+ 
+aprobación
+ 
+final
+ 
+de
+ 
+una
+ 
+solución
+ 
+así?""."
+408,"13
+ 
+(Identifica
+ 
+stakeholders)
+.
+ 
+■
+ 
+""¿Quién
+ 
+tiene
+ 
+la
+ 
+responsabilidad
+ 
+final
+ 
+sobre
+ 
+el
+ 
+presupuesto
+ 
+para
+ 
+este
+ 
+tipo
+ 
+de
+ 
+iniciativas?""
+ 
+(Identifica
+ 
+al
+ 
+Comprador
+ 
+Económico)."
+409,"18
+ 
+■
+ 
+""¿Cuáles
+ 
+son
+ 
+los
+ 
+criterios
+ 
+clave
+ 
+que
+ 
+suelen
+ 
+usar
+ 
+para
+ 
+evaluar
+ 
+y
+ 
+comparar
+ 
+proveedores
+ 
+en
+ 
+esta
+ 
+área?""."
+410,"4
+ 
+(Entiende
+ 
+criterios
+ 
+de
+ 
+decisión)
+."
+411,"○
+ 
+Presupuesto
+ 
+(Budget/Money):
+ 
+(Abordar
+ 
+con
+ 
+enfoque
+ 
+en
+ 
+valor,
+ 
+no
+ 
+precio
+ 
+directo)
+ 
+■
+ 
+""Considerando
+ 
+el
+ 
+impacto
+ 
+que
+ 
+discutimos
+ 
+[menciona
+ 
+impacto
+ 
+cuantificado
+ 
+si
+ 
+es
+ 
+posible,
+ 
+ej.
+ 
+riesgo
+ 
+de
+ 
+multas,
+ 
+horas
+ 
+ahorradas],
+ 
+¿cómo
+ 
+suelen
+ 
+justificar
+ 
+internamente
+ 
+inversiones
+ 
+que
+ 
+generan
+ 
+este
+ 
+tipo
+ 
+de
+ 
+retorno
+ 
+o
+ 
+mitigación
+ 
+de
+ 
+riesgo?""."
+412,"13
+ 
+■
+ 
+""Típicamente,
+ 
+¿existe
+ 
+un
+ 
+proceso
+ 
+o
+ 
+rango
+ 
+presupuestario
+ 
+asignado
+ 
+para
+ 
+herramientas
+ 
+de
+ 
+cumplimiento/gestión
+ 
+de
+ 
+riesgos/eficiencia
+ 
+operativa?""."
+413,"13
+ 
+■
+ 
+(Si
+ 
+mencionan
+ 
+competidores
+ 
+""ilimitados""):
+ 
+""Entiendo
+ 
+que
+ 
+algunas
+ 
+opciones
+ 
+parecen
+ 
+ilimitadas."
+414,"Desde
+ 
+nuestra
+ 
+experiencia,
+ 
+el
+ 
+valor
+ 
+real
+ 
+suele
+ 
+estar
+ 
+en
+ 
+la
+ 
+calidad
+ 
+y
+ 
+alcance
+ 
+de
+ 
+la
+ 
+información,
+ 
+la
+ 
+evidencia
+ 
+y
+ 
+la
+ 
+eficiencia
+ 
+que
+ 
+se
+ 
+logra."
+415,"¿Cómo
+ 
+priorizan
+ 
+ustedes
+ 
+esos
+ 
+factores
+ 
+frente
+ 
+a
+ 
+un
+ 
+modelo
+ 
+de
+ 
+'consultas
+ 
+ilimitadas'
+ 
+con
+ 
+potencial
+ 
+menor
+ 
+alcance
+ 
+o
+ 
+confiabilidad?""
+ 
+(Re-enfoca
+ 
+en
+ 
+valor
+ 
+y
+ 
+diferenciadores)
+."
+416,"○
+ 
+Tiempo
+ 
+y
+ 
+Urgencia
+ 
+(Timeline/Urgency/Critical
+ 
+Event):
+ 
+(Área
+ 
+de
+ 
+mejora:
+ 
+Generar
+ 
+urgencia
+ 
+consultiva)
+ 
+■
+ 
+""Mencionó
+ 
+que
+ 
+es
+ 
+una
+ 
+preocupación."
+417,"¿Existe
+ 
+alguna
+ 
+fecha
+ 
+límite
+ 
+interna
+ 
+o
+ 
+externa
+ 
+(ej.
+ 
+auditoría,
+ 
+entrada
+ 
+en
+ 
+vigor
+ 
+de
+ 
+normativa,
+ 
+lanzamiento
+ 
+de
+ 
+proyecto)
+ 
+que
+ 
+haga
+ 
+importante
+ 
+resolver
+ 
+estos
+ 
+desafíos
+ 
+pronto?""."
+418,"24
+ 
+(Busca
+ 
+evento
+ 
+crítico)
+.
+ 
+■
+ 
+""Idealmente,
+ 
+¿para
+ 
+cuándo
+ 
+les
+ 
+gustaría
+ 
+tener
+ 
+una
+ 
+solución
+ 
+implementada
+ 
+y
+ 
+comenzando
+ 
+a
+ 
+ver
+ 
+resultados
+ 
+como
+ 
+[menciona
+ 
+beneficio
+ 
+clave]?""."
+419,"13
+ 
+■
+ 
+""¿Qué
+ 
+otras
+ 
+iniciativas
+ 
+importantes
+ 
+compiten
+ 
+por
+ 
+su
+ 
+tiempo
+ 
+y
+ 
+recursos
+ 
+en
+ 
+este
+ 
+momento?"
+420,"¿Cómo
+ 
+se
+ 
+prioriza"
+421,"esta
+ 
+necesidad
+ 
+frente
+ 
+a
+ 
+ellas?""."
+422,"13
+ 
+(Entiende
+ 
+priorización)
+.
+ 
+■
+ 
+(Si
+ 
+no
+ 
+hay
+ 
+urgencia
+ 
+clara):
+ 
+""Entiendo
+ 
+que
+ 
+no
+ 
+haya
+ 
+una
+ 
+fecha
+ 
+límite
+ 
+inmediata."
+423,"Sin
+ 
+embargo,
+ 
+considerando
+ 
+el
+ 
+impacto
+ 
+diario
+ 
+de
+ 
+[menciona
+ 
+dolor
+ 
+persistente,
+ 
+ej.
+ 
+tiempo
+ 
+perdido,
+ 
+riesgo
+ 
+latente],
+ 
+¿cuál
+ 
+es
+ 
+el
+ 
+costo
+ 
+de
+ 
+esperar
+ 
+otros
+ 
+3-6
+ 
+meses
+ 
+para
+ 
+abordar
+ 
+esto?""
+ 
+(Refuerza
+ 
+consecuencia
+ 
+de
+ 
+inacción)
+."
+424,"○
+ 
+Identificar
+ 
+Campeón
+ 
+(Champion):
+ 
+A
+ 
+lo
+ 
+largo
+ 
+de
+ 
+la
+ 
+conversación,
+ 
+evalúa:
+ 
+¿Muestra
+ 
+esta
+ 
+persona
+ 
+un
+ 
+interés
+ 
+personal
+ 
+en
+ 
+resolver
+ 
+el
+ 
+problema?
+ 
+¿Parece
+ 
+dispuesto/a
+ 
+a
+ 
+navegar
+ 
+internamente?
+ 
+¿Entiende
+ 
+y
+ 
+valora
+ 
+nuestra
+ 
+solución
+ 
+potencial?."
+425,"Manejo
+ 
+de
+ 
+Objeciones
+ 
+Comunes
+ 
+en
+ 
+EVA
+ 
+Anticipa
+ 
+y
+ 
+prepárate
+ 
+para
+ 
+responder
+ 
+consultivamente.6
+ 
+●
+ 
+Objeción:
+ 
+""No
+ 
+tenemos
+ 
+presupuesto
+ 
+ahora
+ 
+/
+ 
+Es
+ 
+muy
+ 
+caro."
+426,"""
+ 
+○
+ 
+Respuesta:
+ 
+""Entiendo
+ 
+que
+ 
+el
+ 
+presupuesto
+ 
+es
+ 
+una
+ 
+consideración
+ 
+importante."
+427,"Más
+ 
+allá
+ 
+del
+ 
+costo
+ 
+inicial,
+ 
+enfoquémonos
+ 
+en
+ 
+el
+ 
+valor."
+428,"Si
+ 
+pudiéramos
+ 
+demostrar
+ 
+un
+ 
+ROI
+ 
+claro
+ 
+al
+ 
+[reducir
+ 
+X
+ 
+horas
+ 
+manuales
+ 
+/
+ 
+mitigar
+ 
+Y
+ 
+riesgo
+ 
+de
+ 
+multa
+ 
+/
+ 
+acelerar
+ 
+Z
+ 
+proceso],
+ 
+¿sería
+ 
+algo
+ 
+que
+ 
+valdría
+ 
+la
+ 
+pena
+ 
+priorizar
+ 
+para
+ 
+una
+ 
+futura
+ 
+asignación
+ 
+presupuestaria?"
+429,"¿Cómo
+ 
+funciona
+ 
+ese
+ 
+proceso?""."
+430,"42
+ 
+(Enfoca
+ 
+en
+ 
+ROI
+ 
+y
+ 
+proceso
+ 
+presupuestario)
+."
+431,"●
+ 
+Objeción:
+ 
+""Estamos
+ 
+bien
+ 
+con
+ 
+nuestro
+ 
+proceso
+ 
+manual
+ 
+/
+ 
+proveedor
+ 
+actual."
+432,"""
+ 
+○
+ 
+Respuesta:
+ 
+""Me
+ 
+alegra
+ 
+que
+ 
+tengan
+ 
+un
+ 
+sistema
+ 
+funcionando."
+433,"Para
+ 
+entender
+ 
+mejor,
+ 
+¿qué
+ 
+aspectos
+ 
+específicos
+ 
+funcionan
+ 
+muy
+ 
+bien?"
+434,"Y
+ 
+si
+ 
+hubiera
+ 
+un
+ 
+área
+ 
+donde
+ 
+vieran
+ 
+una
+ 
+oportunidad
+ 
+de
+ 
+mejora,
+ 
+incluso
+ 
+pequeña,
+ 
+¿cuál
+ 
+sería?""."
+435,"15
+ 
+(Busca
+ 
+grietas
+ 
+y
+ 
+oportunidades)
+."
+436,"●
+ 
+Objeción:
+ 
+""Necesito
+ 
+hablarlo
+ 
+con
+ 
+mi
+ 
+jefe
+ 
+/
+ 
+otro
+ 
+equipo."
+437,"""
+ 
+○
+ 
+Respuesta:
+ 
+""Totalmente
+ 
+comprensible."
+438,"Para
+ 
+que
+ 
+esa
+ 
+conversación
+ 
+sea
+ 
+lo
+ 
+más
+ 
+productiva
+ 
+posible
+ 
+para
+ 
+usted,
+ 
+¿qué
+ 
+información
+ 
+clave
+ 
+o
+ 
+qué
+ 
+aspectos
+ 
+de
+ 
+lo
+ 
+que
+ 
+hablamos
+ 
+hoy
+ 
+cree
+ 
+que
+ 
+serían
+ 
+más
+ 
+importantes
+ 
+para
+ 
+ellos?"
+439,"¿Le
+ 
+ayudaría
+ 
+si
+ 
+preparamos
+ 
+juntos
+ 
+un
+ 
+resumen
+ 
+o
+ 
+definimos
+ 
+los
+ 
+puntos
+ 
+clave
+ 
+a
+ 
+discutir?""."
+440,"9
+ 
+(Facilita
+ 
+la
+ 
+venta
+ 
+interna)
+."
+441,"●
+ 
+Objeción:
+ 
+""Su
+ 
+competidor
+ 
+ofrece
+ 
+consultas
+ 
+ilimitadas."
+442,"""
+ 
+○
+ 
+Respuesta:
+ 
+""Es
+ 
+una
+ 
+oferta
+ 
+atractiva
+ 
+a
+ 
+primera
+ 
+vista."
+443,"Sin
+ 
+embargo,
+ 
+lo
+ 
+que
+ 
+hemos
+ 
+visto
+ 
+con
+ 
+clientes
+ 
+que
+ 
+valoran
+ 
+la
+ 
+rigurosidad
+ 
+es
+ 
+que
+ 
+la
+ 
+calidad
+,
+ 
+el
+ 
+alcance
+ 
+de
+ 
+las
+ 
+fuentes
+ 
+consultadas
+ 
+y
+ 
+la
+ 
+evidencia
+ 
+generada
+ 
+son
+ 
+cruciales
+ 
+para
+ 
+realmente
+ 
+mitigar
+ 
+riesgos
+ 
+y
+ 
+cumplir
+ 
+normativas."
+444,"¿Cómo
+ 
+equilibran
+ 
+ustedes
+ 
+la
+ 
+cantidad
+ 
+versus
+ 
+la
+ 
+profundidad
+ 
+y
+ 
+confiabilidad
+ 
+de
+ 
+la
+ 
+validación
+ 
+en
+ 
+su
+ 
+proceso
+ 
+de
+ 
+decisión?"
+445,"""
+ 
+(Re-enfoca
+ 
+en
+ 
+diferenciadores
+ 
+clave:
+ 
+alcance,
+ 
+evidencia,
+ 
+confiabilidad)
+."
+446,"Técnica
+ 
+General:
+ 
+Escucha
+ 
+la
+ 
+objeción
+ 
+completa,
+ 
+valida
+ 
+la
+ 
+preocupación
+ 
+(""Entiendo
+ 
+por
+ 
+qué
+ 
+pregunta
+ 
+eso...""),
+ 
+haz
+ 
+preguntas
+ 
+para
+ 
+aclarar
+ 
+la
+ 
+raíz
+ 
+de
+ 
+la
+ 
+objeción,
+ 
+y
+ 
+luego
+ 
+responde
+ 
+enfocándote
+ 
+en
+ 
+el
+ 
+valor
+ 
+y
+ 
+la
+ 
+solución
+ 
+al
+ 
+problema
+ 
+subyacente."
+447,"Cierre
+ 
+de
+ 
+la
+ 
+Reunión
+ 
+y
+ 
+Co-Creación
+ 
+del
+ 
+MAP
+ 
+(5-10
+ 
+min)
+ 
+(Área
+ 
+de
+ 
+mejora
+ 
+clave)
+ 
+Nunca
+ 
+termines
+ 
+una
+ 
+EVA
+ 
+sin
+ 
+próximos
+ 
+pasos
+ 
+claros
+ 
+y
+ 
+acordados
+ 
+mutuamente."
+448,"●
+ 
+Resumen
+ 
+Final
+ 
+y
+ 
+Confirmación:
+ 
+""Excelente
+ 
+conversación."
+449,"Solo
+ 
+para
+ 
+recapitular,
+ 
+hemos
+ 
+identificado
+ 
+que
+ 
+[dolor
+ 
+1,
+ 
+dolor
+ 
+2]
+ 
+son
+ 
+desafíos
+ 
+clave
+ 
+que
+ 
+impactan
+ 
+[resultado
+ 
+de
+ 
+negocio],
+ 
+y
+ 
+ven
+ 
+valor
+ 
+potencial
+ 
+en
+ 
+una
+ 
+solución
+ 
+que
+ 
+ofrezca
+ 
+[beneficio
+ 
+1,
+ 
+beneficio
+ 
+2]."
+450,"¿Estamos
+ 
+alineados
+ 
+en
+ 
+eso?""."
+451,"8
+ 
+●
+ 
+Propuesta
+ 
+de
+ 
+Próximo
+ 
+Paso
+ 
+Lógico:
+ 
+Basado
+ 
+en
+ 
+la
+ 
+conversación
+ 
+y
+ 
+la
+ 
+calificación,
+ 
+sugiere
+ 
+el
+ 
+siguiente
+ 
+paso
+ 
+específico
+ 
+y
+ 
+con
+ 
+valor
+ 
+para
+ 
+el
+ 
+prospecto."
+452,"○
+ 
+Si
+ 
+calificado
+ 
+y
+ 
+hay
+ 
+interés
+ 
+claro:
+ 
+""Dado
+ 
+que
+ 
+[dolor
+ 
+específico]
+ 
+es
+ 
+una
+ 
+prioridad,
+ 
+el
+ 
+siguiente
+ 
+paso
+ 
+lógico
+ 
+sería
+ 
+agendar
+ 
+una
+ 
+sesión
+ 
+de
+ 
+solución
+ 
+(SOL)
+ 
+más
+ 
+profunda
+ 
+donde
+ 
+podamos
+ 
+mostrarle
+ 
+exactamente
+ 
+cómo
+ 
+Tusdatos.co
+ 
+aborda
+ 
+[ese
+ 
+dolor
+ 
+específico]
+ 
+y
+ 
+discutir
+ 
+cómo
+ 
+se
+ 
+integraría
+ 
+en
+ 
+su
+ 
+flujo."
+453,"¿Tendría
+ 
+sentido
+ 
+agendar
+ 
+30-45
+ 
+minutos
+ 
+la
+ 
+próxima
+ 
+semana
+ 
+para
+ 
+eso?"
+454,"""
+ 
+○
+ 
+Si
+ 
+necesita
+ 
+involucrar
+ 
+a
+ 
+otros:
+ 
+""Como
+ 
+mencionó
+ 
+que
+ 
+[otro
+ 
+stakeholder]
+ 
+es
+ 
+clave
+ 
+en
+ 
+la
+ 
+decisión,
+ 
+¿qué
+ 
+le
+ 
+parecería
+ 
+si
+ 
+agendamos
+ 
+una
+ 
+breve
+ 
+reunión
+ 
+conjunta
+ 
+para
+ 
+compartirles
+ 
+los
+ 
+puntos
+ 
+clave
+ 
+que
+ 
+discutimos
+ 
+hoy
+ 
+y
+ 
+entender
+ 
+su
+ 
+perspectiva?
+ 
+Podríamos
+ 
+enfocarla
+ 
+en
+ 
+[tema
+ 
+relevante
+ 
+para
+ 
+ese
+ 
+stakeholder]."
+455,"""
+ 
+○
+ 
+Si
+ 
+necesita
+ 
+más
+ 
+información
+ 
+interna:
+ 
+""Entiendo
+ 
+que
+ 
+necesita
+ 
+validar
+ 
+[X]
+ 
+internamente."
+456,"¿Qué
+ 
+tal
+ 
+si
+ 
+agendamos
+ 
+un
+ 
+breve
+ 
+check-in
+ 
+para
+ 
+el
+ 
+[fecha
+ 
+tentativa]
+ 
+para
+ 
+revisar
+ 
+sus
+ 
+hallazgos
+ 
+y
+ 
+definir
+ 
+los
+ 
+siguientes
+ 
+pasos?"
+457,"""
+ 
+○
+ 
+Si
+ 
+no
+ 
+califica:
+ 
+(Con
+ 
+tacto)
+ 
+""Basado
+ 
+en
+ 
+nuestra
+ 
+conversación,
+ 
+parece
+ 
+que
+ 
+sus
+ 
+necesidades
+ 
+actuales
+ 
+podrían
+ 
+no
+ 
+alinearse
+ 
+perfectamente
+ 
+con
+ 
+lo
+ 
+que
+ 
+ofrecemos
+ 
+en
+ 
+este
+ 
+momento."
+458,"Aprecio
+ 
+su
+ 
+tiempo
+ 
+y
+ 
+transparencia."
+459,"¿Le
+ 
+parece
+ 
+bien
+ 
+si
+ 
+mantenemos
+ 
+el
+ 
+contacto
+ 
+y
+ 
+le
+ 
+envío
+ 
+información
+ 
+relevante
+ 
+por
+ 
+si
+ 
+sus
+ 
+necesidades
+ 
+cambian
+ 
+en
+ 
+el
+ 
+futuro?"
+460,"""
+ 
+●
+ 
+Co-Creación
+ 
+del
+ 
+MAP
+ 
+(Plan
+ 
+de
+ 
+Acción
+ 
+Mutuo):
+ 
+Si
+ 
+avanzan,
+ 
+formaliza
+ 
+los
+ 
+pasos."
+461,"""Perfecto."
+462,"Entonces,
+ 
+para
+ 
+asegurarnos
+ 
+de
+ 
+que
+ 
+ambos
+ 
+estamos
+ 
+claros
+ 
+en
+ 
+el
+ 
+camino
+ 
+a
+ 
+seguir,
+ 
+definamos
+ 
+los
+ 
+próximos
+ 
+pasos
+ 
+juntos
+ 
+(MAP):""
+ 
+○
+ 
+Paso
+ 
+1
+ 
+(Inmediato):
+ 
+""Yo
+ 
+le
+ 
+enviaré
+ 
+un
+ 
+resumen
+ 
+de
+ 
+esta
+ 
+llamada
+ 
+y
+ 
+la
+ 
+invitación
+ 
+para
+ 
+la
+ 
+sesión
+ 
+SOL
+ 
+para
+ 
+[fecha/hora
+ 
+tentativa]."
+463,"""
+ 
+(Tu
+ 
+acción)
+ 
+○
+ 
+Paso
+ 
+2
+ 
+(Prospecto):
+ 
+""¿Hay
+ 
+alguna
+ 
+información
+ 
+que
+ 
+necesite
+ 
+preparar
+ 
+o
+ 
+alguien
+ 
+que
+ 
+deba
+ 
+invitar
+ 
+de
+ 
+su
+ 
+lado
+ 
+para
+ 
+esa
+ 
+sesión?"
+464,"""
+ 
+(Acción
+ 
+del
+ 
+prospecto,
+ 
+si
+ 
+aplica)."
+465,"○
+ 
+Paso
+ 
+3
+ 
+(Siguiente
+ 
+Reunión):
+ 
+""En
+ 
+la
+ 
+sesión
+ 
+SOL
+ 
+del
+ 
+[Fecha],
+ 
+cubriremos
+ 
+[temas
+ 
+específicos]
+ 
+y
+ 
+el
+ 
+objetivo
+ 
+será."
+466,"""
+ 
+(Acción
+ 
+conjunta)."
+467,"○
+ 
+Paso
+ 
+4
+ 
+(Post-SOL):
+ 
+""Después
+ 
+de
+ 
+eso,
+ 
+si
+ 
+ambos
+ 
+vemos
+ 
+valor,
+ 
+el
+ 
+siguiente
+ 
+paso
+ 
+podría
+ 
+ser
+ 
+[ej.
+ 
+prueba
+ 
+de
+ 
+concepto,
+ 
+revisión
+ 
+de
+ 
+propuesta
+ 
+detallada]."
+468,"""
+ 
+(Visión
+ 
+a
+ 
+futuro)."
+469,"○
+ 
+Confirmación
+ 
+Final:
+ 
+""¿Este
+ 
+plan
+ 
+de
+ 
+acción
+ 
+mutuo
+ 
+le
+ 
+parece
+ 
+razonable
+ 
+y
+ 
+cubre
+ 
+los
+ 
+pasos
+ 
+necesarios
+ 
+desde
+ 
+su
+ 
+perspectiva?"
+470,"""
+ 
+(Obtén
+ 
+acuerdo
+ 
+explícito)
+.
+ 
+7."
+471,"Acciones
+ 
+Post-Reunión
+ 
+(Inmediatas)
+ 
+●
+ 
+Actualizar
+ 
+HubSpot
+ 
+CRM:
+ 
+Registra
+ 
+toda
+ 
+la
+ 
+información
+ 
+clave
+ 
+de
+ 
+la
+ 
+EVA
+ 
+usando
+ 
+la
+ 
+plantilla
+ 
+de
+ 
+notas
+ 
+(ver
+ 
+Sección
+ 
+VIII)."
+472,"Completa
+ 
+los
+ 
+campos
+ 
+obligatorios
+ 
+y
+ 
+actualiza
+ 
+la
+ 
+etapa
+ 
+de
+ 
+la
+ 
+oportunidad."
+473,"(Fundamental
+ 
+para
+ 
+la
+ 
+métrica
+ 
+de
+ 
+""Calidad
+ 
+de
+ 
+info
+ 
+en
+ 
+CRM"")
+.
+ 
+●
+ 
+Enviar
+ 
+Email
+ 
+de
+ 
+Resumen
+ 
+y
+ 
+MAP:
+ 
+Envía
+ 
+un
+ 
+correo
+ 
+conciso
+ 
+resumiendo
+ 
+los
+ 
+puntos
+ 
+clave
+ 
+discutidos,
+ 
+los
+ 
+dolores
+ 
+identificados,
+ 
+el
+ 
+valor
+ 
+potencial
+ 
+y
+ 
+confirmando
+ 
+el
+ 
+MAP
+ 
+acordado
+ 
+(fechas,
+ 
+horas,
+ 
+acciones,
+ 
+asistentes)."
+474,"Adjunta
+ 
+la
+ 
+presentación
+ 
+de
+ 
+propuesta
+ 
+de
+ 
+valor
+ 
+si
+ 
+se
+ 
+acordó."
+475,"●
+ 
+Agendar
+ 
+Próxima
+ 
+Reunión:
+ 
+Si
+ 
+se
+ 
+acordó,
+ 
+envía
+ 
+la
+ 
+invitación
+ 
+del
+ 
+calendario
+ 
+inmediatamente."
+476,"●
+ 
+Programar
+ 
+Tareas
+ 
+de
+ 
+Seguimiento:
+ 
+Crea
+ 
+tareas
+ 
+en
+ 
+HubSpot
+ 
+para
+ 
+tus
+ 
+acciones
+ 
+del
+ 
+MAP."
+477,"V.
+ 
+Integración
+ 
+con
+ 
+HubSpot
+ 
+CRM
+ 
+y
+ 
+Flujo
+ 
+de
+ 
+Trabajo
+ 
+La
+ 
+consistencia
+ 
+en
+ 
+el
+ 
+registro
+ 
+de
+ 
+información
+ 
+es
+ 
+vital
+ 
+para
+ 
+medir
+ 
+el
+ 
+éxito
+ 
+y
+ 
+mejorar
+ 
+el
+ 
+proceso."
+478,"43
+ 
+Plantilla
+ 
+de
+ 
+Notas
+ 
+de
+ 
+EVA
+ 
+en
+ 
+HubSpot
+ 
+(Sugerencia):
+ 
+Crea
+ 
+una
+ 
+plantilla
+ 
+de
+ 
+Notas
+ 
+en
+ 
+HubSpot
+ 
+para
+ 
+las
+ 
+llamadas
+ 
+de
+ 
+EVA
+ 
+que
+ 
+incluya
+ 
+secciones
+ 
+alineadas
+ 
+con
+ 
+este
+ 
+playbook:
+ 
+●
+ 
+Información
+ 
+del
+ 
+Prospecto:
+ 
+Nombre,
+ 
+Cargo,
+ 
+Empresa,
+ 
+Industria."
+479,"●
+ 
+Contexto
+ 
+y
+ 
+Objetivos:
+ 
+Prioridades
+ 
+estratégicas,
+ 
+Proceso
+ 
+actual,
+ 
+Métricas
+ 
+de
+ 
+éxito
+ 
+actuales."
+480,"●
+ 
+Desafíos
+ 
+y
+ 
+Dolores
+ 
+Identificados:
+ 
+Lista
+ 
+específica
+ 
+de
+ 
+problemas
+ 
+mencionados."
+481,"●
+ 
+Impacto
+ 
+y
+ 
+Consecuencias:
+ 
+Impacto
+ 
+cuantificado
+ 
+(si
+ 
+se
+ 
+logró),
+ 
+consecuencias
+ 
+de
+ 
+la
+ 
+inacción."
+482,"●
+ 
+Estado
+ 
+Deseado
+ 
+(Need-Payoff):
+ 
+Qué
+ 
+significa
+ 
+el
+ 
+éxito
+ 
+para
+ 
+ellos,
+ 
+beneficios
+ 
+clave
+ 
+buscados."
+483,"●
+ 
+Proceso
+ 
+de
+ 
+Decisión:
+ 
+Stakeholders
+ 
+identificados
+ 
+(roles),
+ 
+Comprador
+ 
+Económico,
+ 
+Criterios
+ 
+de
+ 
+decisión,
+ 
+Proceso
+ 
+típico."
+484,"●
+ 
+Presupuesto/Inversión:
+ 
+Conversación
+ 
+sobre
+ 
+presupuesto,
+ 
+justificación
+ 
+de
+ 
+valor."
+485,"●
+ 
+Tiempo/Urgencia:
+ 
+Fechas
+ 
+límite,
+ 
+eventos
+ 
+críticos,
+ 
+priorización."
+486,"●
+ 
+Plan
+ 
+Tusdatos.co
+ 
+Identificado:
+ 
+Cumplimiento
+ 
+/
+ 
+Validación
+ 
+/
+ 
+Otro."
+487,"●
+ 
+Volumen
+ 
+Estimado:
+ 
+Proyección
+ 
+anual
+ 
+de
+ 
+consultas."
+488,"●
+ 
+Objeciones
+ 
+Clave:
+ 
+Objeciones
+ 
+planteadas
+ 
+y
+ 
+cómo
+ 
+se
+ 
+abordaron."
+489,"●
+ 
+Calificación
+ 
+General:
+ 
+¿Es
+ 
+una
+ 
+oportunidad
+ 
+real?
+ 
+(Sí/No/"
+490,"Quizás
+ 
+-
+ 
+con
+ 
+justificación)."
+491,"●
+ 
+MAP
+ 
+Acordado:
+ 
+Detalle
+ 
+de
+ 
+los
+ 
+próximos
+ 
+pasos,
+ 
+fechas
+ 
+y
+ 
+responsables."
+492,"●
+ 
+Notas
+ 
+Adicionales:
+ 
+Cualquier
+ 
+otra
+ 
+información
+ 
+relevante."
+493,"Campos
+ 
+Clave
+ 
+del
+ 
+CRM
+ 
+a
+ 
+Actualizar:
+ 
+Asegúrate
+ 
+de
+ 
+que
+ 
+los
+ 
+campos
+ 
+correspondientes
+ 
+en
+ 
+el
+ 
+Deal/Opportunity
+ 
+de
+ 
+HubSpot
+ 
+estén
+ 
+actualizados
+ 
+después
+ 
+de
+ 
+cada
+ 
+EVA:
+ 
+●
+ 
+Etapa
+ 
+del
+ 
+Negocio
+ 
+(Ej.
+ 
+""Evaluación
+ 
+Completada"",
+ 
+""Calificado
+ 
+para
+ 
+SOL"",
+ 
+""Descalificado"")."
+494,"●
+ 
+Fecha
+ 
+de
+ 
+Próximo
+ 
+Paso."
+495,"●
+ 
+Descripción
+ 
+del
+ 
+Próximo
+ 
+Paso."
+496,"●
+ 
+Valor
+ 
+Estimado
+ 
+(basado
+ 
+en
+ 
+plan
+ 
+y
+ 
+volumen)."
+497,"●
+ 
+Fecha
+ 
+de
+ 
+Cierre
+ 
+Estimada
+ 
+(basada
+ 
+en
+ 
+Timeline)."
+498,"●
+ 
+Campos
+ 
+personalizados
+ 
+para:
+ 
+Dolor
+ 
+Principal,
+ 
+Comprador
+ 
+Económico,
+ 
+Criterios
+ 
+de
+ 
+Decisión
+ 
+Clave,
+ 
+Nivel
+ 
+de
+ 
+Urgencia
+ 
+(Alto/Medio/Bajo)."
+499,"Flujo
+ 
+de
+ 
+Trabajo
+ 
+Post-EVA:
+ 
+1."
+500,"Finalizar
+ 
+llamada."
+501,"Completar
+ 
+Notas
+ 
+de
+ 
+EVA
+ 
+en
+ 
+HubSpot
+ 
+usando
+ 
+la
+ 
+plantilla."
+502,"Actualizar
+ 
+campos
+ 
+clave
+ 
+del
+ 
+Deal/Opportunity
+ 
+en
+ 
+HubSpot."
+503,"Enviar
+ 
+email
+ 
+de
+ 
+resumen
+ 
++
+ 
+MAP
+ 
+al
+ 
+prospecto."
+504,"Agendar
+ 
+próxima
+ 
+reunión
+ 
+en
+ 
+calendario
+ 
+(si
+ 
+aplica)."
+505,"Crear
+ 
+tareas
+ 
+de
+ 
+seguimiento
+ 
+en
+ 
+HubSpot.
+ 
+(La
+ 
+integración
+ 
+del
+ 
+Playbook
+ 
+directamente
+ 
+en
+ 
+HubSpot
+ 
+puede
+ 
+explorarse
+ 
+con
+ 
+las
+ 
+funcionalidades
+ 
+de
+ 
+Playbooks
+ 
+de
+ 
+HubSpot
+ 
+si
+ 
+se
+ 
+cuenta
+ 
+con
+ 
+Sales
+ 
+Hub
+ 
+Pro/Enterprise
+ 
+46
+)
+ 
+VI."
+506,"Medición
+ 
+del
+ 
+Éxito
+ 
+y
+ 
+Mejora
+ 
+Continua
+ 
+Mediremos
+ 
+el
+ 
+éxito
+ 
+de
+ 
+este
+ 
+playbook
+ 
+a
+ 
+través
+ 
+de
+ 
+métricas
+ 
+específicas
+ 
+y
+ 
+feedback
+ 
+continuo."
+507,"24
+ 
+Métricas
+ 
+Clave
+ 
+(KPIs):
+ 
+1."
+508,"Calidad
+ 
+de
+ 
+la
+ 
+Información
+ 
+en
+ 
+CRM:
+ 
+Auditorías
+ 
+periódicas
+ 
+de
+ 
+las
+ 
+notas
+ 
+de
+ 
+EVA
+ 
+y
+ 
+campos
+ 
+clave
+ 
+completados
+ 
+en
+ 
+HubSpot
+ 
+versus
+ 
+la
+ 
+plantilla
+ 
+y
+ 
+los
+ 
+requisitos
+ 
+de
+ 
+este
+ 
+playbook."
+509,"(Métrica
+ 
+de
+ 
+Calidad
+ 
+y
+ 
+Adopción)
+."
+510,"Tiempo
+ 
+del
+ 
+Ciclo
+ 
+de
+ 
+Venta
+ 
+(EVA
+ 
+->
+ 
+SOL
+ 
+->
+ 
+Cierre):
+ 
+Medir
+ 
+si
+ 
+un
+ 
+proceso
+ 
+de
+ 
+EVA
+ 
+más
+ 
+riguroso
+ 
+impacta
+ 
+la
+ 
+velocidad
+ 
+general
+ 
+del
+ 
+ciclo."
+511,"(Métrica
+ 
+de
+ 
+Eficiencia)
+."
+512,"Tasa
+ 
+de
+ 
+Cierre
+ 
+(Win
+ 
+Rate)
+ 
+de
+ 
+Oportunidades
+ 
+que
+ 
+Siguieron
+ 
+el
+ 
+Playbook:
+ 
+Comparar
+ 
+el
+ 
+win
+ 
+rate
+ 
+de
+ 
+oportunidades
+ 
+donde
+ 
+se
+ 
+aplicó
+ 
+consistentemente
+ 
+el
+ 
+playbook
+ 
+versus
+ 
+las
+ 
+que
+ 
+no.
+ 
+(Métrica
+ 
+de
+ 
+Efectividad)
+."
+513,"Tasa
+ 
+de
+ 
+Conversión
+ 
+EVA
+ 
+->
+ 
+SOL:
+ 
+Porcentaje
+ 
+de
+ 
+reuniones
+ 
+EVA
+ 
+que
+ 
+avanzan
+ 
+exitosamente
+ 
+a
+ 
+la
+ 
+siguiente
+ 
+etapa
+ 
+(SOL)."
+514,"(Métrica
+ 
+de
+ 
+Calidad
+ 
+de
+ 
+Calificación)
+."
+515,"Coaching
+ 
+y
+ 
+Refuerzo:
+ 
+●
+ 
+Entrenamiento
+ 
+Inicial:
+ 
+Sesión
+ 
+dedicada
+ 
+a
+ 
+revisar
+ 
+y
+ 
+practicar
+ 
+este
+ 
+playbook."
+516,"●
+ 
+Role-Playing:
+ 
+Practicar
+ 
+escenarios
+ 
+de
+ 
+EVA
+ 
+usando
+ 
+el
+ 
+playbook."
+517,"20
+ 
+●
+ 
+Revisión
+ 
+de
+ 
+Llamadas
+ 
+(Grabadas
+ 
+si
+ 
+es
+ 
+posible):
+ 
+Analizar
+ 
+ejecuciones
+ 
+reales
+ 
+vs."
+518,"el
+ 
+playbook,
+ 
+dando
+ 
+feedback
+ 
+específico."
+519,"20
+ 
+●
+ 
+Sesiones
+ 
+1:1:
+ 
+Coaching
+ 
+individualizado
+ 
+por
+ 
+parte
+ 
+de
+ 
+Gerencia
+ 
+Comercial
+ 
+/
+ 
+Coordinador
+ 
+de
+ 
+Estrategia
+ 
+Comercial
+ 
+enfocándose
+ 
+en
+ 
+áreas
+ 
+de
+ 
+mejora
+ 
+identificadas
+ 
+(Ej."
+520,"Mapeo
+ 
+de
+ 
+decisión,
+ 
+cuantificación
+ 
+de
+ 
+impacto,
+ 
+MAPs)."
+521,"50
+ 
+●
+ 
+Compartir
+ 
+Éxitos:
+ 
+Fomentar
+ 
+que
+ 
+los
+ 
+consultores
+ 
+compartan
+ 
+cómo
+ 
+aplicaron
+ 
+el
+ 
+playbook
+ 
+exitosamente."
+522,"Mantenimiento
+ 
+y
+ 
+Actualización:
+ 
+●
+ 
+Responsables:
+ 
+Coordinador
+ 
+de
+ 
+Estrategia
+ 
+Comercial
+ 
+y
+ 
+Gerente
+ 
+Comercial."
+523,"●
+ 
+Frecuencia:
+ 
+Revisión
+ 
+trimestral
+ 
+o
+ 
+semestral,
+ 
+o
+ 
+antes
+ 
+si
+ 
+hay
+ 
+cambios
+ 
+significativos
+ 
+(producto,
+ 
+mercado,
+ 
+competencia)."
+524,"●
+ 
+Proceso:
+ 
+Recopilar
+ 
+feedback
+ 
+del
+ 
+equipo,
+ 
+analizar
+ 
+métricas,
+ 
+ajustar
+ 
+el
+ 
+playbook
+ 
+y
+ 
+comunicar
+ 
+los
+ 
+cambios."
+525,"15
+ 
+VII.
+ 
+Conclusión:
+ 
+Elevando
+ 
+la
+ 
+Conversación
+ 
+de
+ 
+Evaluación
+ 
+La
+ 
+etapa
+ 
+de
+ 
+EVA
+ 
+es
+ 
+tu
+ 
+momento
+ 
+para
+ 
+brillar
+ 
+como
+ 
+consultor."
+526,"Al
+ 
+aplicar
+ 
+este
+ 
+playbook
+ 
+de
+ 
+manera
+ 
+consistente
+ 
+y
+ 
+adaptativa,
+ 
+no
+ 
+solo
+ 
+mejorarás
+ 
+tus
+ 
+métricas,
+ 
+sino
+ 
+que
+ 
+construirás
+ 
+relaciones
+ 
+más
+ 
+sólidas,
+ 
+entenderás
+ 
+más
+ 
+profundamente
+ 
+a
+ 
+tus
+ 
+clientes
+ 
+y
+ 
+posicionarás
+ 
+a
+ 
+Tusdatos.co
+ 
+como
+ 
+el
+ 
+socio
+ 
+estratégico
+ 
+indispensable
+ 
+en
+ 
+validación
+ 
+y
+ 
+cumplimiento."
+527,"Recuerda:
+ 
+Diagnostica
+ 
+antes
+ 
+de
+ 
+prescribir."
+528,"Escucha
+ 
+más
+ 
+de
+ 
+lo
+ 
+que
+ 
+hablas."
+529,"Aporta
+ 
+valor
+ 
+en
+ 
+cada
+ 
+interacción."
+530,"Obras
+ 
+citadas
+ 
+1."
+531,"10
+ 
+Sales
+ 
+Needs
+ 
+Analysis
+ 
+Questions
+ 
+You
+ 
+Should
+ 
+Always
+ 
+Ask
+ 
+Prospects,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.socoselling.com/creating-a-needs-assessment-for-prospects/
+ 
+2."
+532,"Create
+ 
+a
+ 
+Needs
+ 
+Assessment
+ 
+for
+ 
+Better
+ 
+Client
+ 
+Meetings
+ 
+-
+ 
+Evalinator,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,"
+533,"https://www.evalinator.com/how-to-use-a-needs-assessment-for-sales-success/
+ 
+3."
+534,"Unlock
+ 
+the
+ 
+Secrets
+ 
+to
+ 
+Qualifying
+ 
+in
+ 
+Sales:
+ 
+6
+ 
+Frameworks
+ 
+Not
+ 
+to
+ 
+Miss
+ 
+-
+ 
+Alore.io,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.alore.io/blog/qualifying-in-sales
+ 
+4."
+535,"The
+ 
+Ultimate
+ 
+Guide
+ 
+to
+ 
+Sales
+ 
+Qualification
+ 
+-
+ 
+NCMA,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://ncmagroup.wordpress.com/2019/05/29/the-ultimate-guide-to-sales-quali 
+fication-2/
+ 
+5."
+536,"Sales
+ 
+Qualification-
+ 
+6
+ 
+Frameworks
+ 
+-
+ 
+VAST
+ 
+Tec,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://vasttec.in/6-sales-qualification-frameworks/
+ 
+6."
+537,"Implementing
+ 
+a
+ 
+Consultative
+ 
+Selling
+ 
+Approach:
+ 
+Asking
+ 
+Powerful
+ 
+Discovery
+ 
+Questions
+ 
+-
+ 
+Kixie,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.kixie.com/sales-blog/implementing-a-consultative-selling-approach- 
+asking-powerful-discovery-questions/
+ 
+7."
+538,"The
+ 
+Ultimate
+ 
+Guide
+ 
+to
+ 
+Consultative
+ 
+Selling
+ 
+with
+ 
+Real-World
+ 
+Examples
+ 
+-
+ 
+Mystrika,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://blog.mystrika.com/consultative-selling-definition-techniques-examples/
+ 
+8."
+539,"Everything
+ 
+You
+ 
+Need
+ 
+to
+ 
+Know
+ 
+About
+ 
+Consultative
+ 
+Selling
+ 
+-
+ 
+Richardson
+ 
+Sales
+ 
+Training,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.richardson.com/sales-resources/defining-consultative-sales/
+ 
+9."
+540,"Essential
+ 
+Sales
+ 
+Playbook
+ 
+-
+ 
+The
+ 
+Sales
+ 
+Collective,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://thesalescollective.com/the-essential-sales-playbook-documenting-your-
+sales-strategy-for-consistent-outcomes/
+ 
+10."
+541,"Here's
+ 
+Your
+ 
+Sales
+ 
+Playbook
+ 
+Template
+ 
+for
+ 
+2024
+ 
+|
+ 
+RevBoss,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://revboss.com/blog/heres-your-sales-playbook-template-for-2024
+ 
+11."
+542,"Sales
+ 
+Playbook
+ 
+:
+ 
+r/sales
+ 
+-
+ 
+Reddit,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.reddit.com/r/sales/comments/auc4ia/sales_playbook/
+ 
+12."
+543,"What
+ 
+Is
+ 
+Consultative
+ 
+Sales?"
+544,"Principles
+ 
+and
+ 
+Best
+ 
+Practices
+ 
+-
+ 
+Salesforce,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.salesforce.com/blog/consultative-sales-approach/
+ 
+13."
+545,"Consultative
+ 
+Sales
+ 
+4
+ 
+Basic
+ 
+Principles
+ 
+-
+ 
+PandaDoc,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.pandadoc.com/blog/consultative-sales/
+ 
+14."
+546,"13
+ 
+Best
+ 
+Consultative
+ 
+Sales
+ 
+Questions
+ 
+-
+ 
+The
+ 
+Brooks
+ 
+Group,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://brooksgroup.com/sales-training-blog/consultative-sales-questions/
+ 
+15."
+547,"Consultative
+ 
+selling:
+ 
+Building
+ 
+trust
+ 
+and
+ 
+driving
+ 
+success
+ 
+-
+ 
+Simon-Kucher,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.simon-kucher.com/en/insights/consultative-selling-building-trust-an 
+d-driving-success
+ 
+16."
+548,"Achieve
+ 
+Success
+ 
+in
+ 
+Consultative
+ 
+Selling
+ 
+with
+ 
+Needs
+ 
+Assessments
+ 
+and
+ 
+Tailored
+ 
+Solutions,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://aimarketingengineers.com/achieve-success-in-consultative-selling-with-n 
+eeds-assessments-and-tailored-solutions/
+ 
+17."
+549,"The
+ 
+Sales
+ 
+Professional's
+ 
+Playbook:
+ 
+Advanced
+ 
+Discovery
+ 
+Questions
+ 
+for
+ 
+Winning
+ 
+Client
+ 
+Trust,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://reply.io/sales-discovery-calls/
+ 
+18.
+ 
+Sales
+ 
+Qualification
+ 
+|
+ 
+CRM
+ 
+Strategy
+ 
+for
+ 
+Small
+ 
+Businesses
+ 
+-
+ 
+ProAptivity,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.proaptivity.com/sales-qualification-2/
+ 
+19."
+550,"9
+ 
+Effective
+ 
+Sales
+ 
+Call
+ 
+Discovery
+ 
+Questions
+ 
+To
+ 
+Use
+ 
+In
+ 
+2025
+ 
+-
+ 
+Qwilr,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://qwilr.com/blog/sales-discovery-call-questions/
+ 
+20."
+551,"The
+ 
+Complete
+ 
+Guide
+ 
+to
+ 
+Closing
+ 
+More
+ 
+Deals
+ 
+Using
+ 
+Consultative
+ 
+Selling
+ 
+-
+ 
+Mindtickle,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.mindtickle.com/blog/the-complete-guide-to-closing-more-deals-us"
+552,"ing-consultative-selling/
+ 
+21."
+553,"Top
+ 
+7
+ 
+Consultative
+ 
+Selling
+ 
+Strategies
+ 
+for
+ 
+Your
+ 
+Sales
+ 
+Team
+ 
+-
+ 
+The
+ 
+Brooks
+ 
+Group,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://brooksgroup.com/sales-training-blog/top-7-consultative-selling-strategie"
+554,"s-your-sales-team/
+ 
+22."
+555,"5
+ 
+Steps
+ 
+to
+ 
+Run
+ 
+a
+ 
+Successful
+ 
+Sales
+ 
+Discovery
+ 
+Process
+ 
+|
+ 
+Mixmax,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.mixmax.com/blog/sales-discovery-process
+ 
+23."
+556,"6
+ 
+Consultative
+ 
+Selling
+ 
+Techniques
+ 
+to
+ 
+Close
+ 
+More
+ 
+Deals
+ 
+-
+ 
+Highspot,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.highspot.com/blog/consultative-selling-techniques/
+ 
+24.
+ 
+Sales
+ 
+Playbook:
+ 
+Best
+ 
+Examples
+ 
+&
+ 
+Template
+ 
+|
+ 
+Pipedrive,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.pipedrive.com/en/blog/sales-playbook
+ 
+25."
+557,"7
+ 
+Key
+ 
+Components
+ 
+Of
+ 
+A
+ 
+Successful
+ 
+Sales
+ 
+Playbook
+ 
+-
+ 
+Fireflies.ai,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://fireflies.ai/blog/sales-playbook
+ 
+26."
+558,"5
+ 
+Must
+ 
+Have
+ 
+Sales
+ 
+Playbook
+ 
+Examples
+ 
+-
+ 
+Kickscale,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.kickscale.com/post/5-must-have-sales-playbook-examples
+ 
+27.
+ 
+The
+ 
+Ultimate
+ 
+Guide
+ 
+to
+ 
+Running
+ 
+a
+ 
+Discovery
+ 
+Meeting
+ 
+-
+ 
+GTMnow,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://gtmnow.com/discovery-meeting-structure/
+ 
+28."
+559,"How
+ 
+to
+ 
+Create
+ 
+a
+ 
+High-Impact
+ 
+Sales
+ 
+Meeting
+ 
+Agenda
+ 
+|
+ 
+Grain
+ 
+Blog,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://grain.com/blog/how-to-create-a-high-impact-sales-meeting-agenda
+ 
+29."
+560,"5
+ 
+Killer
+ 
+Sales
+ 
+Playbook
+ 
+Examples
+ 
+From
+ 
+Top
+ 
+Companies
+ 
+(With
+ 
+Free
+ 
+Templates)
+ 
+-
+ 
+6Sense,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://6sense.com/blog/sales-playbook-examples/
+ 
+30.
+ 
+28
+ 
+Questions
+ 
+to
+ 
+Ask
+ 
+on
+ 
+a
+ 
+Discovery
+ 
+Call
+ 
+During
+ 
+the
+ 
+Sales
+ 
+Process
+ 
+-
+ 
+HubSpot
+ 
+Blog,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://blog.hubspot.com/sales/discovery-call-questions
+ 
+31."
+561,"Transforming
+ 
+Sales
+ 
+Coaching
+ 
+with
+ 
+AI:
+ 
+Your
+ 
+Framework
+ 
+for
+ 
+Consultative
+ 
+Selling
+ 
+Success,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.salesken.ai/blog/sales-coaching-for-consultative-selling-success
+ 
+32."
+562,"Your
+ 
+Sales
+ 
+Playbook:
+ 
+Key
+ 
+Elements
+ 
+to
+ 
+Include
+ 
+-
+ 
+SFE
+ 
+Partners,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.sfepartners.com/your-sales-playbook/
+ 
+33."
+563,"MEDDICC
+ 
+vs
+ 
+Other
+ 
+Qualification
+ 
+Frameworks
+ 
+like
+ 
+BANT,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://meddicc.com/resources/meddicc-versus-other-qualification-frameworks 
+-like-bant
+ 
+34."
+564,"Effective
+ 
+Questioning
+ 
+Techniques
+ 
+for
+ 
+Discovery
+ 
+in
+ 
+Consultative
+ 
+Selling
+ 
+-
+ 
+BuzzBoard's
+ 
+AI,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.buzzboard.ai/effective-questioning-techniques-for-discovery-in-co 
+nsultative-selling/
+ 
+35."
+565,"Consultative
+ 
+Selling
+ 
+and
+ 
+Examples
+ 
+-
+ 
+Sales
+ 
+Pro
+ 
+Central,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.salesprocentral.com/consultative-selling/examples/
+ 
+36."
+566,"Key
+ 
+Components
+ 
+&
+ 
+Examples
+ 
+to
+ 
+Craft
+ 
+Successful
+ 
+Sales
+ 
+Playbook
+ 
+-
+ 
+Kennect,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.kennect.io/post/sales-playbook
+ 
+37.
+ 
+18
+ 
+Sales
+ 
+Discovery
+ 
+Call
+ 
+Questions
+ 
+That
+ 
+Drive
+ 
+Results
+ 
+-
+ 
+Highspot,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.highspot.com/blog/discovery-call-questions/
+ 
+38."
+567,"Ultimate
+ 
+Guide
+ 
+to
+ 
+the
+ 
+Consultative
+ 
+Sales
+ 
+Process
+ 
+-
+ 
+Klozers
+ 
+|
+ 
+[2023],
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.klozers.com/consultative-sales-process/
+ 
+39."
+568,"Identifying
+ 
+Small
+ 
+Business
+ 
+Client
+ 
+Needs
+ 
+with
+ 
+Consultative
+ 
+Selling
+ 
+-
+ 
+BuzzBoard's
+ 
+AI,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.buzzboard.ai/what-is-the-process-for-identifying-client-needs-whe 
+n-selling-to-small-businesses-through-consultative-selling/
+ 
+40."
+569,"The
+ 
+Ultimate
+ 
+Guide
+ 
+to
+ 
+Sales
+ 
+Qualification:
+ 
+Steps
+ 
+&
+ 
+Questions
+ 
+-
+ 
+Mixmax,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.mixmax.com/blog/sales-qualification
+ 
+41."
+570,"Sales
+ 
+Trainers
+ 
+and
+ 
+Coaches,
+ 
+best
+ 
+advice
+ 
+to
+ 
+get
+ 
+better
+ 
+at
+ 
+sales
+ 
+-
+ 
+Reddit,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.reddit.com/r/sales/comments/1dxvorv/sales_trainers_and_coaches_b 
+est_advice_to_get/
+ 
+42."
+571,"Consultative
+ 
+Selling:
+ 
+6
+ 
+Key
+ 
+Steps
+ 
+to
+ 
+Keep
+ 
+in
+ 
+Mind
+ 
+-
+ 
+Yoodli,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://yoodli.ai/blog/consultative-selling
+ 
+43."
+572,"Transform
+ 
+Your
+ 
+Sales
+ 
+Workflow
+ 
+with
+ 
+AI:
+ 
+The
+ 
+2025
+ 
+Playbook
+ 
+-
+ 
+Scratchpad,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.scratchpad.com/blog/sales-workflow
+ 
+44."
+573,"How
+ 
+To
+ 
+Assemble
+ 
+An
+ 
+Effective
+ 
+Sales
+ 
+Playbook
+ 
+-
+ 
+Sales
+ 
+CRM,
+ 
+Marketing,
+ 
+Social,
+ 
+All-In-One,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://vipecloud.com/blog/sales-playbook/
+ 
+45."
+574,"Sales
+ 
+Meetings
+ 
+101:
+ 
+Definition,
+ 
+Types,
+ 
+and
+ 
+Best
+ 
+Practices
+ 
+-
+ 
+FluentBooking,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://fluentbooking.com/articles/sales-meeting/
+ 
+46."
+575,"Use
+ 
+playbooks
+ 
+-
+ 
+HubSpot
+ 
+Knowledge
+ 
+Base,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://knowledge.hubspot.com/playbooks/use-playbooks
+ 
+47."
+576,"How
+ 
+to
+ 
+Craft
+ 
+the
+ 
+Perfect
+ 
+Sales
+ 
+Playbook
+ 
+-
+ 
+Highspot,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.highspot.com/blog/sales-playbooks/
+ 
+48."
+577,"How
+ 
+to
+ 
+Build
+ 
+an
+ 
+Effective
+ 
+Sales
+ 
+Meeting
+ 
+Agenda
+ 
+-
+ 
+RAIN
+ 
+Group,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://www.rainsalestraining.com/blog/how-to-build-an-effective-sales-meeting 
+-agenda
+ 
+49."
+578,"Coaching
+ 
+Sales
+ 
+Playbook:
+ 
+How
+ 
+The
+ 
+Perfect
+ 
+Sales
+ 
+Team
+ 
+Unlocks
+ 
+Hyper-Growth,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,
+ 
+https://coachingsales.com/coaching-sales-playbook/
+ 
+50."
+579,"A
+ 
+step-by-step
+ 
+approach
+ 
+to
+ 
+consultative
+ 
+selling
+ 
+-
+ 
+Outreach,
+ 
+fecha
+ 
+de
+ 
+acceso:
+ 
+abril
+ 
+19,
+ 
+2025,"
+580,https://www.outreach.io/resources/blog/what-is-consultative-selling
+581,"Abril/2025 
+1."
+582,"Hablemos de tus expectativas 
+2."
+583,"Presentación del servicio 
+3."
+584,"Acuerdos 
+
+Nacionales e 
+Internacionales Seguridad Atlas 
+Seguridad superior 
+Prosegur + 1500 + 3 50 
+Consulta en un clic 
+Número de documento 2 
+1 1 
+2 
+3 F expedición de documento 
+Categorización hasta para 3 
+áreas Esta funcionalidad permite 
+personalizar la visualización de los 
+hallazgos 
+Ingresar al dashboard, realizar los 
+cambios y guardar sus preferencias 1 
+2 
+3 1 
+2 
+Fuentes en Línea Información de la novedad 
+directamente de la fuente 1 
+2 
+Fecha y hora de la consulta Captura de la consulta en las 
+principales entidades 1 
+2 
+
+Peps a nivel nacional e 
+internacional Más de 150 listas restrictivas 
+Consulta por ID y Denominación 1 
+2 
+3 
+Organiza tus consultas 
+Lanza consultas en Lote 1 
+2 
+Semanalmente 
+Alertas nu nuevos hallazgos 
+En Listas restrictivas y Peps 1 
+2 
+3 
+1 
+2 
+3 
+1 
+2 
+3 
+
+
+
+Consulta en un clic 
+Número de documento 2 
+1 1 
+2 
+3 Número de documento 
+1 
+2 
+3 
+Mes/año LOGO CLIENTE 
+Mes/año LOGO CLIENTE 
+Mes/año LOGO CLIENTE"
+585,Nuevo fragmento 1
+586,Nuevo fragmento 2

@@ -1,0 +1,75 @@
+{
+  "duplicates": 1,
+  "duplicate_percentage": 0.17035775127768313,
+  "very_short_count": 4,
+  "very_long_count": 26,
+  "outliers_count": 33,
+  "outliers_percentage": 5.621805792163544,
+  "shannon_entropy": 9.23138527529469,
+  "total_vocabulary": 2799,
+  "global_diversity_ratio": 0.16905236455879688,
+  "lexical_diversity_by_doc": {
+    "Base de datos para herramienta\\promt.txt": {
+      "total_words": 2352,
+      "unique_words": 782,
+      "ttr": 0.3324829931972789
+    },
+    "Base de datos para herramienta\\txt_extraidos\\Ejemplo de entregable al cliente de consulta a persona natural plan cumplimiento.txt": {
+      "total_words": 5235,
+      "unique_words": 791,
+      "ttr": 0.15109837631327602
+    },
+    "Base de datos para herramienta\\txt_extraidos\\Evaluación de la venta.txt": {
+      "total_words": 594,
+      "unique_words": 307,
+      "ttr": 0.5168350168350169
+    },
+    "Base de datos para herramienta\\txt_extraidos\\Plantilla propuesta cumplimiento.txt": {
+      "total_words": 1997,
+      "unique_words": 486,
+      "ttr": 0.24336504757135705
+    },
+    "Base de datos para herramienta\\txt_extraidos\\Plantilla propuesta validación.txt": {
+      "total_words": 871,
+      "unique_words": 363,
+      "ttr": 0.41676234213547647
+    },
+    "Base de datos para herramienta\\txt_extraidos\\Playbook de Evaluación (EVA) - Tusdatos.co.txt": {
+      "total_words": 5327,
+      "unique_words": 1551,
+      "ttr": 0.2911582504223766
+    },
+    "Base de datos para herramienta\\txt_extraidos\\PROPUESTA DE VALOR.txt": {
+      "total_words": 175,
+      "unique_words": 87,
+      "ttr": 0.49714285714285716
+    },
+    "nuevo.txt": {
+      "total_words": 6,
+      "unique_words": 4,
+      "ttr": 0.6666666666666666
+    }
+  },
+  "complexity_stats": {
+    "avg_words_per_sentence": 27.350936967632027,
+    "avg_word_length": 6.043907876524802,
+    "lexical_density": 7.063967611336033
+  },
+  "correlation_matrix": {
+    "longitud": {
+      "longitud": 1.0,
+      "num_words": 0.938,
+      "avg_word_length": -0.014
+    },
+    "num_words": {
+      "longitud": 0.938,
+      "num_words": 1.0,
+      "avg_word_length": -0.112
+    },
+    "avg_word_length": {
+      "longitud": -0.014,
+      "num_words": -0.112,
+      "avg_word_length": 1.0
+    }
+  }
+}
